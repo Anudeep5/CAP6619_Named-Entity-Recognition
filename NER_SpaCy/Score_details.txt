@@ -1,0 +1,8824 @@
+Score for file: 100130
+Tag: ROUTE
+Precision: 1.0
+Recall: 0.6
+F1-Score: 0.7499999999999999
+
+Tag: REASON
+Precision: 0.3333333333333333
+Recall: 0.25
+F1-Score: 0.28571428571428575
+
+Tag: STRENGTH
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: ADE
+Precision: 0.5
+Recall: 0.16666666666666666
+F1-Score: 0.25
+
+Tag: DURATION
+Precision: 0
+Recall: 0.0
+F1-Score: 0
+
+Tag: DRUG
+Precision: 0.8571428571428571
+Recall: 0.6923076923076923
+F1-Score: 0.7659574468085107
+
+Tag: FORM
+Precision: 0.5
+Recall: 0.5
+F1-Score: 0.5
+
+Tag: FREQUENCY
+Precision: 1.0
+Recall: 0.7142857142857143
+F1-Score: 0.8333333333333333
+
+---------------
+Score for file: 100509
+Tag: DOSAGE
+Precision: 0.7777777777777778
+Recall: 0.5833333333333334
+F1-Score: 0.6666666666666666
+
+Tag: ROUTE
+Precision: 0.85
+Recall: 0.8947368421052632
+F1-Score: 0.8717948717948718
+
+Tag: REASON
+Precision: 0.4
+Recall: 0.4
+F1-Score: 0.4000000000000001
+
+Tag: STRENGTH
+Precision: 0.7692307692307693
+Recall: 0.8333333333333334
+F1-Score: 0.8
+
+Tag: ADE
+Precision: 1.0
+Recall: 0.5
+F1-Score: 0.6666666666666666
+
+Tag: DURATION
+Precision: 1.0
+Recall: 0.75
+F1-Score: 0.8571428571428571
+
+Tag: DRUG
+Precision: 0.9473684210526315
+Recall: 0.8
+F1-Score: 0.8674698795180723
+
+Tag: FORM
+Precision: 1.0
+Recall: 0.5
+F1-Score: 0.6666666666666666
+
+Tag: FREQUENCY
+Precision: 1.0
+Recall: 0.8461538461538461
+F1-Score: 0.9166666666666666
+
+---------------
+Score for file: 100511
+Tag: DOSAGE
+Precision: 0.0
+Recall: 0.0
+F1-Score: 0
+
+Tag: REASON
+Precision: 0.3333333333333333
+Recall: 0.3333333333333333
+F1-Score: 0.3333333333333333
+
+Tag: STRENGTH
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: DRUG
+Precision: 0.9
+Recall: 0.9
+F1-Score: 0.9
+
+Tag: FORM
+Precision: 1.0
+Recall: 0.3333333333333333
+F1-Score: 0.5
+
+Tag: FREQUENCY
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+---------------
+Score for file: 100549
+Tag: DOSAGE
+Precision: 1.0
+Recall: 0.9090909090909091
+F1-Score: 0.9523809523809523
+
+Tag: ROUTE
+Precision: 0.9375
+Recall: 1.0
+F1-Score: 0.967741935483871
+
+Tag: REASON
+Precision: 0.3333333333333333
+Recall: 0.2727272727272727
+F1-Score: 0.3
+
+Tag: STRENGTH
+Precision: 1.0
+Recall: 0.9166666666666666
+F1-Score: 0.9565217391304348
+
+Tag: ADE
+Precision: 0.8333333333333334
+Recall: 0.7142857142857143
+F1-Score: 0.7692307692307692
+
+Tag: DURATION
+Precision: 0.6666666666666666
+Recall: 1.0
+F1-Score: 0.8
+
+Tag: DRUG
+Precision: 1.0
+Recall: 0.7368421052631579
+F1-Score: 0.8484848484848484
+
+Tag: FORM
+Precision: 0.9545454545454546
+Recall: 0.875
+F1-Score: 0.9130434782608695
+
+Tag: FREQUENCY
+Precision: 0.8888888888888888
+Recall: 0.8
+F1-Score: 0.8421052631578948
+
+---------------
+Score for file: 100759
+Tag: DOSAGE
+Precision: 0.8571428571428571
+Recall: 1.0
+F1-Score: 0.923076923076923
+
+Tag: ROUTE
+Precision: 0.9230769230769231
+Recall: 0.8
+F1-Score: 0.8571428571428571
+
+Tag: REASON
+Precision: 1.0
+Recall: 0.75
+F1-Score: 0.8571428571428571
+
+Tag: STRENGTH
+Precision: 1.0
+Recall: 0.9523809523809523
+F1-Score: 0.975609756097561
+
+Tag: ADE
+Precision: 0
+Recall: 0.0
+F1-Score: 0
+
+Tag: DRUG
+Precision: 0.972972972972973
+Recall: 0.8
+F1-Score: 0.8780487804878049
+
+Tag: FORM
+Precision: 0.8181818181818182
+Recall: 0.782608695652174
+F1-Score: 0.8
+
+Tag: FREQUENCY
+Precision: 0.9333333333333333
+Recall: 0.7368421052631579
+F1-Score: 0.8235294117647058
+
+---------------
+Score for file: 101099
+Tag: DOSAGE
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: ROUTE
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: REASON
+Precision: 0.6
+Recall: 0.42857142857142855
+F1-Score: 0.5
+
+Tag: STRENGTH
+Precision: 1.0
+Recall: 0.9655172413793104
+F1-Score: 0.9824561403508771
+
+Tag: ADE
+Precision: 0.0
+Recall: 0
+F1-Score: 0
+
+Tag: DRUG
+Precision: 0.9230769230769231
+Recall: 0.8780487804878049
+F1-Score: 0.9
+
+Tag: FORM
+Precision: 0.8421052631578947
+Recall: 0.8
+F1-Score: 0.8205128205128205
+
+Tag: FREQUENCY
+Precision: 0.8888888888888888
+Recall: 0.7272727272727273
+F1-Score: 0.7999999999999999
+
+---------------
+Score for file: 101110
+Tag: DOSAGE
+Precision: 1.0
+Recall: 0.6
+F1-Score: 0.7499999999999999
+
+Tag: ROUTE
+Precision: 0.95
+Recall: 1.0
+F1-Score: 0.9743589743589743
+
+Tag: REASON
+Precision: 0.6470588235294118
+Recall: 0.5789473684210527
+F1-Score: 0.6111111111111113
+
+Tag: STRENGTH
+Precision: 0.9444444444444444
+Recall: 0.8947368421052632
+F1-Score: 0.918918918918919
+
+Tag: ADE
+Precision: 0.0
+Recall: 0
+F1-Score: 0
+
+Tag: DURATION
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: DRUG
+Precision: 0.9428571428571428
+Recall: 0.75
+F1-Score: 0.8354430379746834
+
+Tag: FORM
+Precision: 0.5
+Recall: 0.6666666666666666
+F1-Score: 0.5714285714285715
+
+Tag: FREQUENCY
+Precision: 0.9583333333333334
+Recall: 0.8518518518518519
+F1-Score: 0.9019607843137256
+
+---------------
+Score for file: 101161
+Tag: DOSAGE
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: ROUTE
+Precision: 0.75
+Recall: 1.0
+F1-Score: 0.8571428571428571
+
+Tag: REASON
+Precision: 0
+Recall: 0.0
+F1-Score: 0
+
+Tag: STRENGTH
+Precision: 0.9
+Recall: 0.8181818181818182
+F1-Score: 0.8571428571428572
+
+Tag: ADE
+Precision: 0.0
+Recall: 0
+F1-Score: 0
+
+Tag: DRUG
+Precision: 0.9666666666666667
+Recall: 1.0
+F1-Score: 0.983050847457627
+
+Tag: FORM
+Precision: 1.0
+Recall: 0.8333333333333334
+F1-Score: 0.9090909090909091
+
+Tag: FREQUENCY
+Precision: 0.6666666666666666
+Recall: 0.5
+F1-Score: 0.5714285714285715
+
+---------------
+Score for file: 101739
+Tag: DOSAGE
+Precision: 0.0
+Recall: 0
+F1-Score: 0
+
+Tag: DRUG
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: ROUTE
+Precision: 0
+Recall: 0.0
+F1-Score: 0
+
+Tag: FREQUENCY
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+---------------
+Score for file: 101786
+Tag: DOSAGE
+Precision: 0.35294117647058826
+Recall: 0.8571428571428571
+F1-Score: 0.5
+
+Tag: ROUTE
+Precision: 0.8
+Recall: 0.8888888888888888
+F1-Score: 0.8421052631578948
+
+Tag: REASON
+Precision: 0.3333333333333333
+Recall: 0.1111111111111111
+F1-Score: 0.16666666666666666
+
+Tag: STRENGTH
+Precision: 0.8695652173913043
+Recall: 0.9090909090909091
+F1-Score: 0.888888888888889
+
+Tag: ADE
+Precision: 0.0
+Recall: 0
+F1-Score: 0
+
+Tag: DURATION
+Precision: 1.0
+Recall: 0.5
+F1-Score: 0.6666666666666666
+
+Tag: DRUG
+Precision: 0.9705882352941176
+Recall: 0.868421052631579
+F1-Score: 0.9166666666666667
+
+Tag: FORM
+Precision: 0.9629629629629629
+Recall: 0.9285714285714286
+F1-Score: 0.9454545454545454
+
+Tag: FREQUENCY
+Precision: 0.6875
+Recall: 0.5789473684210527
+F1-Score: 0.6285714285714286
+
+---------------
+Score for file: 102051
+Tag: DOSAGE
+Precision: 1.0
+Recall: 0.8888888888888888
+F1-Score: 0.9411764705882353
+
+Tag: ROUTE
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: REASON
+Precision: 0.25
+Recall: 0.16666666666666666
+F1-Score: 0.2
+
+Tag: STRENGTH
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: DURATION
+Precision: 0.0
+Recall: 0
+F1-Score: 0
+
+Tag: DRUG
+Precision: 0.9523809523809523
+Recall: 0.9090909090909091
+F1-Score: 0.9302325581395349
+
+Tag: FORM
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: FREQUENCY
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+---------------
+Score for file: 102068
+Tag: DOSAGE
+Precision: 0.5
+Recall: 1.0
+F1-Score: 0.6666666666666666
+
+Tag: ROUTE
+Precision: 0.9411764705882353
+Recall: 1.0
+F1-Score: 0.9696969696969697
+
+Tag: REASON
+Precision: 0.7272727272727273
+Recall: 0.6153846153846154
+F1-Score: 0.6666666666666667
+
+Tag: STRENGTH
+Precision: 0.9411764705882353
+Recall: 0.9411764705882353
+F1-Score: 0.9411764705882353
+
+Tag: ADE
+Precision: 0.3333333333333333
+Recall: 0.5
+F1-Score: 0.4
+
+Tag: DURATION
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: DRUG
+Precision: 0.9056603773584906
+Recall: 0.75
+F1-Score: 0.8205128205128206
+
+Tag: FORM
+Precision: 1.0
+Recall: 0.6785714285714286
+F1-Score: 0.8085106382978724
+
+Tag: FREQUENCY
+Precision: 0.8
+Recall: 0.5
+F1-Score: 0.6153846153846154
+
+---------------
+Score for file: 102357
+Tag: DOSAGE
+Precision: 1.0
+Recall: 0.9
+F1-Score: 0.9473684210526316
+
+Tag: ROUTE
+Precision: 0.9375
+Recall: 1.0
+F1-Score: 0.967741935483871
+
+Tag: REASON
+Precision: 0.5
+Recall: 0.3
+F1-Score: 0.37499999999999994
+
+Tag: STRENGTH
+Precision: 0.9565217391304348
+Recall: 0.9166666666666666
+F1-Score: 0.9361702127659574
+
+Tag: ADE
+Precision: 0.5
+Recall: 0.5
+F1-Score: 0.5
+
+Tag: DURATION
+Precision: 0
+Recall: 0.0
+F1-Score: 0
+
+Tag: DRUG
+Precision: 0.9743589743589743
+Recall: 0.8085106382978723
+F1-Score: 0.8837209302325582
+
+Tag: FORM
+Precision: 0.9090909090909091
+Recall: 0.9523809523809523
+F1-Score: 0.9302325581395349
+
+Tag: FREQUENCY
+Precision: 0.9473684210526315
+Recall: 0.8571428571428571
+F1-Score: 0.9
+
+---------------
+Score for file: 102903
+Tag: DOSAGE
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: ROUTE
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: REASON
+Precision: 1.0
+Recall: 0.5
+F1-Score: 0.6666666666666666
+
+Tag: STRENGTH
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: ADE
+Precision: 0.0
+Recall: 0.0
+F1-Score: 0
+
+Tag: DURATION
+Precision: 1.0
+Recall: 0.8
+F1-Score: 0.888888888888889
+
+Tag: DRUG
+Precision: 0.8518518518518519
+Recall: 0.8214285714285714
+F1-Score: 0.8363636363636364
+
+Tag: FORM
+Precision: 1.0
+Recall: 0.9473684210526315
+F1-Score: 0.972972972972973
+
+Tag: FREQUENCY
+Precision: 0.6666666666666666
+Recall: 1.0
+F1-Score: 0.8
+
+---------------
+Score for file: 102913
+Tag: DOSAGE
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: ROUTE
+Precision: 0.9
+Recall: 0.9
+F1-Score: 0.9
+
+Tag: REASON
+Precision: 0.5
+Recall: 0.2
+F1-Score: 0.28571428571428575
+
+Tag: STRENGTH
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: ADE
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: DURATION
+Precision: 0.5
+Recall: 1.0
+F1-Score: 0.6666666666666666
+
+Tag: DRUG
+Precision: 0.9705882352941176
+Recall: 0.868421052631579
+F1-Score: 0.9166666666666667
+
+Tag: FORM
+Precision: 1.0
+Recall: 0.8571428571428571
+F1-Score: 0.923076923076923
+
+Tag: FREQUENCY
+Precision: 0.8461538461538461
+Recall: 0.7857142857142857
+F1-Score: 0.8148148148148148
+
+---------------
+Score for file: 103430
+Tag: DOSAGE
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: ROUTE
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: REASON
+Precision: 0.3333333333333333
+Recall: 0.125
+F1-Score: 0.18181818181818182
+
+Tag: STRENGTH
+Precision: 0.9545454545454546
+Recall: 1.0
+F1-Score: 0.9767441860465117
+
+Tag: ADE
+Precision: 1.0
+Recall: 0.6666666666666666
+F1-Score: 0.8
+
+Tag: DURATION
+Precision: 0.6666666666666666
+Recall: 1.0
+F1-Score: 0.8
+
+Tag: DRUG
+Precision: 0.9333333333333333
+Recall: 0.875
+F1-Score: 0.9032258064516129
+
+Tag: FORM
+Precision: 1.0
+Recall: 0.9655172413793104
+F1-Score: 0.9824561403508771
+
+Tag: FREQUENCY
+Precision: 0.7894736842105263
+Recall: 1.0
+F1-Score: 0.8823529411764706
+
+---------------
+Score for file: 103480
+Tag: DOSAGE
+Precision: 0.9411764705882353
+Recall: 0.8421052631578947
+F1-Score: 0.8888888888888888
+
+Tag: ROUTE
+Precision: 0.8235294117647058
+Recall: 0.875
+F1-Score: 0.8484848484848485
+
+Tag: REASON
+Precision: 0.5333333333333333
+Recall: 0.4444444444444444
+F1-Score: 0.4848484848484848
+
+Tag: STRENGTH
+Precision: 0.6666666666666666
+Recall: 0.9230769230769231
+F1-Score: 0.7741935483870968
+
+Tag: ADE
+Precision: 0
+Recall: 0.0
+F1-Score: 0
+
+Tag: DURATION
+Precision: 0.0
+Recall: 0
+F1-Score: 0
+
+Tag: DRUG
+Precision: 0.8484848484848485
+Recall: 0.875
+F1-Score: 0.8615384615384615
+
+Tag: FORM
+Precision: 0.8695652173913043
+Recall: 0.9523809523809523
+F1-Score: 0.909090909090909
+
+Tag: FREQUENCY
+Precision: 0.25
+Recall: 0.6666666666666666
+F1-Score: 0.36363636363636365
+
+---------------
+Score for file: 103518
+Tag: DOSAGE
+Precision: 0.0
+Recall: 0
+F1-Score: 0
+
+Tag: ROUTE
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: REASON
+Precision: 0.5
+Recall: 1.0
+F1-Score: 0.6666666666666666
+
+Tag: STRENGTH
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: DRUG
+Precision: 0.9090909090909091
+Recall: 0.967741935483871
+F1-Score: 0.9374999999999999
+
+Tag: FREQUENCY
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+---------------
+Score for file: 103761
+Tag: DOSAGE
+Precision: 0.7916666666666666
+Recall: 0.8260869565217391
+F1-Score: 0.8085106382978724
+
+Tag: ROUTE
+Precision: 0.9047619047619048
+Recall: 0.95
+F1-Score: 0.9268292682926829
+
+Tag: REASON
+Precision: 0.6666666666666666
+Recall: 0.5
+F1-Score: 0.5714285714285715
+
+Tag: STRENGTH
+Precision: 0.975609756097561
+Recall: 0.9523809523809523
+F1-Score: 0.963855421686747
+
+Tag: ADE
+Precision: 0.8333333333333334
+Recall: 0.5555555555555556
+F1-Score: 0.6666666666666667
+
+Tag: DURATION
+Precision: 0.8
+Recall: 0.6666666666666666
+F1-Score: 0.7272727272727272
+
+Tag: DRUG
+Precision: 0.9553571428571429
+Recall: 0.9224137931034483
+F1-Score: 0.9385964912280702
+
+Tag: FORM
+Precision: 0.918918918918919
+Recall: 0.9714285714285714
+F1-Score: 0.9444444444444445
+
+Tag: FREQUENCY
+Precision: 0.8947368421052632
+Recall: 0.85
+F1-Score: 0.8717948717948718
+
+---------------
+Score for file: 103878
+Tag: ROUTE
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: REASON
+Precision: 0.5
+Recall: 0.25
+F1-Score: 0.3333333333333333
+
+Tag: STRENGTH
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: DRUG
+Precision: 1.0
+Recall: 0.8571428571428571
+F1-Score: 0.923076923076923
+
+Tag: FREQUENCY
+Precision: 1.0
+Recall: 0.8333333333333334
+F1-Score: 0.9090909090909091
+
+---------------
+Score for file: 103903
+Tag: DOSAGE
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: ROUTE
+Precision: 1.0
+Recall: 0.8387096774193549
+F1-Score: 0.9122807017543859
+
+Tag: REASON
+Precision: 0.625
+Recall: 0.8333333333333334
+F1-Score: 0.7142857142857143
+
+Tag: STRENGTH
+Precision: 0.85
+Recall: 0.8095238095238095
+F1-Score: 0.8292682926829269
+
+Tag: ADE
+Precision: 0
+Recall: 0.0
+F1-Score: 0
+
+Tag: DRUG
+Precision: 0.8292682926829268
+Recall: 0.8095238095238095
+F1-Score: 0.8192771084337348
+
+Tag: FORM
+Precision: 0.75
+Recall: 0.6923076923076923
+F1-Score: 0.7199999999999999
+
+Tag: FREQUENCY
+Precision: 0.95
+Recall: 0.9047619047619048
+F1-Score: 0.9268292682926829
+
+---------------
+Score for file: 103928
+Tag: DOSAGE
+Precision: 0.8571428571428571
+Recall: 0.8571428571428571
+F1-Score: 0.8571428571428571
+
+Tag: ROUTE
+Precision: 0.8947368421052632
+Recall: 1.0
+F1-Score: 0.9444444444444444
+
+Tag: REASON
+Precision: 0.8666666666666667
+Recall: 0.7222222222222222
+F1-Score: 0.7878787878787877
+
+Tag: STRENGTH
+Precision: 0.9230769230769231
+Recall: 0.9230769230769231
+F1-Score: 0.9230769230769231
+
+Tag: ADE
+Precision: 0.25
+Recall: 0.3333333333333333
+F1-Score: 0.28571428571428575
+
+Tag: DRUG
+Precision: 0.8714285714285714
+Recall: 0.7011494252873564
+F1-Score: 0.7770700636942675
+
+Tag: FORM
+Precision: 1.0
+Recall: 0.96
+F1-Score: 0.9795918367346939
+
+Tag: FREQUENCY
+Precision: 0.8823529411764706
+Recall: 0.8823529411764706
+F1-Score: 0.8823529411764706
+
+---------------
+Score for file: 103930
+Tag: DOSAGE
+Precision: 0.9285714285714286
+Recall: 1.0
+F1-Score: 0.962962962962963
+
+Tag: ROUTE
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: REASON
+Precision: 0.5
+Recall: 0.42857142857142855
+F1-Score: 0.4615384615384615
+
+Tag: STRENGTH
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: ADE
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: DURATION
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: DRUG
+Precision: 0.9666666666666667
+Recall: 0.8529411764705882
+F1-Score: 0.90625
+
+Tag: FORM
+Precision: 0.8888888888888888
+Recall: 0.8571428571428571
+F1-Score: 0.8727272727272727
+
+Tag: FREQUENCY
+Precision: 1.0
+Recall: 0.8235294117647058
+F1-Score: 0.9032258064516129
+
+---------------
+Score for file: 104021
+Tag: DOSAGE
+Precision: 0.9230769230769231
+Recall: 0.8571428571428571
+F1-Score: 0.888888888888889
+
+Tag: ROUTE
+Precision: 0.9545454545454546
+Recall: 1.0
+F1-Score: 0.9767441860465117
+
+Tag: REASON
+Precision: 0.1
+Recall: 0.1
+F1-Score: 0.10000000000000002
+
+Tag: STRENGTH
+Precision: 1.0
+Recall: 0.9444444444444444
+F1-Score: 0.9714285714285714
+
+Tag: ADE
+Precision: 0.5
+Recall: 0.2
+F1-Score: 0.28571428571428575
+
+Tag: DURATION
+Precision: 0.5
+Recall: 1.0
+F1-Score: 0.6666666666666666
+
+Tag: DRUG
+Precision: 0.9464285714285714
+Recall: 0.9298245614035088
+F1-Score: 0.9380530973451328
+
+Tag: FORM
+Precision: 1.0
+Recall: 0.8333333333333334
+F1-Score: 0.9090909090909091
+
+Tag: FREQUENCY
+Precision: 0.96
+Recall: 0.96
+F1-Score: 0.96
+
+---------------
+Score for file: 104140
+Tag: DOSAGE
+Precision: 0.9333333333333333
+Recall: 1.0
+F1-Score: 0.9655172413793104
+
+Tag: ROUTE
+Precision: 1.0
+Recall: 0.9444444444444444
+F1-Score: 0.9714285714285714
+
+Tag: REASON
+Precision: 0.6923076923076923
+Recall: 0.5625
+F1-Score: 0.6206896551724138
+
+Tag: STRENGTH
+Precision: 0.8695652173913043
+Recall: 0.9090909090909091
+F1-Score: 0.888888888888889
+
+Tag: DRUG
+Precision: 0.7894736842105263
+Recall: 0.9375
+F1-Score: 0.8571428571428572
+
+Tag: FORM
+Precision: 0.9629629629629629
+Recall: 0.9629629629629629
+F1-Score: 0.9629629629629629
+
+Tag: FREQUENCY
+Precision: 0.7058823529411765
+Recall: 1.0
+F1-Score: 0.8275862068965517
+
+---------------
+Score for file: 104168
+Tag: DOSAGE
+Precision: 0.8888888888888888
+Recall: 0.8888888888888888
+F1-Score: 0.8888888888888888
+
+Tag: ROUTE
+Precision: 0.9166666666666666
+Recall: 1.0
+F1-Score: 0.9565217391304348
+
+Tag: REASON
+Precision: 1.0
+Recall: 0.7142857142857143
+F1-Score: 0.8333333333333333
+
+Tag: STRENGTH
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: ADE
+Precision: 0.0
+Recall: 0.0
+F1-Score: 0
+
+Tag: DURATION
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: DRUG
+Precision: 0.9666666666666667
+Recall: 1.0
+F1-Score: 0.983050847457627
+
+Tag: FORM
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: FREQUENCY
+Precision: 0.5714285714285714
+Recall: 0.8
+F1-Score: 0.6666666666666666
+
+---------------
+Score for file: 104271
+Tag: DOSAGE
+Precision: 0.75
+Recall: 0.75
+F1-Score: 0.75
+
+Tag: ROUTE
+Precision: 0.8333333333333334
+Recall: 1.0
+F1-Score: 0.9090909090909091
+
+Tag: REASON
+Precision: 0.6111111111111112
+Recall: 0.44
+F1-Score: 0.5116279069767442
+
+Tag: STRENGTH
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: ADE
+Precision: 0.6666666666666666
+Recall: 0.6666666666666666
+F1-Score: 0.6666666666666666
+
+Tag: DURATION
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: DRUG
+Precision: 0.9841269841269841
+Recall: 0.8732394366197183
+F1-Score: 0.9253731343283582
+
+Tag: FORM
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: FREQUENCY
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+---------------
+Score for file: 104390
+Tag: DOSAGE
+Precision: 1.0
+Recall: 0.75
+F1-Score: 0.8571428571428571
+
+Tag: ROUTE
+Precision: 1.0
+Recall: 0.75
+F1-Score: 0.8571428571428571
+
+Tag: REASON
+Precision: 1.0
+Recall: 0.4666666666666667
+F1-Score: 0.6363636363636364
+
+Tag: STRENGTH
+Precision: 0
+Recall: 0.0
+F1-Score: 0
+
+Tag: ADE
+Precision: 0.75
+Recall: 0.375
+F1-Score: 0.5
+
+Tag: DURATION
+Precision: 0.0
+Recall: 0.0
+F1-Score: 0
+
+Tag: DRUG
+Precision: 1.0
+Recall: 0.9772727272727273
+F1-Score: 0.9885057471264368
+
+Tag: FORM
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: FREQUENCY
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+---------------
+Score for file: 104446
+Tag: DOSAGE
+Precision: 1.0
+Recall: 0.9411764705882353
+F1-Score: 0.9696969696969697
+
+Tag: ROUTE
+Precision: 0.9444444444444444
+Recall: 0.9444444444444444
+F1-Score: 0.9444444444444444
+
+Tag: REASON
+Precision: 0.5454545454545454
+Recall: 0.4
+F1-Score: 0.4615384615384615
+
+Tag: STRENGTH
+Precision: 0.9117647058823529
+Recall: 0.96875
+F1-Score: 0.9393939393939394
+
+Tag: ADE
+Precision: 0
+Recall: 0.0
+F1-Score: 0
+
+Tag: DURATION
+Precision: 0.75
+Recall: 0.5
+F1-Score: 0.6
+
+Tag: DRUG
+Precision: 0.90625
+Recall: 0.8285714285714286
+F1-Score: 0.8656716417910447
+
+Tag: FORM
+Precision: 0.9705882352941176
+Recall: 0.9705882352941176
+F1-Score: 0.9705882352941176
+
+Tag: FREQUENCY
+Precision: 0.8636363636363636
+Recall: 1.0
+F1-Score: 0.9268292682926829
+
+---------------
+Score for file: 104549
+Tag: DOSAGE
+Precision: 0.8888888888888888
+Recall: 0.9230769230769231
+F1-Score: 0.9056603773584906
+
+Tag: ROUTE
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: REASON
+Precision: 0.65
+Recall: 0.5416666666666666
+F1-Score: 0.5909090909090908
+
+Tag: STRENGTH
+Precision: 1.0
+Recall: 0.85
+F1-Score: 0.9189189189189189
+
+Tag: ADE
+Precision: 0.0
+Recall: 0.0
+F1-Score: 0
+
+Tag: DURATION
+Precision: 0.6666666666666666
+Recall: 0.5
+F1-Score: 0.5714285714285715
+
+Tag: DRUG
+Precision: 0.9324324324324325
+Recall: 0.69
+F1-Score: 0.793103448275862
+
+Tag: FORM
+Precision: 0.9649122807017544
+Recall: 0.9482758620689655
+F1-Score: 0.9565217391304347
+
+Tag: FREQUENCY
+Precision: 0.9473684210526315
+Recall: 0.9473684210526315
+F1-Score: 0.9473684210526315
+
+---------------
+Score for file: 104665
+Tag: DOSAGE
+Precision: 0.875
+Recall: 0.875
+F1-Score: 0.875
+
+Tag: ROUTE
+Precision: 0.9230769230769231
+Recall: 0.9230769230769231
+F1-Score: 0.9230769230769231
+
+Tag: REASON
+Precision: 0.8571428571428571
+Recall: 0.42857142857142855
+F1-Score: 0.5714285714285714
+
+Tag: STRENGTH
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: ADE
+Precision: 0.0
+Recall: 0.0
+F1-Score: 0
+
+Tag: DURATION
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: DRUG
+Precision: 0.9473684210526315
+Recall: 0.9473684210526315
+F1-Score: 0.9473684210526315
+
+Tag: FORM
+Precision: 0.9444444444444444
+Recall: 0.9444444444444444
+F1-Score: 0.9444444444444444
+
+Tag: FREQUENCY
+Precision: 0.875
+Recall: 0.7
+F1-Score: 0.7777777777777777
+
+---------------
+Score for file: 104757
+Tag: DOSAGE
+Precision: 0.9411764705882353
+Recall: 1.0
+F1-Score: 0.9696969696969697
+
+Tag: ROUTE
+Precision: 0.9642857142857143
+Recall: 0.9642857142857143
+F1-Score: 0.9642857142857143
+
+Tag: REASON
+Precision: 0.6923076923076923
+Recall: 0.391304347826087
+F1-Score: 0.5
+
+Tag: STRENGTH
+Precision: 1.0
+Recall: 0.9333333333333333
+F1-Score: 0.9655172413793104
+
+Tag: ADE
+Precision: 0.0
+Recall: 0.0
+F1-Score: 0
+
+Tag: DURATION
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: DRUG
+Precision: 0.9545454545454546
+Recall: 0.9130434782608695
+F1-Score: 0.9333333333333332
+
+Tag: FORM
+Precision: 1.0
+Recall: 0.9166666666666666
+F1-Score: 0.9565217391304348
+
+Tag: FREQUENCY
+Precision: 1.0
+Recall: 0.9565217391304348
+F1-Score: 0.9777777777777777
+
+---------------
+Score for file: 104788
+Tag: ROUTE
+Precision: 0.0
+Recall: 0.0
+F1-Score: 0
+
+Tag: REASON
+Precision: 0.6666666666666666
+Recall: 0.25
+F1-Score: 0.36363636363636365
+
+Tag: STRENGTH
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: ADE
+Precision: 0.0
+Recall: 0.0
+F1-Score: 0
+
+Tag: DURATION
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: DRUG
+Precision: 1.0
+Recall: 0.7058823529411765
+F1-Score: 0.8275862068965517
+
+Tag: FREQUENCY
+Precision: 0.0
+Recall: 0.0
+F1-Score: 0
+
+---------------
+Score for file: 104929
+Tag: DOSAGE
+Precision: 0.7777777777777778
+Recall: 0.875
+F1-Score: 0.823529411764706
+
+Tag: ROUTE
+Precision: 0.9
+Recall: 0.9
+F1-Score: 0.9
+
+Tag: REASON
+Precision: 0.4166666666666667
+Recall: 0.5882352941176471
+F1-Score: 0.48780487804878053
+
+Tag: STRENGTH
+Precision: 0.8
+Recall: 0.8888888888888888
+F1-Score: 0.8421052631578948
+
+Tag: ADE
+Precision: 0.5
+Recall: 0.25
+F1-Score: 0.3333333333333333
+
+Tag: DURATION
+Precision: 1.0
+Recall: 0.5
+F1-Score: 0.6666666666666666
+
+Tag: DRUG
+Precision: 0.9411764705882353
+Recall: 0.8421052631578947
+F1-Score: 0.8888888888888888
+
+Tag: FORM
+Precision: 0.875
+Recall: 0.8235294117647058
+F1-Score: 0.8484848484848485
+
+Tag: FREQUENCY
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+---------------
+Score for file: 104948
+Tag: DOSAGE
+Precision: 0.9411764705882353
+Recall: 0.6153846153846154
+F1-Score: 0.744186046511628
+
+Tag: ROUTE
+Precision: 0.9565217391304348
+Recall: 1.0
+F1-Score: 0.9777777777777777
+
+Tag: REASON
+Precision: 0.75
+Recall: 0.2727272727272727
+F1-Score: 0.39999999999999997
+
+Tag: STRENGTH
+Precision: 0.96
+Recall: 0.8888888888888888
+F1-Score: 0.923076923076923
+
+Tag: ADE
+Precision: 0.4
+Recall: 0.4
+F1-Score: 0.4000000000000001
+
+Tag: DURATION
+Precision: 0.5
+Recall: 0.375
+F1-Score: 0.42857142857142855
+
+Tag: DRUG
+Precision: 0.972972972972973
+Recall: 0.8780487804878049
+F1-Score: 0.923076923076923
+
+Tag: FORM
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: FREQUENCY
+Precision: 0.8
+Recall: 0.6666666666666666
+F1-Score: 0.7272727272727272
+
+---------------
+Score for file: 105088
+Tag: DOSAGE
+Precision: 0.9696969696969697
+Recall: 0.9696969696969697
+F1-Score: 0.9696969696969697
+
+Tag: ROUTE
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: REASON
+Precision: 0.6842105263157895
+Recall: 0.6190476190476191
+F1-Score: 0.6500000000000001
+
+Tag: STRENGTH
+Precision: 0.9411764705882353
+Recall: 0.8888888888888888
+F1-Score: 0.9142857142857143
+
+Tag: ADE
+Precision: 0
+Recall: 0.0
+F1-Score: 0
+
+Tag: DURATION
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: DRUG
+Precision: 0.9609375
+Recall: 0.727810650887574
+F1-Score: 0.8282828282828284
+
+Tag: FORM
+Precision: 0.9402985074626866
+Recall: 0.9
+F1-Score: 0.9197080291970803
+
+Tag: FREQUENCY
+Precision: 0.8125
+Recall: 0.6842105263157895
+F1-Score: 0.742857142857143
+
+---------------
+Score for file: 105383
+Tag: DOSAGE
+Precision: 0.0
+Recall: 0.0
+F1-Score: 0
+
+Tag: ROUTE
+Precision: 0.2
+Recall: 0.1
+F1-Score: 0.13333333333333333
+
+Tag: REASON
+Precision: 0.0
+Recall: 0.0
+F1-Score: 0
+
+Tag: STRENGTH
+Precision: 1.0
+Recall: 0.5
+F1-Score: 0.6666666666666666
+
+Tag: ADE
+Precision: 0.0
+Recall: 0.0
+F1-Score: 0
+
+Tag: DURATION
+Precision: 0.0
+Recall: 0
+F1-Score: 0
+
+Tag: DRUG
+Precision: 1.0
+Recall: 0.6666666666666666
+F1-Score: 0.8
+
+Tag: FORM
+Precision: 1.0
+Recall: 0.25
+F1-Score: 0.4
+
+Tag: FREQUENCY
+Precision: 0.0
+Recall: 0.0
+F1-Score: 0
+
+---------------
+Score for file: 105444
+Tag: DOSAGE
+Precision: 0.8333333333333334
+Recall: 0.8823529411764706
+F1-Score: 0.8571428571428571
+
+Tag: ROUTE
+Precision: 1.0
+Recall: 0.8947368421052632
+F1-Score: 0.9444444444444444
+
+Tag: REASON
+Precision: 0.6
+Recall: 0.5625
+F1-Score: 0.5806451612903225
+
+Tag: STRENGTH
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: ADE
+Precision: 0.3333333333333333
+Recall: 0.25
+F1-Score: 0.28571428571428575
+
+Tag: DURATION
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: DRUG
+Precision: 1.0
+Recall: 0.953125
+F1-Score: 0.976
+
+Tag: FORM
+Precision: 0.9310344827586207
+Recall: 0.9642857142857143
+F1-Score: 0.9473684210526316
+
+Tag: FREQUENCY
+Precision: 0.7894736842105263
+Recall: 0.5769230769230769
+F1-Score: 0.6666666666666666
+
+---------------
+Score for file: 105446
+Tag: DOSAGE
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: ROUTE
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: REASON
+Precision: 0.4
+Recall: 0.4
+F1-Score: 0.4000000000000001
+
+Tag: STRENGTH
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: ADE
+Precision: 0.0
+Recall: 0.0
+F1-Score: 0
+
+Tag: DRUG
+Precision: 0.7916666666666666
+Recall: 0.95
+F1-Score: 0.8636363636363635
+
+Tag: FORM
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: FREQUENCY
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+---------------
+Score for file: 105475
+Tag: DOSAGE
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: ROUTE
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: REASON
+Precision: 1.0
+Recall: 0.5
+F1-Score: 0.6666666666666666
+
+Tag: STRENGTH
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: ADE
+Precision: 0.0
+Recall: 0
+F1-Score: 0
+
+Tag: DRUG
+Precision: 0.9772727272727273
+Recall: 0.9148936170212766
+F1-Score: 0.945054945054945
+
+Tag: FORM
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: FREQUENCY
+Precision: 0.9
+Recall: 0.9
+F1-Score: 0.9
+
+---------------
+Score for file: 105537
+Tag: DOSAGE
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: ROUTE
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: REASON
+Precision: 0.4
+Recall: 0.26666666666666666
+F1-Score: 0.32
+
+Tag: STRENGTH
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: ADE
+Precision: 0.16666666666666666
+Recall: 0.3333333333333333
+F1-Score: 0.2222222222222222
+
+Tag: DURATION
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: DRUG
+Precision: 0.9615384615384616
+Recall: 0.9433962264150944
+F1-Score: 0.9523809523809524
+
+Tag: FORM
+Precision: 0.9375
+Recall: 0.8823529411764706
+F1-Score: 0.9090909090909091
+
+Tag: FREQUENCY
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+---------------
+Score for file: 105579
+Tag: DOSAGE
+Precision: 0.8461538461538461
+Recall: 0.9166666666666666
+F1-Score: 0.8799999999999999
+
+Tag: ROUTE
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: REASON
+Precision: 0.6666666666666666
+Recall: 0.5
+F1-Score: 0.5714285714285715
+
+Tag: STRENGTH
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: ADE
+Precision: 1.0
+Recall: 0.5
+F1-Score: 0.6666666666666666
+
+Tag: DRUG
+Precision: 0.8857142857142857
+Recall: 0.8378378378378378
+F1-Score: 0.8611111111111112
+
+Tag: FORM
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: FREQUENCY
+Precision: 1.0
+Recall: 0.9545454545454546
+F1-Score: 0.9767441860465117
+
+---------------
+Score for file: 105585
+Tag: DOSAGE
+Precision: 1.0
+Recall: 0.8666666666666667
+F1-Score: 0.9285714285714286
+
+Tag: ROUTE
+Precision: 1.0
+Recall: 0.9375
+F1-Score: 0.967741935483871
+
+Tag: REASON
+Precision: 0.7692307692307693
+Recall: 0.5882352941176471
+F1-Score: 0.6666666666666667
+
+Tag: STRENGTH
+Precision: 0.96875
+Recall: 0.9117647058823529
+F1-Score: 0.9393939393939394
+
+Tag: ADE
+Precision: 0.0
+Recall: 0.0
+F1-Score: 0
+
+Tag: DURATION
+Precision: 0.0
+Recall: 0
+F1-Score: 0
+
+Tag: DRUG
+Precision: 0.9836065573770492
+Recall: 0.9375
+F1-Score: 0.96
+
+Tag: FORM
+Precision: 0.96
+Recall: 1.0
+F1-Score: 0.9795918367346939
+
+Tag: FREQUENCY
+Precision: 0.8846153846153846
+Recall: 0.8846153846153846
+F1-Score: 0.8846153846153846
+
+---------------
+Score for file: 105605
+Tag: DOSAGE
+Precision: 0.8461538461538461
+Recall: 0.8461538461538461
+F1-Score: 0.8461538461538461
+
+Tag: ROUTE
+Precision: 1.0
+Recall: 0.9375
+F1-Score: 0.967741935483871
+
+Tag: REASON
+Precision: 0.7857142857142857
+Recall: 0.6875
+F1-Score: 0.7333333333333334
+
+Tag: STRENGTH
+Precision: 0.9411764705882353
+Recall: 1.0
+F1-Score: 0.9696969696969697
+
+Tag: ADE
+Precision: 0.0
+Recall: 0
+F1-Score: 0
+
+Tag: DURATION
+Precision: 0.0
+Recall: 0.0
+F1-Score: 0
+
+Tag: DRUG
+Precision: 0.9607843137254902
+Recall: 0.98
+F1-Score: 0.9702970297029702
+
+Tag: FORM
+Precision: 0.9523809523809523
+Recall: 1.0
+F1-Score: 0.975609756097561
+
+Tag: FREQUENCY
+Precision: 0.5454545454545454
+Recall: 1.0
+F1-Score: 0.7058823529411764
+
+---------------
+Score for file: 105885
+Tag: DOSAGE
+Precision: 0.5
+Recall: 1.0
+F1-Score: 0.6666666666666666
+
+Tag: ROUTE
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: REASON
+Precision: 0.6666666666666666
+Recall: 1.0
+F1-Score: 0.8
+
+Tag: STRENGTH
+Precision: 1.0
+Recall: 0.3333333333333333
+F1-Score: 0.5
+
+Tag: ADE
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: DRUG
+Precision: 0.9545454545454546
+Recall: 0.84
+F1-Score: 0.8936170212765958
+
+Tag: FORM
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: FREQUENCY
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+---------------
+Score for file: 106015
+Tag: DOSAGE
+Precision: 0.7575757575757576
+Recall: 0.7575757575757576
+F1-Score: 0.7575757575757576
+
+Tag: ROUTE
+Precision: 0.9354838709677419
+Recall: 0.9666666666666667
+F1-Score: 0.9508196721311476
+
+Tag: REASON
+Precision: 0.7272727272727273
+Recall: 0.5
+F1-Score: 0.5925925925925926
+
+Tag: STRENGTH
+Precision: 0.9047619047619048
+Recall: 0.9743589743589743
+F1-Score: 0.9382716049382716
+
+Tag: ADE
+Precision: 0.625
+Recall: 0.5555555555555556
+F1-Score: 0.5882352941176471
+
+Tag: DURATION
+Precision: 0.0
+Recall: 0
+F1-Score: 0
+
+Tag: DRUG
+Precision: 0.8620689655172413
+Recall: 0.646551724137931
+F1-Score: 0.7389162561576355
+
+Tag: FORM
+Precision: 0.9607843137254902
+Recall: 0.7903225806451613
+F1-Score: 0.8672566371681416
+
+Tag: FREQUENCY
+Precision: 0.8387096774193549
+Recall: 0.8666666666666667
+F1-Score: 0.8524590163934426
+
+---------------
+Score for file: 106076
+Tag: DOSAGE
+Precision: 0.9090909090909091
+Recall: 0.9090909090909091
+F1-Score: 0.9090909090909091
+
+Tag: ROUTE
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: REASON
+Precision: 0.5714285714285714
+Recall: 0.2222222222222222
+F1-Score: 0.32
+
+Tag: STRENGTH
+Precision: 0.8181818181818182
+Recall: 0.9
+F1-Score: 0.8571428571428572
+
+Tag: ADE
+Precision: 0.0
+Recall: 0.0
+F1-Score: 0
+
+Tag: DURATION
+Precision: 0.6666666666666666
+Recall: 0.6666666666666666
+F1-Score: 0.6666666666666666
+
+Tag: DRUG
+Precision: 0.8717948717948718
+Recall: 0.8717948717948718
+F1-Score: 0.8717948717948718
+
+Tag: FORM
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: FREQUENCY
+Precision: 1.0
+Recall: 0.9
+F1-Score: 0.9473684210526316
+
+---------------
+Score for file: 106334
+Tag: DOSAGE
+Precision: 0.9166666666666666
+Recall: 1.0
+F1-Score: 0.9565217391304348
+
+Tag: ROUTE
+Precision: 0.9523809523809523
+Recall: 1.0
+F1-Score: 0.975609756097561
+
+Tag: REASON
+Precision: 0.7692307692307693
+Recall: 0.4166666666666667
+F1-Score: 0.5405405405405406
+
+Tag: STRENGTH
+Precision: 0.85
+Recall: 1.0
+F1-Score: 0.9189189189189189
+
+Tag: ADE
+Precision: 0.5
+Recall: 0.09090909090909091
+F1-Score: 0.15384615384615385
+
+Tag: DURATION
+Precision: 0.0
+Recall: 0
+F1-Score: 0
+
+Tag: DRUG
+Precision: 0.9375
+Recall: 0.9183673469387755
+F1-Score: 0.9278350515463918
+
+Tag: FORM
+Precision: 0.9444444444444444
+Recall: 0.9444444444444444
+F1-Score: 0.9444444444444444
+
+Tag: FREQUENCY
+Precision: 0.5454545454545454
+Recall: 0.6666666666666666
+F1-Score: 0.6
+
+---------------
+Score for file: 106349
+Tag: DOSAGE
+Precision: 0.875
+Recall: 0.9655172413793104
+F1-Score: 0.9180327868852458
+
+Tag: ROUTE
+Precision: 1.0
+Recall: 0.9629629629629629
+F1-Score: 0.9811320754716981
+
+Tag: REASON
+Precision: 0.7142857142857143
+Recall: 0.4166666666666667
+F1-Score: 0.5263157894736842
+
+Tag: STRENGTH
+Precision: 0.967741935483871
+Recall: 0.8823529411764706
+F1-Score: 0.923076923076923
+
+Tag: ADE
+Precision: 0.0
+Recall: 0
+F1-Score: 0
+
+Tag: DURATION
+Precision: 0.5
+Recall: 0.25
+F1-Score: 0.3333333333333333
+
+Tag: DRUG
+Precision: 0.8571428571428571
+Recall: 0.7105263157894737
+F1-Score: 0.776978417266187
+
+Tag: FORM
+Precision: 0.9777777777777777
+Recall: 1.0
+F1-Score: 0.9887640449438202
+
+Tag: FREQUENCY
+Precision: 0.8333333333333334
+Recall: 0.8695652173913043
+F1-Score: 0.851063829787234
+
+---------------
+Score for file: 106369
+Tag: DOSAGE
+Precision: 1.0
+Recall: 0.9333333333333333
+F1-Score: 0.9655172413793104
+
+Tag: ROUTE
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: REASON
+Precision: 0.5
+Recall: 0.2222222222222222
+F1-Score: 0.30769230769230765
+
+Tag: STRENGTH
+Precision: 1.0
+Recall: 0.96
+F1-Score: 0.9795918367346939
+
+Tag: ADE
+Precision: 0.5
+Recall: 0.5
+F1-Score: 0.5
+
+Tag: DRUG
+Precision: 0.8372093023255814
+Recall: 0.9
+F1-Score: 0.8674698795180723
+
+Tag: FORM
+Precision: 0.9259259259259259
+Recall: 1.0
+F1-Score: 0.9615384615384615
+
+Tag: FREQUENCY
+Precision: 0.7777777777777778
+Recall: 1.0
+F1-Score: 0.8750000000000001
+
+---------------
+Score for file: 106588
+Tag: DOSAGE
+Precision: 0.90625
+Recall: 0.90625
+F1-Score: 0.90625
+
+Tag: ROUTE
+Precision: 0.9523809523809523
+Recall: 0.975609756097561
+F1-Score: 0.963855421686747
+
+Tag: REASON
+Precision: 0.8484848484848485
+Recall: 0.9032258064516129
+F1-Score: 0.875
+
+Tag: STRENGTH
+Precision: 0.9545454545454546
+Recall: 0.9130434782608695
+F1-Score: 0.9333333333333332
+
+Tag: ADE
+Precision: 1.0
+Recall: 0.2
+F1-Score: 0.33333333333333337
+
+Tag: DURATION
+Precision: 0.5
+Recall: 0.6666666666666666
+F1-Score: 0.5714285714285715
+
+Tag: DRUG
+Precision: 0.9384615384615385
+Recall: 0.8970588235294118
+F1-Score: 0.9172932330827067
+
+Tag: FORM
+Precision: 0.9761904761904762
+Recall: 0.8541666666666666
+F1-Score: 0.9111111111111111
+
+Tag: FREQUENCY
+Precision: 0.9696969696969697
+Recall: 0.9696969696969697
+F1-Score: 0.9696969696969697
+
+---------------
+Score for file: 106792
+Tag: DOSAGE
+Precision: 1.0
+Recall: 0.9473684210526315
+F1-Score: 0.972972972972973
+
+Tag: ROUTE
+Precision: 0.9545454545454546
+Recall: 1.0
+F1-Score: 0.9767441860465117
+
+Tag: REASON
+Precision: 0.4
+Recall: 0.4
+F1-Score: 0.4000000000000001
+
+Tag: STRENGTH
+Precision: 0.85
+Recall: 0.8947368421052632
+F1-Score: 0.8717948717948718
+
+Tag: DURATION
+Precision: 0.5
+Recall: 1.0
+F1-Score: 0.6666666666666666
+
+Tag: DRUG
+Precision: 0.9259259259259259
+Recall: 0.8064516129032258
+F1-Score: 0.8620689655172414
+
+Tag: FORM
+Precision: 0.972972972972973
+Recall: 0.9473684210526315
+F1-Score: 0.9599999999999999
+
+Tag: FREQUENCY
+Precision: 1.0
+Recall: 0.875
+F1-Score: 0.9333333333333333
+
+---------------
+Score for file: 106915
+Tag: DOSAGE
+Precision: 0.7777777777777778
+Recall: 0.875
+F1-Score: 0.823529411764706
+
+Tag: ROUTE
+Precision: 1.0
+Recall: 0.9166666666666666
+F1-Score: 0.9565217391304348
+
+Tag: REASON
+Precision: 0.25
+Recall: 0.1
+F1-Score: 0.14285714285714288
+
+Tag: STRENGTH
+Precision: 0.6666666666666666
+Recall: 1.0
+F1-Score: 0.8
+
+Tag: ADE
+Precision: 0.8
+Recall: 0.8
+F1-Score: 0.8000000000000002
+
+Tag: DURATION
+Precision: 0.75
+Recall: 0.42857142857142855
+F1-Score: 0.5454545454545454
+
+Tag: DRUG
+Precision: 1.0
+Recall: 0.9761904761904762
+F1-Score: 0.9879518072289156
+
+Tag: FORM
+Precision: 0.9090909090909091
+Recall: 1.0
+F1-Score: 0.9523809523809523
+
+Tag: FREQUENCY
+Precision: 0.875
+Recall: 0.7777777777777778
+F1-Score: 0.823529411764706
+
+---------------
+Score for file: 106945
+Tag: DOSAGE
+Precision: 0.9333333333333333
+Recall: 0.9333333333333333
+F1-Score: 0.9333333333333333
+
+Tag: ROUTE
+Precision: 0.95
+Recall: 1.0
+F1-Score: 0.9743589743589743
+
+Tag: REASON
+Precision: 0.75
+Recall: 0.6923076923076923
+F1-Score: 0.7199999999999999
+
+Tag: STRENGTH
+Precision: 1.0
+Recall: 0.9565217391304348
+F1-Score: 0.9777777777777777
+
+Tag: ADE
+Precision: 0.0
+Recall: 0.0
+F1-Score: 0
+
+Tag: DURATION
+Precision: 0.0
+Recall: 0
+F1-Score: 0
+
+Tag: DRUG
+Precision: 0.9591836734693877
+Recall: 0.94
+F1-Score: 0.9494949494949495
+
+Tag: FORM
+Precision: 1.0
+Recall: 0.9705882352941176
+F1-Score: 0.9850746268656716
+
+Tag: FREQUENCY
+Precision: 0.8888888888888888
+Recall: 0.8421052631578947
+F1-Score: 0.8648648648648649
+
+---------------
+Score for file: 106961
+Tag: DOSAGE
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: ROUTE
+Precision: 0.95
+Recall: 0.9047619047619048
+F1-Score: 0.9268292682926829
+
+Tag: REASON
+Precision: 0.5
+Recall: 0.38461538461538464
+F1-Score: 0.4347826086956522
+
+Tag: STRENGTH
+Precision: 1.0
+Recall: 0.9130434782608695
+F1-Score: 0.9545454545454545
+
+Tag: ADE
+Precision: 0.0
+Recall: 0.0
+F1-Score: 0
+
+Tag: DRUG
+Precision: 0.9827586206896551
+Recall: 0.8769230769230769
+F1-Score: 0.9268292682926829
+
+Tag: FORM
+Precision: 0.6666666666666666
+Recall: 0.2222222222222222
+F1-Score: 0.3333333333333333
+
+Tag: FREQUENCY
+Precision: 0.9090909090909091
+Recall: 0.8695652173913043
+F1-Score: 0.888888888888889
+
+---------------
+Score for file: 106967
+Tag: DOSAGE
+Precision: 0.9375
+Recall: 0.9375
+F1-Score: 0.9375
+
+Tag: ROUTE
+Precision: 0.8275862068965517
+Recall: 0.8
+F1-Score: 0.8135593220338982
+
+Tag: REASON
+Precision: 0.4166666666666667
+Recall: 0.5555555555555556
+F1-Score: 0.4761904761904762
+
+Tag: STRENGTH
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: ADE
+Precision: 0.5454545454545454
+Recall: 0.6
+F1-Score: 0.5714285714285713
+
+Tag: DURATION
+Precision: 0.8571428571428571
+Recall: 0.8571428571428571
+F1-Score: 0.8571428571428571
+
+Tag: DRUG
+Precision: 0.9506172839506173
+Recall: 0.7333333333333333
+F1-Score: 0.8279569892473119
+
+Tag: FORM
+Precision: 0.9583333333333334
+Recall: 1.0
+F1-Score: 0.9787234042553191
+
+Tag: FREQUENCY
+Precision: 0.8846153846153846
+Recall: 0.8846153846153846
+F1-Score: 0.8846153846153846
+
+---------------
+Score for file: 106993
+Tag: DOSAGE
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: ROUTE
+Precision: 0.9655172413793104
+Recall: 0.8484848484848485
+F1-Score: 0.9032258064516129
+
+Tag: REASON
+Precision: 0.5
+Recall: 0.25
+F1-Score: 0.3333333333333333
+
+Tag: STRENGTH
+Precision: 0.9166666666666666
+Recall: 0.9565217391304348
+F1-Score: 0.9361702127659574
+
+Tag: ADE
+Precision: 1.0
+Recall: 0.5
+F1-Score: 0.6666666666666666
+
+Tag: DRUG
+Precision: 0.8108108108108109
+Recall: 0.8571428571428571
+F1-Score: 0.8333333333333334
+
+Tag: FORM
+Precision: 1.0
+Recall: 0.92
+F1-Score: 0.9583333333333334
+
+Tag: FREQUENCY
+Precision: 0.8518518518518519
+Recall: 0.8846153846153846
+F1-Score: 0.8679245283018868
+
+---------------
+Score for file: 107128
+Tag: DOSAGE
+Precision: 0.9444444444444444
+Recall: 1.0
+F1-Score: 0.9714285714285714
+
+Tag: ROUTE
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: REASON
+Precision: 0.5454545454545454
+Recall: 0.4
+F1-Score: 0.4615384615384615
+
+Tag: STRENGTH
+Precision: 0.9259259259259259
+Recall: 0.9615384615384616
+F1-Score: 0.9433962264150944
+
+Tag: ADE
+Precision: 0.5
+Recall: 0.2
+F1-Score: 0.28571428571428575
+
+Tag: DURATION
+Precision: 0.5
+Recall: 1.0
+F1-Score: 0.6666666666666666
+
+Tag: DRUG
+Precision: 0.9365079365079365
+Recall: 0.9672131147540983
+F1-Score: 0.9516129032258064
+
+Tag: FORM
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: FREQUENCY
+Precision: 0.7777777777777778
+Recall: 0.9333333333333333
+F1-Score: 0.8484848484848485
+
+---------------
+Score for file: 107202
+Tag: DOSAGE
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: ROUTE
+Precision: 0.9444444444444444
+Recall: 1.0
+F1-Score: 0.9714285714285714
+
+Tag: REASON
+Precision: 0.8888888888888888
+Recall: 0.6153846153846154
+F1-Score: 0.7272727272727274
+
+Tag: STRENGTH
+Precision: 1.0
+Recall: 0.9565217391304348
+F1-Score: 0.9777777777777777
+
+Tag: ADE
+Precision: 1.0
+Recall: 0.8
+F1-Score: 0.888888888888889
+
+Tag: DRUG
+Precision: 0.8636363636363636
+Recall: 0.7450980392156863
+F1-Score: 0.8
+
+Tag: FORM
+Precision: 1.0
+Recall: 0.96
+F1-Score: 0.9795918367346939
+
+Tag: FREQUENCY
+Precision: 0.9333333333333333
+Recall: 0.9333333333333333
+F1-Score: 0.9333333333333333
+
+---------------
+Score for file: 107421
+Tag: DOSAGE
+Precision: 0.896551724137931
+Recall: 0.9285714285714286
+F1-Score: 0.912280701754386
+
+Tag: ROUTE
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: REASON
+Precision: 0.2
+Recall: 0.2
+F1-Score: 0.20000000000000004
+
+Tag: STRENGTH
+Precision: 1.0
+Recall: 0.9736842105263158
+F1-Score: 0.9866666666666666
+
+Tag: ADE
+Precision: 0.0
+Recall: 0.0
+F1-Score: 0
+
+Tag: DURATION
+Precision: 0.5
+Recall: 1.0
+F1-Score: 0.6666666666666666
+
+Tag: DRUG
+Precision: 0.7678571428571429
+Recall: 0.8958333333333334
+F1-Score: 0.8269230769230769
+
+Tag: FORM
+Precision: 0.9821428571428571
+Recall: 0.9821428571428571
+F1-Score: 0.9821428571428571
+
+Tag: FREQUENCY
+Precision: 0.9444444444444444
+Recall: 0.8095238095238095
+F1-Score: 0.8717948717948718
+
+---------------
+Score for file: 107515
+Tag: DOSAGE
+Precision: 0.6842105263157895
+Recall: 0.9285714285714286
+F1-Score: 0.7878787878787878
+
+Tag: ROUTE
+Precision: 1.0
+Recall: 0.9444444444444444
+F1-Score: 0.9714285714285714
+
+Tag: REASON
+Precision: 0.9333333333333333
+Recall: 0.5384615384615384
+F1-Score: 0.6829268292682926
+
+Tag: STRENGTH
+Precision: 0.975609756097561
+Recall: 0.9523809523809523
+F1-Score: 0.963855421686747
+
+Tag: ADE
+Precision: 0.6
+Recall: 0.75
+F1-Score: 0.6666666666666665
+
+Tag: DURATION
+Precision: 0.75
+Recall: 0.75
+F1-Score: 0.75
+
+Tag: DRUG
+Precision: 0.9484536082474226
+Recall: 0.9019607843137255
+F1-Score: 0.9246231155778893
+
+Tag: FORM
+Precision: 0.9411764705882353
+Recall: 1.0
+F1-Score: 0.9696969696969697
+
+Tag: FREQUENCY
+Precision: 0.8461538461538461
+Recall: 0.5641025641025641
+F1-Score: 0.676923076923077
+
+---------------
+Score for file: 107828
+Tag: DOSAGE
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: ROUTE
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: STRENGTH
+Precision: 0.9230769230769231
+Recall: 0.9230769230769231
+F1-Score: 0.9230769230769231
+
+Tag: ADE
+Precision: 0.0
+Recall: 0
+F1-Score: 0
+
+Tag: DRUG
+Precision: 0.5
+Recall: 1.0
+F1-Score: 0.6666666666666666
+
+Tag: FORM
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: FREQUENCY
+Precision: 0.2727272727272727
+Recall: 0.75
+F1-Score: 0.39999999999999997
+
+---------------
+Score for file: 107902
+Tag: DOSAGE
+Precision: 1.0
+Recall: 0.5
+F1-Score: 0.6666666666666666
+
+Tag: ROUTE
+Precision: 1.0
+Recall: 0.6666666666666666
+F1-Score: 0.8
+
+Tag: REASON
+Precision: 1.0
+Recall: 0.6
+F1-Score: 0.7499999999999999
+
+Tag: STRENGTH
+Precision: 0.9333333333333333
+Recall: 1.0
+F1-Score: 0.9655172413793104
+
+Tag: ADE
+Precision: 0.0
+Recall: 0.0
+F1-Score: 0
+
+Tag: DURATION
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: DRUG
+Precision: 0.9285714285714286
+Recall: 1.0
+F1-Score: 0.962962962962963
+
+Tag: FORM
+Precision: 1.0
+Recall: 0.75
+F1-Score: 0.8571428571428571
+
+Tag: FREQUENCY
+Precision: 0.6818181818181818
+Recall: 0.9375
+F1-Score: 0.7894736842105263
+
+---------------
+Score for file: 108343
+Tag: DOSAGE
+Precision: 0.9
+Recall: 0.9642857142857143
+F1-Score: 0.9310344827586207
+
+Tag: ROUTE
+Precision: 1.0
+Recall: 0.9696969696969697
+F1-Score: 0.9846153846153847
+
+Tag: REASON
+Precision: 0.7391304347826086
+Recall: 0.6538461538461539
+F1-Score: 0.693877551020408
+
+Tag: STRENGTH
+Precision: 1.0
+Recall: 0.9807692307692307
+F1-Score: 0.9902912621359222
+
+Tag: ADE
+Precision: 0.0
+Recall: 0
+F1-Score: 0
+
+Tag: DURATION
+Precision: 0.0
+Recall: 0.0
+F1-Score: 0
+
+Tag: DRUG
+Precision: 0.9152542372881356
+Recall: 0.9391304347826087
+F1-Score: 0.9270386266094419
+
+Tag: FORM
+Precision: 0.975609756097561
+Recall: 0.975609756097561
+F1-Score: 0.975609756097561
+
+Tag: FREQUENCY
+Precision: 0.96875
+Recall: 0.9393939393939394
+F1-Score: 0.9538461538461539
+
+---------------
+Score for file: 108539
+Tag: DOSAGE
+Precision: 0
+Recall: 0.0
+F1-Score: 0
+
+Tag: ROUTE
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: REASON
+Precision: 0.4166666666666667
+Recall: 0.3125
+F1-Score: 0.35714285714285715
+
+Tag: STRENGTH
+Precision: 1.0
+Recall: 0.9523809523809523
+F1-Score: 0.975609756097561
+
+Tag: ADE
+Precision: 1.0
+Recall: 0.2
+F1-Score: 0.33333333333333337
+
+Tag: DURATION
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: DRUG
+Precision: 1.0
+Recall: 0.8478260869565217
+F1-Score: 0.9176470588235294
+
+Tag: FREQUENCY
+Precision: 1.0
+Recall: 0.9285714285714286
+F1-Score: 0.962962962962963
+
+---------------
+Score for file: 108816
+Tag: DOSAGE
+Precision: 0.8333333333333334
+Recall: 0.7142857142857143
+F1-Score: 0.7692307692307692
+
+Tag: ROUTE
+Precision: 1.0
+Recall: 0.8888888888888888
+F1-Score: 0.9411764705882353
+
+Tag: REASON
+Precision: 1.0
+Recall: 0.75
+F1-Score: 0.8571428571428571
+
+Tag: STRENGTH
+Precision: 0.8888888888888888
+Recall: 0.8888888888888888
+F1-Score: 0.8888888888888888
+
+Tag: ADE
+Precision: 0
+Recall: 0.0
+F1-Score: 0
+
+Tag: DURATION
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: DRUG
+Precision: 0.96875
+Recall: 0.9117647058823529
+F1-Score: 0.9393939393939394
+
+Tag: FORM
+Precision: 0.8695652173913043
+Recall: 0.9523809523809523
+F1-Score: 0.909090909090909
+
+Tag: FREQUENCY
+Precision: 0.9285714285714286
+Recall: 0.8125
+F1-Score: 0.8666666666666666
+
+---------------
+Score for file: 108950
+Tag: DOSAGE
+Precision: 1.0
+Recall: 0.7
+F1-Score: 0.8235294117647058
+
+Tag: ROUTE
+Precision: 1.0
+Recall: 0.9285714285714286
+F1-Score: 0.962962962962963
+
+Tag: REASON
+Precision: 0.42857142857142855
+Recall: 0.3
+F1-Score: 0.3529411764705882
+
+Tag: STRENGTH
+Precision: 0.8461538461538461
+Recall: 0.8461538461538461
+F1-Score: 0.8461538461538461
+
+Tag: ADE
+Precision: 0.4
+Recall: 0.5
+F1-Score: 0.4444444444444445
+
+Tag: DURATION
+Precision: 0
+Recall: 0.0
+F1-Score: 0
+
+Tag: DRUG
+Precision: 0.8780487804878049
+Recall: 0.8571428571428571
+F1-Score: 0.8674698795180722
+
+Tag: FORM
+Precision: 0.9090909090909091
+Recall: 1.0
+F1-Score: 0.9523809523809523
+
+Tag: FREQUENCY
+Precision: 0.8
+Recall: 0.8888888888888888
+F1-Score: 0.8421052631578948
+
+---------------
+Score for file: 109263
+Tag: DOSAGE
+Precision: 1.0
+Recall: 0.7777777777777778
+F1-Score: 0.8750000000000001
+
+Tag: ROUTE
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: REASON
+Precision: 0
+Recall: 0.0
+F1-Score: 0
+
+Tag: STRENGTH
+Precision: 1.0
+Recall: 0.9285714285714286
+F1-Score: 0.962962962962963
+
+Tag: ADE
+Precision: 0.0
+Recall: 0
+F1-Score: 0
+
+Tag: DURATION
+Precision: 0
+Recall: 0.0
+F1-Score: 0
+
+Tag: DRUG
+Precision: 0.9583333333333334
+Recall: 0.6216216216216216
+F1-Score: 0.7540983606557377
+
+Tag: FORM
+Precision: 0.9642857142857143
+Recall: 0.9642857142857143
+F1-Score: 0.9642857142857143
+
+Tag: FREQUENCY
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+---------------
+Score for file: 109330
+Tag: DOSAGE
+Precision: 1.0
+Recall: 0.9230769230769231
+F1-Score: 0.9600000000000001
+
+Tag: ROUTE
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: REASON
+Precision: 0.75
+Recall: 0.6
+F1-Score: 0.6666666666666665
+
+Tag: STRENGTH
+Precision: 0.9
+Recall: 0.9
+F1-Score: 0.9
+
+Tag: DRUG
+Precision: 0.8518518518518519
+Recall: 0.8846153846153846
+F1-Score: 0.8679245283018868
+
+Tag: FORM
+Precision: 0.8947368421052632
+Recall: 1.0
+F1-Score: 0.9444444444444444
+
+Tag: FREQUENCY
+Precision: 0.6666666666666666
+Recall: 1.0
+F1-Score: 0.8
+
+---------------
+Score for file: 109397
+Tag: DOSAGE
+Precision: 0.42857142857142855
+Recall: 0.6666666666666666
+F1-Score: 0.5217391304347826
+
+Tag: ROUTE
+Precision: 1.0
+Recall: 0.9545454545454546
+F1-Score: 0.9767441860465117
+
+Tag: REASON
+Precision: 0.6
+Recall: 0.6
+F1-Score: 0.6
+
+Tag: STRENGTH
+Precision: 0.9642857142857143
+Recall: 1.0
+F1-Score: 0.9818181818181818
+
+Tag: ADE
+Precision: 0.5
+Recall: 0.2
+F1-Score: 0.28571428571428575
+
+Tag: DURATION
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: DRUG
+Precision: 0.927536231884058
+Recall: 0.8648648648648649
+F1-Score: 0.8951048951048951
+
+Tag: FORM
+Precision: 1.0
+Recall: 0.9333333333333333
+F1-Score: 0.9655172413793104
+
+Tag: FREQUENCY
+Precision: 0.7647058823529411
+Recall: 0.8125
+F1-Score: 0.787878787878788
+
+---------------
+Score for file: 109627
+Tag: DOSAGE
+Precision: 0.9523809523809523
+Recall: 0.8333333333333334
+F1-Score: 0.888888888888889
+
+Tag: ROUTE
+Precision: 1.0
+Recall: 0.9444444444444444
+F1-Score: 0.9714285714285714
+
+Tag: REASON
+Precision: 0.9090909090909091
+Recall: 0.7692307692307693
+F1-Score: 0.8333333333333333
+
+Tag: STRENGTH
+Precision: 0.9166666666666666
+Recall: 0.9565217391304348
+F1-Score: 0.9361702127659574
+
+Tag: ADE
+Precision: 0.0
+Recall: 0
+F1-Score: 0
+
+Tag: DURATION
+Precision: 1.0
+Recall: 0.6666666666666666
+F1-Score: 0.8
+
+Tag: DRUG
+Precision: 0.8936170212765957
+Recall: 0.8235294117647058
+F1-Score: 0.8571428571428571
+
+Tag: FORM
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: FREQUENCY
+Precision: 0.9285714285714286
+Recall: 0.9285714285714286
+F1-Score: 0.9285714285714286
+
+---------------
+Score for file: 109645
+Tag: DOSAGE
+Precision: 1.0
+Recall: 0.8333333333333334
+F1-Score: 0.9090909090909091
+
+Tag: ROUTE
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: REASON
+Precision: 0.8
+Recall: 0.8
+F1-Score: 0.8000000000000002
+
+Tag: STRENGTH
+Precision: 1.0
+Recall: 0.9230769230769231
+F1-Score: 0.9600000000000001
+
+Tag: ADE
+Precision: 0.0
+Recall: 0.0
+F1-Score: 0
+
+Tag: DURATION
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: DRUG
+Precision: 0.7916666666666666
+Recall: 0.8260869565217391
+F1-Score: 0.8085106382978724
+
+Tag: FORM
+Precision: 0.6666666666666666
+Recall: 1.0
+F1-Score: 0.8
+
+Tag: FREQUENCY
+Precision: 0.8
+Recall: 0.8888888888888888
+F1-Score: 0.8421052631578948
+
+---------------
+Score for file: 109698
+Tag: DOSAGE
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: ROUTE
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: REASON
+Precision: 1.0
+Recall: 0.9
+F1-Score: 0.9473684210526316
+
+Tag: STRENGTH
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: ADE
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: DRUG
+Precision: 0.8
+Recall: 0.96
+F1-Score: 0.8727272727272728
+
+Tag: FORM
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: FREQUENCY
+Precision: 0.8571428571428571
+Recall: 1.0
+F1-Score: 0.923076923076923
+
+---------------
+Score for file: 109724
+Tag: DOSAGE
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: ROUTE
+Precision: 0.9743589743589743
+Recall: 0.9743589743589743
+F1-Score: 0.9743589743589743
+
+Tag: REASON
+Precision: 0.7777777777777778
+Recall: 0.6363636363636364
+F1-Score: 0.7000000000000001
+
+Tag: STRENGTH
+Precision: 0.9736842105263158
+Recall: 1.0
+F1-Score: 0.9866666666666666
+
+Tag: ADE
+Precision: 0.0
+Recall: 0.0
+F1-Score: 0
+
+Tag: DURATION
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: DRUG
+Precision: 0.9629629629629629
+Recall: 0.8863636363636364
+F1-Score: 0.923076923076923
+
+Tag: FORM
+Precision: 0.9454545454545454
+Recall: 1.0
+F1-Score: 0.9719626168224299
+
+Tag: FREQUENCY
+Precision: 0.8823529411764706
+Recall: 0.9375
+F1-Score: 0.9090909090909091
+
+---------------
+Score for file: 110135
+Tag: DOSAGE
+Precision: 0.88
+Recall: 0.8461538461538461
+F1-Score: 0.8627450980392156
+
+Tag: ROUTE
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: REASON
+Precision: 0.5
+Recall: 0.4166666666666667
+F1-Score: 0.45454545454545453
+
+Tag: STRENGTH
+Precision: 0.96875
+Recall: 0.9393939393939394
+F1-Score: 0.9538461538461539
+
+Tag: ADE
+Precision: 0.6666666666666666
+Recall: 0.3333333333333333
+F1-Score: 0.4444444444444444
+
+Tag: DURATION
+Precision: 1.0
+Recall: 0.4
+F1-Score: 0.5714285714285715
+
+Tag: DRUG
+Precision: 1.0
+Recall: 0.9154929577464789
+F1-Score: 0.9558823529411764
+
+Tag: FORM
+Precision: 0.972972972972973
+Recall: 0.972972972972973
+F1-Score: 0.972972972972973
+
+Tag: FREQUENCY
+Precision: 0.9090909090909091
+Recall: 0.6666666666666666
+F1-Score: 0.7692307692307692
+
+---------------
+Score for file: 110140
+Tag: DOSAGE
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: ROUTE
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: REASON
+Precision: 1.0
+Recall: 0.25
+F1-Score: 0.4
+
+Tag: STRENGTH
+Precision: 1.0
+Recall: 0.9166666666666666
+F1-Score: 0.9565217391304348
+
+Tag: ADE
+Precision: 0.0
+Recall: 0
+F1-Score: 0
+
+Tag: DRUG
+Precision: 1.0
+Recall: 0.8636363636363636
+F1-Score: 0.9268292682926829
+
+Tag: FORM
+Precision: 0.5
+Recall: 1.0
+F1-Score: 0.6666666666666666
+
+Tag: FREQUENCY
+Precision: 1.0
+Recall: 0.7692307692307693
+F1-Score: 0.8695652173913044
+
+---------------
+Score for file: 110162
+Tag: DOSAGE
+Precision: 0.85
+Recall: 0.9444444444444444
+F1-Score: 0.8947368421052632
+
+Tag: ROUTE
+Precision: 0.9444444444444444
+Recall: 0.7083333333333334
+F1-Score: 0.8095238095238096
+
+Tag: REASON
+Precision: 1.0
+Recall: 0.625
+F1-Score: 0.7692307692307693
+
+Tag: STRENGTH
+Precision: 0.9166666666666666
+Recall: 0.8918918918918919
+F1-Score: 0.9041095890410958
+
+Tag: ADE
+Precision: 0.3333333333333333
+Recall: 0.5
+F1-Score: 0.4
+
+Tag: DURATION
+Precision: 0.8
+Recall: 0.8
+F1-Score: 0.8000000000000002
+
+Tag: DRUG
+Precision: 0.9032258064516129
+Recall: 0.8615384615384616
+F1-Score: 0.8818897637795274
+
+Tag: FORM
+Precision: 0.875
+Recall: 1.0
+F1-Score: 0.9333333333333333
+
+Tag: FREQUENCY
+Precision: 0.9090909090909091
+Recall: 0.8695652173913043
+F1-Score: 0.888888888888889
+
+---------------
+Score for file: 110559
+Tag: DOSAGE
+Precision: 0.9333333333333333
+Recall: 0.9333333333333333
+F1-Score: 0.9333333333333333
+
+Tag: ROUTE
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: REASON
+Precision: 0.7
+Recall: 0.4375
+F1-Score: 0.5384615384615384
+
+Tag: STRENGTH
+Precision: 0.96
+Recall: 0.96
+F1-Score: 0.96
+
+Tag: ADE
+Precision: 0.6923076923076923
+Recall: 0.6428571428571429
+F1-Score: 0.6666666666666666
+
+Tag: DURATION
+Precision: 0.0
+Recall: 0.0
+F1-Score: 0
+
+Tag: DRUG
+Precision: 0.9264705882352942
+Recall: 0.875
+F1-Score: 0.9
+
+Tag: FORM
+Precision: 1.0
+Recall: 0.9230769230769231
+F1-Score: 0.9600000000000001
+
+Tag: FREQUENCY
+Precision: 0.8823529411764706
+Recall: 0.9375
+F1-Score: 0.9090909090909091
+
+---------------
+Score for file: 110731
+Tag: DOSAGE
+Precision: 0.8888888888888888
+Recall: 1.0
+F1-Score: 0.9411764705882353
+
+Tag: ROUTE
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: REASON
+Precision: 0.5
+Recall: 1.0
+F1-Score: 0.6666666666666666
+
+Tag: STRENGTH
+Precision: 0.8888888888888888
+Recall: 0.8888888888888888
+F1-Score: 0.8888888888888888
+
+Tag: ADE
+Precision: 0.0
+Recall: 0
+F1-Score: 0
+
+Tag: DRUG
+Precision: 0.48
+Recall: 0.8571428571428571
+F1-Score: 0.6153846153846153
+
+Tag: FORM
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: FREQUENCY
+Precision: 0.25
+Recall: 1.0
+F1-Score: 0.4
+
+---------------
+Score for file: 110753
+Tag: DOSAGE
+Precision: 1.0
+Recall: 0.9130434782608695
+F1-Score: 0.9545454545454545
+
+Tag: ROUTE
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: REASON
+Precision: 0.16666666666666666
+Recall: 0.25
+F1-Score: 0.2
+
+Tag: STRENGTH
+Precision: 0.9534883720930233
+Recall: 1.0
+F1-Score: 0.9761904761904763
+
+Tag: ADE
+Precision: 0.5
+Recall: 0.25
+F1-Score: 0.3333333333333333
+
+Tag: DRUG
+Precision: 0.7719298245614035
+Recall: 0.8979591836734694
+F1-Score: 0.8301886792452831
+
+Tag: FORM
+Precision: 0.9772727272727273
+Recall: 0.9772727272727273
+F1-Score: 0.9772727272727273
+
+Tag: FREQUENCY
+Precision: 0.92
+Recall: 0.9583333333333334
+F1-Score: 0.9387755102040817
+
+---------------
+Score for file: 110891
+Tag: DOSAGE
+Precision: 1.0
+Recall: 0.6875
+F1-Score: 0.8148148148148148
+
+Tag: ROUTE
+Precision: 1.0
+Recall: 0.9090909090909091
+F1-Score: 0.9523809523809523
+
+Tag: REASON
+Precision: 0.6666666666666666
+Recall: 0.4
+F1-Score: 0.5
+
+Tag: STRENGTH
+Precision: 0.8846153846153846
+Recall: 0.8518518518518519
+F1-Score: 0.8679245283018868
+
+Tag: ADE
+Precision: 0
+Recall: 0.0
+F1-Score: 0
+
+Tag: DRUG
+Precision: 0.8529411764705882
+Recall: 0.7435897435897436
+F1-Score: 0.7945205479452054
+
+Tag: FORM
+Precision: 1.0
+Recall: 0.8125
+F1-Score: 0.896551724137931
+
+Tag: FREQUENCY
+Precision: 0.8947368421052632
+Recall: 0.85
+F1-Score: 0.8717948717948718
+
+---------------
+Score for file: 111160
+Tag: DOSAGE
+Precision: 1.0
+Recall: 0.95
+F1-Score: 0.9743589743589743
+
+Tag: ROUTE
+Precision: 1.0
+Recall: 0.8846153846153846
+F1-Score: 0.9387755102040816
+
+Tag: REASON
+Precision: 0.625
+Recall: 0.5172413793103449
+F1-Score: 0.5660377358490567
+
+Tag: STRENGTH
+Precision: 0.9473684210526315
+Recall: 0.972972972972973
+F1-Score: 0.9599999999999999
+
+Tag: ADE
+Precision: 0
+Recall: 0.0
+F1-Score: 0
+
+Tag: DURATION
+Precision: 1.0
+Recall: 0.5
+F1-Score: 0.6666666666666666
+
+Tag: DRUG
+Precision: 0.8936170212765957
+Recall: 0.9130434782608695
+F1-Score: 0.9032258064516129
+
+Tag: FORM
+Precision: 0.9666666666666667
+Recall: 1.0
+F1-Score: 0.983050847457627
+
+Tag: FREQUENCY
+Precision: 0.8620689655172413
+Recall: 0.8928571428571429
+F1-Score: 0.8771929824561403
+
+---------------
+Score for file: 111274
+Tag: DOSAGE
+Precision: 0.9230769230769231
+Recall: 0.8571428571428571
+F1-Score: 0.888888888888889
+
+Tag: ROUTE
+Precision: 1.0
+Recall: 0.95
+F1-Score: 0.9743589743589743
+
+Tag: REASON
+Precision: 0.7
+Recall: 0.6363636363636364
+F1-Score: 0.6666666666666666
+
+Tag: STRENGTH
+Precision: 0.7058823529411765
+Recall: 0.9230769230769231
+F1-Score: 0.8000000000000002
+
+Tag: ADE
+Precision: 1.0
+Recall: 0.4
+F1-Score: 0.5714285714285715
+
+Tag: DURATION
+Precision: 0
+Recall: 0.0
+F1-Score: 0
+
+Tag: DRUG
+Precision: 0.921875
+Recall: 0.921875
+F1-Score: 0.921875
+
+Tag: FORM
+Precision: 0.9230769230769231
+Recall: 0.9230769230769231
+F1-Score: 0.9230769230769231
+
+Tag: FREQUENCY
+Precision: 0.7777777777777778
+Recall: 0.7
+F1-Score: 0.7368421052631577
+
+---------------
+Score for file: 111341
+Tag: DOSAGE
+Precision: 0.8333333333333334
+Recall: 1.0
+F1-Score: 0.9090909090909091
+
+Tag: ROUTE
+Precision: 0.967741935483871
+Recall: 0.7894736842105263
+F1-Score: 0.8695652173913043
+
+Tag: REASON
+Precision: 0.9333333333333333
+Recall: 0.7
+F1-Score: 0.8
+
+Tag: STRENGTH
+Precision: 0.9122807017543859
+Recall: 0.9629629629629629
+F1-Score: 0.9369369369369369
+
+Tag: ADE
+Precision: 0.0
+Recall: 0.0
+F1-Score: 0
+
+Tag: DURATION
+Precision: 0.8
+Recall: 1.0
+F1-Score: 0.888888888888889
+
+Tag: DRUG
+Precision: 0.945054945054945
+Recall: 0.9052631578947369
+F1-Score: 0.924731182795699
+
+Tag: FORM
+Precision: 0.9302325581395349
+Recall: 0.8695652173913043
+F1-Score: 0.898876404494382
+
+Tag: FREQUENCY
+Precision: 0.8
+Recall: 0.7272727272727273
+F1-Score: 0.761904761904762
+
+---------------
+Score for file: 112226
+Tag: DOSAGE
+Precision: 0.8888888888888888
+Recall: 0.8888888888888888
+F1-Score: 0.8888888888888888
+
+Tag: ROUTE
+Precision: 0.9166666666666666
+Recall: 0.9565217391304348
+F1-Score: 0.9361702127659574
+
+Tag: REASON
+Precision: 0.7
+Recall: 0.4375
+F1-Score: 0.5384615384615384
+
+Tag: STRENGTH
+Precision: 0.9705882352941176
+Recall: 0.9705882352941176
+F1-Score: 0.9705882352941176
+
+Tag: ADE
+Precision: 0.6
+Recall: 0.5
+F1-Score: 0.5454545454545454
+
+Tag: DURATION
+Precision: 0.3333333333333333
+Recall: 0.3333333333333333
+F1-Score: 0.3333333333333333
+
+Tag: DRUG
+Precision: 0.9242424242424242
+Recall: 0.9242424242424242
+F1-Score: 0.9242424242424242
+
+Tag: FORM
+Precision: 1.0
+Recall: 0.9615384615384616
+F1-Score: 0.9803921568627451
+
+Tag: FREQUENCY
+Precision: 0.7727272727272727
+Recall: 1.0
+F1-Score: 0.8717948717948718
+
+---------------
+Score for file: 112329
+Tag: DOSAGE
+Precision: 1.0
+Recall: 0.3333333333333333
+F1-Score: 0.5
+
+Tag: ROUTE
+Precision: 1.0
+Recall: 0.6
+F1-Score: 0.7499999999999999
+
+Tag: REASON
+Precision: 0.0
+Recall: 0.0
+F1-Score: 0
+
+Tag: STRENGTH
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: ADE
+Precision: 0.0
+Recall: 0.0
+F1-Score: 0
+
+Tag: DURATION
+Precision: 0
+Recall: 0.0
+F1-Score: 0
+
+Tag: DRUG
+Precision: 1.0
+Recall: 0.8
+F1-Score: 0.888888888888889
+
+Tag: FORM
+Precision: 0
+Recall: 0.0
+F1-Score: 0
+
+Tag: FREQUENCY
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+---------------
+Score for file: 112342
+Tag: DOSAGE
+Precision: 0.9565217391304348
+Recall: 0.88
+F1-Score: 0.9166666666666666
+
+Tag: ROUTE
+Precision: 0.8235294117647058
+Recall: 0.8936170212765957
+F1-Score: 0.8571428571428571
+
+Tag: REASON
+Precision: 0.7111111111111111
+Recall: 0.6274509803921569
+F1-Score: 0.6666666666666666
+
+Tag: STRENGTH
+Precision: 0.88
+Recall: 0.9361702127659575
+F1-Score: 0.9072164948453608
+
+Tag: ADE
+Precision: 0.3333333333333333
+Recall: 0.16666666666666666
+F1-Score: 0.2222222222222222
+
+Tag: DURATION
+Precision: 0.5
+Recall: 0.5
+F1-Score: 0.5
+
+Tag: DRUG
+Precision: 0.8629032258064516
+Recall: 0.8991596638655462
+F1-Score: 0.8806584362139918
+
+Tag: FORM
+Precision: 0.9777777777777777
+Recall: 0.9777777777777777
+F1-Score: 0.9777777777777777
+
+Tag: FREQUENCY
+Precision: 0.8
+Recall: 0.8421052631578947
+F1-Score: 0.8205128205128205
+
+---------------
+Score for file: 112350
+Tag: DOSAGE
+Precision: 0.9090909090909091
+Recall: 1.0
+F1-Score: 0.9523809523809523
+
+Tag: ROUTE
+Precision: 0.9090909090909091
+Recall: 1.0
+F1-Score: 0.9523809523809523
+
+Tag: REASON
+Precision: 1.0
+Recall: 0.5
+F1-Score: 0.6666666666666666
+
+Tag: STRENGTH
+Precision: 0.8666666666666667
+Recall: 0.9285714285714286
+F1-Score: 0.896551724137931
+
+Tag: ADE
+Precision: 0
+Recall: 0.0
+F1-Score: 0
+
+Tag: DRUG
+Precision: 0.9142857142857143
+Recall: 0.9411764705882353
+F1-Score: 0.9275362318840579
+
+Tag: FORM
+Precision: 0.9523809523809523
+Recall: 0.9523809523809523
+F1-Score: 0.9523809523809523
+
+Tag: FREQUENCY
+Precision: 0.7142857142857143
+Recall: 1.0
+F1-Score: 0.8333333333333333
+
+---------------
+Score for file: 112418
+Tag: DOSAGE
+Precision: 0.0
+Recall: 0.0
+F1-Score: 0
+
+Tag: ROUTE
+Precision: 0.6666666666666666
+Recall: 0.5
+F1-Score: 0.5714285714285715
+
+Tag: REASON
+Precision: 0.5
+Recall: 0.25
+F1-Score: 0.3333333333333333
+
+Tag: STRENGTH
+Precision: 1.0
+Recall: 0.8333333333333334
+F1-Score: 0.9090909090909091
+
+Tag: ADE
+Precision: 0
+Recall: 0.0
+F1-Score: 0
+
+Tag: DRUG
+Precision: 0.8518518518518519
+Recall: 0.8846153846153846
+F1-Score: 0.8679245283018868
+
+Tag: FORM
+Precision: 0.75
+Recall: 0.6
+F1-Score: 0.6666666666666665
+
+Tag: FREQUENCY
+Precision: 0.2
+Recall: 0.2
+F1-Score: 0.20000000000000004
+
+---------------
+Score for file: 112445
+Tag: DOSAGE
+Precision: 0.9565217391304348
+Recall: 0.88
+F1-Score: 0.9166666666666666
+
+Tag: ROUTE
+Precision: 0.875
+Recall: 0.9545454545454546
+F1-Score: 0.9130434782608695
+
+Tag: REASON
+Precision: 0.5263157894736842
+Recall: 0.5555555555555556
+F1-Score: 0.5405405405405405
+
+Tag: STRENGTH
+Precision: 0.9347826086956522
+Recall: 0.9347826086956522
+F1-Score: 0.9347826086956522
+
+Tag: ADE
+Precision: 0.0
+Recall: 0.0
+F1-Score: 0
+
+Tag: DRUG
+Precision: 0.8507462686567164
+Recall: 0.9344262295081968
+F1-Score: 0.8906250000000001
+
+Tag: FORM
+Precision: 0.9736842105263158
+Recall: 0.9736842105263158
+F1-Score: 0.9736842105263158
+
+Tag: FREQUENCY
+Precision: 0.7857142857142857
+Recall: 0.88
+F1-Score: 0.830188679245283
+
+---------------
+Score for file: 112446
+Tag: DOSAGE
+Precision: 0.5714285714285714
+Recall: 0.6666666666666666
+F1-Score: 0.6153846153846153
+
+Tag: ROUTE
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: REASON
+Precision: 0.3333333333333333
+Recall: 0.16666666666666666
+F1-Score: 0.2222222222222222
+
+Tag: STRENGTH
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: ADE
+Precision: 0.0
+Recall: 0.0
+F1-Score: 0
+
+Tag: DURATION
+Precision: 0.8333333333333334
+Recall: 1.0
+F1-Score: 0.9090909090909091
+
+Tag: DRUG
+Precision: 0.9375
+Recall: 0.8823529411764706
+F1-Score: 0.9090909090909091
+
+Tag: FORM
+Precision: 1.0
+Recall: 0.5
+F1-Score: 0.6666666666666666
+
+Tag: FREQUENCY
+Precision: 0.4
+Recall: 0.2857142857142857
+F1-Score: 0.3333333333333333
+
+---------------
+Score for file: 112520
+Tag: DOSAGE
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: ROUTE
+Precision: 0.9
+Recall: 1.0
+F1-Score: 0.9473684210526316
+
+Tag: REASON
+Precision: 1.0
+Recall: 0.25
+F1-Score: 0.4
+
+Tag: STRENGTH
+Precision: 0.8823529411764706
+Recall: 1.0
+F1-Score: 0.9375
+
+Tag: DURATION
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: DRUG
+Precision: 0.7222222222222222
+Recall: 0.8125
+F1-Score: 0.7647058823529411
+
+Tag: FORM
+Precision: 0.8947368421052632
+Recall: 0.9444444444444444
+F1-Score: 0.918918918918919
+
+Tag: FREQUENCY
+Precision: 0.16666666666666666
+Recall: 1.0
+F1-Score: 0.2857142857142857
+
+---------------
+Score for file: 112942
+Tag: DOSAGE
+Precision: 0.7
+Recall: 0.7
+F1-Score: 0.7
+
+Tag: ROUTE
+Precision: 1.0
+Recall: 0.8461538461538461
+F1-Score: 0.9166666666666666
+
+Tag: REASON
+Precision: 0.8
+Recall: 0.2857142857142857
+F1-Score: 0.4210526315789473
+
+Tag: STRENGTH
+Precision: 1.0
+Recall: 0.8888888888888888
+F1-Score: 0.9411764705882353
+
+Tag: ADE
+Precision: 0
+Recall: 0.0
+F1-Score: 0
+
+Tag: DURATION
+Precision: 0.5
+Recall: 0.3333333333333333
+F1-Score: 0.4
+
+Tag: DRUG
+Precision: 0.9428571428571428
+Recall: 0.9705882352941176
+F1-Score: 0.9565217391304348
+
+Tag: FORM
+Precision: 0.9230769230769231
+Recall: 1.0
+F1-Score: 0.9600000000000001
+
+Tag: FREQUENCY
+Precision: 0.3333333333333333
+Recall: 0.4
+F1-Score: 0.3636363636363636
+
+---------------
+Score for file: 113222
+Tag: DOSAGE
+Precision: 1.0
+Recall: 0.9523809523809523
+F1-Score: 0.975609756097561
+
+Tag: ROUTE
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: REASON
+Precision: 0.8181818181818182
+Recall: 0.8181818181818182
+F1-Score: 0.8181818181818182
+
+Tag: STRENGTH
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: ADE
+Precision: 0.375
+Recall: 0.75
+F1-Score: 0.5
+
+Tag: DURATION
+Precision: 0.0
+Recall: 0.0
+F1-Score: 0
+
+Tag: DRUG
+Precision: 0.8604651162790697
+Recall: 0.9736842105263158
+F1-Score: 0.9135802469135803
+
+Tag: FORM
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: FREQUENCY
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+---------------
+Score for file: 113265
+Tag: DOSAGE
+Precision: 0.8125
+Recall: 0.7647058823529411
+F1-Score: 0.787878787878788
+
+Tag: ROUTE
+Precision: 1.0
+Recall: 0.8275862068965517
+F1-Score: 0.9056603773584906
+
+Tag: REASON
+Precision: 0.5909090909090909
+Recall: 0.40625
+F1-Score: 0.4814814814814815
+
+Tag: STRENGTH
+Precision: 0.8076923076923077
+Recall: 1.0
+F1-Score: 0.8936170212765957
+
+Tag: ADE
+Precision: 1.0
+Recall: 0.7142857142857143
+F1-Score: 0.8333333333333333
+
+Tag: DURATION
+Precision: 1.0
+Recall: 0.25
+F1-Score: 0.4
+
+Tag: DRUG
+Precision: 0.8990825688073395
+Recall: 0.9333333333333333
+F1-Score: 0.9158878504672897
+
+Tag: FORM
+Precision: 0.9629629629629629
+Recall: 0.896551724137931
+F1-Score: 0.9285714285714286
+
+Tag: FREQUENCY
+Precision: 0.9545454545454546
+Recall: 0.9130434782608695
+F1-Score: 0.9333333333333332
+
+---------------
+Score for file: 113307
+Tag: DOSAGE
+Precision: 0.25
+Recall: 0.5
+F1-Score: 0.3333333333333333
+
+Tag: ROUTE
+Precision: 0.6666666666666666
+Recall: 1.0
+F1-Score: 0.8
+
+Tag: REASON
+Precision: 0.375
+Recall: 0.25
+F1-Score: 0.3
+
+Tag: STRENGTH
+Precision: 1.0
+Recall: 0.45454545454545453
+F1-Score: 0.625
+
+Tag: ADE
+Precision: 0.0
+Recall: 0
+F1-Score: 0
+
+Tag: DURATION
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: DRUG
+Precision: 0.9393939393939394
+Recall: 0.8857142857142857
+F1-Score: 0.9117647058823529
+
+Tag: FORM
+Precision: 1.0
+Recall: 0.45454545454545453
+F1-Score: 0.625
+
+---------------
+Score for file: 113333
+Tag: DOSAGE
+Precision: 1.0
+Recall: 0.9375
+F1-Score: 0.967741935483871
+
+Tag: ROUTE
+Precision: 0.9523809523809523
+Recall: 0.9090909090909091
+F1-Score: 0.9302325581395349
+
+Tag: REASON
+Precision: 0.8333333333333334
+Recall: 0.7407407407407407
+F1-Score: 0.7843137254901961
+
+Tag: STRENGTH
+Precision: 0.8421052631578947
+Recall: 1.0
+F1-Score: 0.9142857142857143
+
+Tag: ADE
+Precision: 0.5
+Recall: 0.5
+F1-Score: 0.5
+
+Tag: DURATION
+Precision: 0
+Recall: 0.0
+F1-Score: 0
+
+Tag: DRUG
+Precision: 0.8656716417910447
+Recall: 0.9508196721311475
+F1-Score: 0.9062499999999999
+
+Tag: FORM
+Precision: 0.875
+Recall: 1.0
+F1-Score: 0.9333333333333333
+
+Tag: FREQUENCY
+Precision: 0.7368421052631579
+Recall: 0.9333333333333333
+F1-Score: 0.8235294117647058
+
+---------------
+Score for file: 113348
+Tag: DOSAGE
+Precision: 0.875
+Recall: 1.0
+F1-Score: 0.9333333333333333
+
+Tag: ROUTE
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: REASON
+Precision: 0.5714285714285714
+Recall: 0.5
+F1-Score: 0.5333333333333333
+
+Tag: STRENGTH
+Precision: 1.0
+Recall: 0.92
+F1-Score: 0.9583333333333334
+
+Tag: ADE
+Precision: 0.0
+Recall: 0.0
+F1-Score: 0
+
+Tag: DURATION
+Precision: 1.0
+Recall: 0.5
+F1-Score: 0.6666666666666666
+
+Tag: DRUG
+Precision: 0.9473684210526315
+Recall: 0.8571428571428571
+F1-Score: 0.9
+
+Tag: FORM
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: FREQUENCY
+Precision: 0.9285714285714286
+Recall: 0.8125
+F1-Score: 0.8666666666666666
+
+---------------
+Score for file: 113607
+Tag: DOSAGE
+Precision: 0.9375
+Recall: 0.8823529411764706
+F1-Score: 0.9090909090909091
+
+Tag: ROUTE
+Precision: 0.8846153846153846
+Recall: 1.0
+F1-Score: 0.9387755102040816
+
+Tag: REASON
+Precision: 0.75
+Recall: 0.375
+F1-Score: 0.5
+
+Tag: STRENGTH
+Precision: 0.9512195121951219
+Recall: 0.975
+F1-Score: 0.9629629629629629
+
+Tag: ADE
+Precision: 0
+Recall: 0.0
+F1-Score: 0
+
+Tag: DURATION
+Precision: 0.6666666666666666
+Recall: 0.2
+F1-Score: 0.30769230769230765
+
+Tag: DRUG
+Precision: 0.8703703703703703
+Recall: 0.9215686274509803
+F1-Score: 0.8952380952380952
+
+Tag: FORM
+Precision: 0.9565217391304348
+Recall: 0.9166666666666666
+F1-Score: 0.9361702127659574
+
+Tag: FREQUENCY
+Precision: 0.8518518518518519
+Recall: 0.7931034482758621
+F1-Score: 0.8214285714285715
+
+---------------
+Score for file: 113852
+Tag: DOSAGE
+Precision: 0.8571428571428571
+Recall: 0.75
+F1-Score: 0.7999999999999999
+
+Tag: ROUTE
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: REASON
+Precision: 0.0
+Recall: 0.0
+F1-Score: 0
+
+Tag: STRENGTH
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: ADE
+Precision: 0.6666666666666666
+Recall: 1.0
+F1-Score: 0.8
+
+Tag: DURATION
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: DRUG
+Precision: 0.9259259259259259
+Recall: 0.9615384615384616
+F1-Score: 0.9433962264150944
+
+Tag: FORM
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: FREQUENCY
+Precision: 0.7
+Recall: 1.0
+F1-Score: 0.8235294117647058
+
+---------------
+Score for file: 113858
+Tag: DOSAGE
+Precision: 0.8571428571428571
+Recall: 0.75
+F1-Score: 0.7999999999999999
+
+Tag: ROUTE
+Precision: 0.9166666666666666
+Recall: 1.0
+F1-Score: 0.9565217391304348
+
+Tag: REASON
+Precision: 0.8
+Recall: 0.3076923076923077
+F1-Score: 0.4444444444444444
+
+Tag: STRENGTH
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: ADE
+Precision: 0.3333333333333333
+Recall: 0.5
+F1-Score: 0.4
+
+Tag: DURATION
+Precision: 1.0
+Recall: 0.6
+F1-Score: 0.7499999999999999
+
+Tag: DRUG
+Precision: 0.7241379310344828
+Recall: 0.84
+F1-Score: 0.7777777777777777
+
+Tag: FORM
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: FREQUENCY
+Precision: 0.6666666666666666
+Recall: 1.0
+F1-Score: 0.8
+
+---------------
+Score for file: 113963
+Tag: DOSAGE
+Precision: 0.8636363636363636
+Recall: 0.7916666666666666
+F1-Score: 0.8260869565217391
+
+Tag: ROUTE
+Precision: 0.9090909090909091
+Recall: 0.9090909090909091
+F1-Score: 0.9090909090909091
+
+Tag: REASON
+Precision: 0.4827586206896552
+Recall: 0.6086956521739131
+F1-Score: 0.5384615384615384
+
+Tag: STRENGTH
+Precision: 0.9444444444444444
+Recall: 0.918918918918919
+F1-Score: 0.9315068493150684
+
+Tag: ADE
+Precision: 0.8571428571428571
+Recall: 0.6
+F1-Score: 0.7058823529411764
+
+Tag: DURATION
+Precision: 0.6
+Recall: 1.0
+F1-Score: 0.7499999999999999
+
+Tag: DRUG
+Precision: 0.9565217391304348
+Recall: 0.8918918918918919
+F1-Score: 0.9230769230769231
+
+Tag: FORM
+Precision: 1.0
+Recall: 0.967741935483871
+F1-Score: 0.9836065573770492
+
+Tag: FREQUENCY
+Precision: 0.88
+Recall: 0.8461538461538461
+F1-Score: 0.8627450980392156
+
+---------------
+Score for file: 114044
+Tag: DOSAGE
+Precision: 0.8
+Recall: 0.6666666666666666
+F1-Score: 0.7272727272727272
+
+Tag: ROUTE
+Precision: 1.0
+Recall: 0.8571428571428571
+F1-Score: 0.923076923076923
+
+Tag: REASON
+Precision: 0.5
+Recall: 0.5714285714285714
+F1-Score: 0.5333333333333333
+
+Tag: STRENGTH
+Precision: 0.9230769230769231
+Recall: 0.8571428571428571
+F1-Score: 0.888888888888889
+
+Tag: ADE
+Precision: 0.0
+Recall: 0
+F1-Score: 0
+
+Tag: DURATION
+Precision: 0
+Recall: 0.0
+F1-Score: 0
+
+Tag: DRUG
+Precision: 0.9090909090909091
+Recall: 0.967741935483871
+F1-Score: 0.9374999999999999
+
+Tag: FORM
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: FREQUENCY
+Precision: 1.0
+Recall: 0.625
+F1-Score: 0.7692307692307693
+
+---------------
+Score for file: 114211
+Tag: DOSAGE
+Precision: 0.8571428571428571
+Recall: 0.75
+F1-Score: 0.7999999999999999
+
+Tag: ROUTE
+Precision: 1.0
+Recall: 0.9444444444444444
+F1-Score: 0.9714285714285714
+
+Tag: REASON
+Precision: 0.875
+Recall: 0.7
+F1-Score: 0.7777777777777777
+
+Tag: STRENGTH
+Precision: 0.8611111111111112
+Recall: 1.0
+F1-Score: 0.9253731343283582
+
+Tag: DRUG
+Precision: 0.9142857142857143
+Recall: 1.0
+F1-Score: 0.955223880597015
+
+Tag: FORM
+Precision: 0.9166666666666666
+Recall: 0.88
+F1-Score: 0.8979591836734694
+
+Tag: FREQUENCY
+Precision: 0.7916666666666666
+Recall: 0.8636363636363636
+F1-Score: 0.8260869565217391
+
+---------------
+Score for file: 114626
+Tag: DOSAGE
+Precision: 1.0
+Recall: 0.8888888888888888
+F1-Score: 0.9411764705882353
+
+Tag: ROUTE
+Precision: 0.9375
+Recall: 1.0
+F1-Score: 0.967741935483871
+
+Tag: REASON
+Precision: 0.7142857142857143
+Recall: 0.5
+F1-Score: 0.588235294117647
+
+Tag: STRENGTH
+Precision: 1.0
+Recall: 0.9565217391304348
+F1-Score: 0.9777777777777777
+
+Tag: ADE
+Precision: 1.0
+Recall: 0.4444444444444444
+F1-Score: 0.6153846153846153
+
+Tag: DRUG
+Precision: 0.9310344827586207
+Recall: 0.9310344827586207
+F1-Score: 0.9310344827586207
+
+Tag: FORM
+Precision: 0.7647058823529411
+Recall: 1.0
+F1-Score: 0.8666666666666666
+
+Tag: FREQUENCY
+Precision: 0.875
+Recall: 0.875
+F1-Score: 0.875
+
+---------------
+Score for file: 114901
+Tag: DOSAGE
+Precision: 0.9444444444444444
+Recall: 1.0
+F1-Score: 0.9714285714285714
+
+Tag: ROUTE
+Precision: 1.0
+Recall: 0.9565217391304348
+F1-Score: 0.9777777777777777
+
+Tag: REASON
+Precision: 0.5714285714285714
+Recall: 0.6666666666666666
+F1-Score: 0.6153846153846153
+
+Tag: STRENGTH
+Precision: 0.9
+Recall: 0.9310344827586207
+F1-Score: 0.9152542372881356
+
+Tag: ADE
+Precision: 0
+Recall: 0.0
+F1-Score: 0
+
+Tag: DRUG
+Precision: 0.7931034482758621
+Recall: 0.9019607843137255
+F1-Score: 0.8440366972477066
+
+Tag: FORM
+Precision: 0.9714285714285714
+Recall: 0.9444444444444444
+F1-Score: 0.9577464788732395
+
+Tag: FREQUENCY
+Precision: 0.9166666666666666
+Recall: 1.0
+F1-Score: 0.9565217391304348
+
+---------------
+Score for file: 115138
+Tag: DOSAGE
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: ROUTE
+Precision: 1.0
+Recall: 0.875
+F1-Score: 0.9333333333333333
+
+Tag: REASON
+Precision: 1.0
+Recall: 0.42857142857142855
+F1-Score: 0.6
+
+Tag: STRENGTH
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: ADE
+Precision: 1.0
+Recall: 0.3333333333333333
+F1-Score: 0.5
+
+Tag: DURATION
+Precision: 0.0
+Recall: 0
+F1-Score: 0
+
+Tag: DRUG
+Precision: 0.7777777777777778
+Recall: 0.84
+F1-Score: 0.8076923076923077
+
+Tag: FORM
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: FREQUENCY
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+---------------
+Score for file: 115169
+Tag: DOSAGE
+Precision: 1.0
+Recall: 0.8235294117647058
+F1-Score: 0.9032258064516129
+
+Tag: ROUTE
+Precision: 1.0
+Recall: 0.9565217391304348
+F1-Score: 0.9777777777777777
+
+Tag: REASON
+Precision: 0.6428571428571429
+Recall: 0.5294117647058824
+F1-Score: 0.5806451612903226
+
+Tag: STRENGTH
+Precision: 0.9615384615384616
+Recall: 0.8620689655172413
+F1-Score: 0.9090909090909091
+
+Tag: ADE
+Precision: 0.16666666666666666
+Recall: 0.2
+F1-Score: 0.1818181818181818
+
+Tag: DURATION
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: DRUG
+Precision: 0.7894736842105263
+Recall: 0.8490566037735849
+F1-Score: 0.8181818181818182
+
+Tag: FORM
+Precision: 0.8846153846153846
+Recall: 0.9583333333333334
+F1-Score: 0.9199999999999999
+
+Tag: FREQUENCY
+Precision: 0.7333333333333333
+Recall: 0.9166666666666666
+F1-Score: 0.8148148148148148
+
+---------------
+Score for file: 115199
+Tag: DOSAGE
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: ROUTE
+Precision: 1.0
+Recall: 0.5
+F1-Score: 0.6666666666666666
+
+Tag: REASON
+Precision: 0
+Recall: 0.0
+F1-Score: 0
+
+Tag: STRENGTH
+Precision: 0.75
+Recall: 0.75
+F1-Score: 0.75
+
+Tag: ADE
+Precision: 0.0
+Recall: 0
+F1-Score: 0
+
+Tag: DURATION
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: DRUG
+Precision: 0.9
+Recall: 0.8181818181818182
+F1-Score: 0.8571428571428572
+
+Tag: FORM
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: FREQUENCY
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+---------------
+Score for file: 115391
+Tag: DOSAGE
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: ROUTE
+Precision: 0.9473684210526315
+Recall: 0.9473684210526315
+F1-Score: 0.9473684210526315
+
+Tag: REASON
+Precision: 0.5
+Recall: 0.3333333333333333
+F1-Score: 0.4
+
+Tag: STRENGTH
+Precision: 0.9565217391304348
+Recall: 1.0
+F1-Score: 0.9777777777777777
+
+Tag: ADE
+Precision: 0.16666666666666666
+Recall: 1.0
+F1-Score: 0.2857142857142857
+
+Tag: DURATION
+Precision: 0.0
+Recall: 0.0
+F1-Score: 0
+
+Tag: DRUG
+Precision: 0.82
+Recall: 0.82
+F1-Score: 0.82
+
+Tag: FORM
+Precision: 0.92
+Recall: 0.92
+F1-Score: 0.92
+
+Tag: FREQUENCY
+Precision: 0.9375
+Recall: 1.0
+F1-Score: 0.967741935483871
+
+---------------
+Score for file: 115433
+Tag: DOSAGE
+Precision: 0.95
+Recall: 0.7307692307692307
+F1-Score: 0.8260869565217392
+
+Tag: ROUTE
+Precision: 0.75
+Recall: 0.9
+F1-Score: 0.8181818181818182
+
+Tag: REASON
+Precision: 0.4444444444444444
+Recall: 0.36363636363636365
+F1-Score: 0.39999999999999997
+
+Tag: STRENGTH
+Precision: 0.9473684210526315
+Recall: 0.9
+F1-Score: 0.9230769230769231
+
+Tag: ADE
+Precision: 0.2
+Recall: 0.25
+F1-Score: 0.22222222222222224
+
+Tag: DURATION
+Precision: 0.5
+Recall: 0.5
+F1-Score: 0.5
+
+Tag: DRUG
+Precision: 0.9111111111111111
+Recall: 0.8913043478260869
+F1-Score: 0.9010989010989011
+
+Tag: FORM
+Precision: 1.0
+Recall: 0.851063829787234
+F1-Score: 0.9195402298850576
+
+Tag: FREQUENCY
+Precision: 0.7777777777777778
+Recall: 0.6666666666666666
+F1-Score: 0.717948717948718
+
+---------------
+Score for file: 115466
+Tag: DOSAGE
+Precision: 0.9
+Recall: 1.0
+F1-Score: 0.9473684210526316
+
+Tag: ROUTE
+Precision: 0.8235294117647058
+Recall: 1.0
+F1-Score: 0.9032258064516129
+
+Tag: REASON
+Precision: 1.0
+Recall: 0.6
+F1-Score: 0.7499999999999999
+
+Tag: STRENGTH
+Precision: 0.6842105263157895
+Recall: 0.9285714285714286
+F1-Score: 0.7878787878787878
+
+Tag: ADE
+Precision: 0.0
+Recall: 0.0
+F1-Score: 0
+
+Tag: DURATION
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: DRUG
+Precision: 0.8409090909090909
+Recall: 0.8222222222222222
+F1-Score: 0.8314606741573033
+
+Tag: FORM
+Precision: 0.875
+Recall: 0.9333333333333333
+F1-Score: 0.9032258064516129
+
+Tag: FREQUENCY
+Precision: 0.7368421052631579
+Recall: 0.875
+F1-Score: 0.7999999999999999
+
+---------------
+Score for file: 115737
+Tag: DOSAGE
+Precision: 1.0
+Recall: 0.3333333333333333
+F1-Score: 0.5
+
+Tag: ROUTE
+Precision: 1.0
+Recall: 0.6666666666666666
+F1-Score: 0.8
+
+Tag: REASON
+Precision: 0.6363636363636364
+Recall: 0.5
+F1-Score: 0.56
+
+Tag: STRENGTH
+Precision: 1.0
+Recall: 0.75
+F1-Score: 0.8571428571428571
+
+Tag: ADE
+Precision: 0.4
+Recall: 0.3333333333333333
+F1-Score: 0.3636363636363636
+
+Tag: DRUG
+Precision: 0.918918918918919
+Recall: 0.7391304347826086
+F1-Score: 0.8192771084337348
+
+Tag: FORM
+Precision: 0.6666666666666666
+Recall: 0.6666666666666666
+F1-Score: 0.6666666666666666
+
+Tag: FREQUENCY
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+---------------
+Score for file: 115771
+Tag: DOSAGE
+Precision: 0.9
+Recall: 0.9
+F1-Score: 0.9
+
+Tag: ROUTE
+Precision: 0.8421052631578947
+Recall: 0.9411764705882353
+F1-Score: 0.8888888888888888
+
+Tag: REASON
+Precision: 0.6
+Recall: 0.3157894736842105
+F1-Score: 0.41379310344827586
+
+Tag: STRENGTH
+Precision: 0.8666666666666667
+Recall: 0.9285714285714286
+F1-Score: 0.896551724137931
+
+Tag: ADE
+Precision: 0.5
+Recall: 0.5
+F1-Score: 0.5
+
+Tag: DURATION
+Precision: 1.0
+Recall: 0.5714285714285714
+F1-Score: 0.7272727272727273
+
+Tag: DRUG
+Precision: 0.9444444444444444
+Recall: 0.8947368421052632
+F1-Score: 0.918918918918919
+
+Tag: FORM
+Precision: 1.0
+Recall: 0.85
+F1-Score: 0.9189189189189189
+
+Tag: FREQUENCY
+Precision: 0.8888888888888888
+Recall: 0.7619047619047619
+F1-Score: 0.8205128205128205
+
+---------------
+Score for file: 115912
+Tag: DRUG
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: REASON
+Precision: 0
+Recall: 0.0
+F1-Score: 0
+
+Tag: DURATION
+Precision: 0.0
+Recall: 0
+F1-Score: 0
+
+---------------
+Score for file: 116011
+Tag: DOSAGE
+Precision: 1.0
+Recall: 0.9523809523809523
+F1-Score: 0.975609756097561
+
+Tag: ROUTE
+Precision: 0.96
+Recall: 0.96
+F1-Score: 0.96
+
+Tag: REASON
+Precision: 0.8421052631578947
+Recall: 0.7619047619047619
+F1-Score: 0.8
+
+Tag: STRENGTH
+Precision: 0.9130434782608695
+Recall: 1.0
+F1-Score: 0.9545454545454545
+
+Tag: ADE
+Precision: 1.0
+Recall: 0.14285714285714285
+F1-Score: 0.25
+
+Tag: DURATION
+Precision: 0.0
+Recall: 0
+F1-Score: 0
+
+Tag: DRUG
+Precision: 0.8695652173913043
+Recall: 0.8450704225352113
+F1-Score: 0.8571428571428571
+
+Tag: FORM
+Precision: 0.9705882352941176
+Recall: 1.0
+F1-Score: 0.9850746268656716
+
+Tag: FREQUENCY
+Precision: 0.8666666666666667
+Recall: 0.8666666666666667
+F1-Score: 0.8666666666666667
+
+---------------
+Score for file: 116204
+Tag: DOSAGE
+Precision: 0.6666666666666666
+Recall: 0.5
+F1-Score: 0.5714285714285715
+
+Tag: ROUTE
+Precision: 0.9444444444444444
+Recall: 0.8947368421052632
+F1-Score: 0.918918918918919
+
+Tag: REASON
+Precision: 0.3333333333333333
+Recall: 0.25
+F1-Score: 0.28571428571428575
+
+Tag: STRENGTH
+Precision: 0.9696969696969697
+Recall: 0.9696969696969697
+F1-Score: 0.9696969696969697
+
+Tag: ADE
+Precision: 0.0
+Recall: 0.0
+F1-Score: 0
+
+Tag: DURATION
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: DRUG
+Precision: 0.927536231884058
+Recall: 0.8767123287671232
+F1-Score: 0.9014084507042253
+
+Tag: FORM
+Precision: 0
+Recall: 0.0
+F1-Score: 0
+
+Tag: FREQUENCY
+Precision: 0.8
+Recall: 0.9696969696969697
+F1-Score: 0.8767123287671234
+
+---------------
+Score for file: 116237
+Tag: DOSAGE
+Precision: 1.0
+Recall: 0.95
+F1-Score: 0.9743589743589743
+
+Tag: ROUTE
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: REASON
+Precision: 0.5
+Recall: 0.2
+F1-Score: 0.28571428571428575
+
+Tag: STRENGTH
+Precision: 0.8571428571428571
+Recall: 0.8571428571428571
+F1-Score: 0.8571428571428571
+
+Tag: ADE
+Precision: 0.0
+Recall: 0.0
+F1-Score: 0
+
+Tag: DURATION
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: DRUG
+Precision: 0.8888888888888888
+Recall: 0.8648648648648649
+F1-Score: 0.8767123287671232
+
+Tag: FORM
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: FREQUENCY
+Precision: 0.8461538461538461
+Recall: 1.0
+F1-Score: 0.9166666666666666
+
+---------------
+Score for file: 116903
+Tag: DOSAGE
+Precision: 0.5
+Recall: 1.0
+F1-Score: 0.6666666666666666
+
+Tag: ROUTE
+Precision: 1.0
+Recall: 0.625
+F1-Score: 0.7692307692307693
+
+Tag: REASON
+Precision: 0.3333333333333333
+Recall: 0.15384615384615385
+F1-Score: 0.21052631578947367
+
+Tag: STRENGTH
+Precision: 1.0
+Recall: 0.9375
+F1-Score: 0.967741935483871
+
+Tag: ADE
+Precision: 0
+Recall: 0.0
+F1-Score: 0
+
+Tag: DURATION
+Precision: 0.0
+Recall: 0.0
+F1-Score: 0
+
+Tag: DRUG
+Precision: 0.9795918367346939
+Recall: 0.9230769230769231
+F1-Score: 0.9504950495049506
+
+Tag: FORM
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: FREQUENCY
+Precision: 0.4
+Recall: 0.5
+F1-Score: 0.4444444444444445
+
+---------------
+Score for file: 117191
+Tag: DOSAGE
+Precision: 0.9047619047619048
+Recall: 0.95
+F1-Score: 0.9268292682926829
+
+Tag: ROUTE
+Precision: 1.0
+Recall: 0.8888888888888888
+F1-Score: 0.9411764705882353
+
+Tag: REASON
+Precision: 0.5
+Recall: 0.3684210526315789
+F1-Score: 0.4242424242424242
+
+Tag: STRENGTH
+Precision: 1.0
+Recall: 0.975
+F1-Score: 0.9873417721518987
+
+Tag: ADE
+Precision: 0.5714285714285714
+Recall: 0.4444444444444444
+F1-Score: 0.5
+
+Tag: DURATION
+Precision: 0.6666666666666666
+Recall: 0.3333333333333333
+F1-Score: 0.4444444444444444
+
+Tag: DRUG
+Precision: 0.8705882352941177
+Recall: 0.961038961038961
+F1-Score: 0.9135802469135802
+
+Tag: FORM
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: FREQUENCY
+Precision: 0.7391304347826086
+Recall: 0.9444444444444444
+F1-Score: 0.8292682926829269
+
+---------------
+Score for file: 118491
+Tag: DOSAGE
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: ROUTE
+Precision: 1.0
+Recall: 0.8333333333333334
+F1-Score: 0.9090909090909091
+
+Tag: REASON
+Precision: 0.4782608695652174
+Recall: 0.4230769230769231
+F1-Score: 0.44897959183673475
+
+Tag: STRENGTH
+Precision: 0.9090909090909091
+Recall: 1.0
+F1-Score: 0.9523809523809523
+
+Tag: ADE
+Precision: 0.5
+Recall: 0.1
+F1-Score: 0.16666666666666669
+
+Tag: DURATION
+Precision: 0.0
+Recall: 0.0
+F1-Score: 0
+
+Tag: DRUG
+Precision: 0.9436619718309859
+Recall: 0.8701298701298701
+F1-Score: 0.9054054054054054
+
+Tag: FREQUENCY
+Precision: 0.8
+Recall: 0.8888888888888888
+F1-Score: 0.8421052631578948
+
+---------------
+Score for file: 118496
+Tag: DOSAGE
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: ROUTE
+Precision: 1.0
+Recall: 0.875
+F1-Score: 0.9333333333333333
+
+Tag: REASON
+Precision: 0.8571428571428571
+Recall: 0.42857142857142855
+F1-Score: 0.5714285714285714
+
+Tag: STRENGTH
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: ADE
+Precision: 0
+Recall: 0.0
+F1-Score: 0
+
+Tag: DRUG
+Precision: 0.8076923076923077
+Recall: 0.9545454545454546
+F1-Score: 0.875
+
+Tag: FORM
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: FREQUENCY
+Precision: 0.8571428571428571
+Recall: 1.0
+F1-Score: 0.923076923076923
+
+---------------
+Score for file: 119906
+Tag: DOSAGE
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: ROUTE
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: REASON
+Precision: 0.5
+Recall: 0.16666666666666666
+F1-Score: 0.25
+
+Tag: STRENGTH
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: ADE
+Precision: 0.0
+Recall: 0.0
+F1-Score: 0
+
+Tag: DURATION
+Precision: 0.5
+Recall: 0.5
+F1-Score: 0.5
+
+Tag: DRUG
+Precision: 0.8780487804878049
+Recall: 0.8780487804878049
+F1-Score: 0.8780487804878049
+
+Tag: FORM
+Precision: 0.9
+Recall: 1.0
+F1-Score: 0.9473684210526316
+
+Tag: FREQUENCY
+Precision: 0.8181818181818182
+Recall: 0.8181818181818182
+F1-Score: 0.8181818181818182
+
+---------------
+Score for file: 120073
+Tag: DOSAGE
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: REASON
+Precision: 1.0
+Recall: 0.4
+F1-Score: 0.5714285714285715
+
+Tag: ADE
+Precision: 0.0
+Recall: 0
+F1-Score: 0
+
+Tag: DRUG
+Precision: 0.8571428571428571
+Recall: 0.8571428571428571
+F1-Score: 0.8571428571428571
+
+Tag: FORM
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+---------------
+Score for file: 121116
+Tag: DOSAGE
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: ROUTE
+Precision: 0.8571428571428571
+Recall: 0.9230769230769231
+F1-Score: 0.888888888888889
+
+Tag: REASON
+Precision: 0.25
+Recall: 0.25
+F1-Score: 0.25
+
+Tag: STRENGTH
+Precision: 0.9166666666666666
+Recall: 1.0
+F1-Score: 0.9565217391304348
+
+Tag: ADE
+Precision: 0.0
+Recall: 0.0
+F1-Score: 0
+
+Tag: DRUG
+Precision: 0.775
+Recall: 0.9117647058823529
+F1-Score: 0.8378378378378379
+
+Tag: FORM
+Precision: 1.0
+Recall: 0.8571428571428571
+F1-Score: 0.923076923076923
+
+Tag: FREQUENCY
+Precision: 0.7142857142857143
+Recall: 0.8333333333333334
+F1-Score: 0.7692307692307692
+
+---------------
+Score for file: 121169
+Tag: DRUG
+Precision: 0.8666666666666667
+Recall: 0.5416666666666666
+F1-Score: 0.6666666666666667
+
+Tag: REASON
+Precision: 0.3333333333333333
+Recall: 0.25
+F1-Score: 0.28571428571428575
+
+Tag: ROUTE
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: DURATION
+Precision: 0.0
+Recall: 0
+F1-Score: 0
+
+---------------
+Score for file: 121631
+Tag: DOSAGE
+Precision: 0.8888888888888888
+Recall: 0.8888888888888888
+F1-Score: 0.8888888888888888
+
+Tag: ROUTE
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: REASON
+Precision: 0.625
+Recall: 0.625
+F1-Score: 0.625
+
+Tag: STRENGTH
+Precision: 0.8571428571428571
+Recall: 0.9473684210526315
+F1-Score: 0.9
+
+Tag: ADE
+Precision: 0
+Recall: 0.0
+F1-Score: 0
+
+Tag: DRUG
+Precision: 0.8421052631578947
+Recall: 0.8888888888888888
+F1-Score: 0.8648648648648649
+
+Tag: FORM
+Precision: 0.9411764705882353
+Recall: 1.0
+F1-Score: 0.9696969696969697
+
+Tag: FREQUENCY
+Precision: 0.875
+Recall: 0.9333333333333333
+F1-Score: 0.9032258064516129
+
+---------------
+Score for file: 121663
+Tag: DOSAGE
+Precision: 0.8888888888888888
+Recall: 0.8888888888888888
+F1-Score: 0.8888888888888888
+
+Tag: ROUTE
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: REASON
+Precision: 0.6
+Recall: 0.375
+F1-Score: 0.4615384615384615
+
+Tag: STRENGTH
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: ADE
+Precision: 0.6666666666666666
+Recall: 0.4
+F1-Score: 0.5
+
+Tag: DURATION
+Precision: 0.5
+Recall: 0.3333333333333333
+F1-Score: 0.4
+
+Tag: DRUG
+Precision: 0.9565217391304348
+Recall: 0.9565217391304348
+F1-Score: 0.9565217391304348
+
+Tag: FORM
+Precision: 0.7272727272727273
+Recall: 1.0
+F1-Score: 0.8421052631578948
+
+Tag: FREQUENCY
+Precision: 1.0
+Recall: 0.9375
+F1-Score: 0.967741935483871
+
+---------------
+Score for file: 121702
+Tag: DOSAGE
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: ROUTE
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: REASON
+Precision: 1.0
+Recall: 0.8
+F1-Score: 0.888888888888889
+
+Tag: STRENGTH
+Precision: 0.9375
+Recall: 0.9375
+F1-Score: 0.9375
+
+Tag: DURATION
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: DRUG
+Precision: 0.2
+Recall: 0.07692307692307693
+F1-Score: 0.1111111111111111
+
+Tag: FORM
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: FREQUENCY
+Precision: 0.45454545454545453
+Recall: 1.0
+F1-Score: 0.625
+
+---------------
+Score for file: 121861
+Tag: DOSAGE
+Precision: 0.7142857142857143
+Recall: 0.8333333333333334
+F1-Score: 0.7692307692307692
+
+Tag: ROUTE
+Precision: 1.0
+Recall: 0.7368421052631579
+F1-Score: 0.8484848484848484
+
+Tag: REASON
+Precision: 0.8181818181818182
+Recall: 0.4090909090909091
+F1-Score: 0.5454545454545455
+
+Tag: STRENGTH
+Precision: 0.9545454545454546
+Recall: 0.9130434782608695
+F1-Score: 0.9333333333333332
+
+Tag: ADE
+Precision: 0.0
+Recall: 0.0
+F1-Score: 0
+
+Tag: DURATION
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: DRUG
+Precision: 0.9285714285714286
+Recall: 0.8764044943820225
+F1-Score: 0.9017341040462428
+
+Tag: FORM
+Precision: 0.25
+Recall: 1.0
+F1-Score: 0.4
+
+Tag: FREQUENCY
+Precision: 0.8888888888888888
+Recall: 0.5714285714285714
+F1-Score: 0.6956521739130435
+
+---------------
+Score for file: 122090
+Tag: DRUG
+Precision: 1.0
+Recall: 0.8888888888888888
+F1-Score: 0.9411764705882353
+
+Tag: REASON
+Precision: 0.6666666666666666
+Recall: 0.5
+F1-Score: 0.5714285714285715
+
+Tag: ROUTE
+Precision: 0.0
+Recall: 0.0
+F1-Score: 0
+
+Tag: ADE
+Precision: 0
+Recall: 0.0
+F1-Score: 0
+
+---------------
+Score for file: 122223
+Tag: DOSAGE
+Precision: 1.0
+Recall: 0.8
+F1-Score: 0.888888888888889
+
+Tag: ROUTE
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: REASON
+Precision: 0.4444444444444444
+Recall: 0.36363636363636365
+F1-Score: 0.39999999999999997
+
+Tag: STRENGTH
+Precision: 1.0
+Recall: 0.9166666666666666
+F1-Score: 0.9565217391304348
+
+Tag: ADE
+Precision: 0.0
+Recall: 0
+F1-Score: 0
+
+Tag: DURATION
+Precision: 0.0
+Recall: 0
+F1-Score: 0
+
+Tag: DRUG
+Precision: 0.8913043478260869
+Recall: 0.7454545454545455
+F1-Score: 0.8118811881188119
+
+Tag: FORM
+Precision: 1.0
+Recall: 0.875
+F1-Score: 0.9333333333333333
+
+Tag: FREQUENCY
+Precision: 1.0
+Recall: 0.8333333333333334
+F1-Score: 0.9090909090909091
+
+---------------
+Score for file: 122365
+Tag: DOSAGE
+Precision: 1.0
+Recall: 0.8
+F1-Score: 0.888888888888889
+
+Tag: ROUTE
+Precision: 1.0
+Recall: 0.8333333333333334
+F1-Score: 0.9090909090909091
+
+Tag: REASON
+Precision: 0.6363636363636364
+Recall: 0.4666666666666667
+F1-Score: 0.5384615384615385
+
+Tag: STRENGTH
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: ADE
+Precision: 1.0
+Recall: 0.2
+F1-Score: 0.33333333333333337
+
+Tag: DRUG
+Precision: 0.875
+Recall: 0.7291666666666666
+F1-Score: 0.7954545454545454
+
+Tag: FORM
+Precision: 1.0
+Recall: 0.8888888888888888
+F1-Score: 0.9411764705882353
+
+Tag: FREQUENCY
+Precision: 0.5
+Recall: 1.0
+F1-Score: 0.6666666666666666
+
+---------------
+Score for file: 123204
+Tag: DOSAGE
+Precision: 0.8333333333333334
+Recall: 0.625
+F1-Score: 0.7142857142857143
+
+Tag: ROUTE
+Precision: 1.0
+Recall: 0.42857142857142855
+F1-Score: 0.6
+
+Tag: REASON
+Precision: 0.0
+Recall: 0.0
+F1-Score: 0
+
+Tag: STRENGTH
+Precision: 0.875
+Recall: 1.0
+F1-Score: 0.9333333333333333
+
+Tag: ADE
+Precision: 1.0
+Recall: 0.6666666666666666
+F1-Score: 0.8
+
+Tag: DURATION
+Precision: 0.5
+Recall: 0.5
+F1-Score: 0.5
+
+Tag: DRUG
+Precision: 0.8571428571428571
+Recall: 0.8571428571428571
+F1-Score: 0.8571428571428571
+
+Tag: FORM
+Precision: 0.6666666666666666
+Recall: 1.0
+F1-Score: 0.8
+
+Tag: FREQUENCY
+Precision: 0.8
+Recall: 0.8
+F1-Score: 0.8000000000000002
+
+---------------
+Score for file: 123566
+Tag: DOSAGE
+Precision: 0
+Recall: 0.0
+F1-Score: 0
+
+Tag: ROUTE
+Precision: 0
+Recall: 0.0
+F1-Score: 0
+
+Tag: STRENGTH
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: ADE
+Precision: 0.0
+Recall: 0
+F1-Score: 0
+
+Tag: DRUG
+Precision: 0.5
+Recall: 0.75
+F1-Score: 0.6
+
+Tag: FORM
+Precision: 0
+Recall: 0.0
+F1-Score: 0
+
+Tag: FREQUENCY
+Precision: 1.0
+Recall: 0.8333333333333334
+F1-Score: 0.9090909090909091
+
+---------------
+Score for file: 123755
+Tag: DOSAGE
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: ROUTE
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: REASON
+Precision: 0.3333333333333333
+Recall: 0.3333333333333333
+F1-Score: 0.3333333333333333
+
+Tag: STRENGTH
+Precision: 0.9285714285714286
+Recall: 1.0
+F1-Score: 0.962962962962963
+
+Tag: ADE
+Precision: 0
+Recall: 0.0
+F1-Score: 0
+
+Tag: DRUG
+Precision: 0.9642857142857143
+Recall: 0.9642857142857143
+F1-Score: 0.9642857142857143
+
+Tag: FORM
+Precision: 1.0
+Recall: 0.9090909090909091
+F1-Score: 0.9523809523809523
+
+Tag: FREQUENCY
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+---------------
+Score for file: 123807
+Tag: DOSAGE
+Precision: 0.8666666666666667
+Recall: 0.7647058823529411
+F1-Score: 0.8125
+
+Tag: ROUTE
+Precision: 0.9375
+Recall: 0.8823529411764706
+F1-Score: 0.9090909090909091
+
+Tag: REASON
+Precision: 0.5882352941176471
+Recall: 0.5555555555555556
+F1-Score: 0.5714285714285715
+
+Tag: STRENGTH
+Precision: 0.9629629629629629
+Recall: 0.9629629629629629
+F1-Score: 0.9629629629629629
+
+Tag: ADE
+Precision: 0
+Recall: 0.0
+F1-Score: 0
+
+Tag: DURATION
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: DRUG
+Precision: 0.9459459459459459
+Recall: 0.8333333333333334
+F1-Score: 0.8860759493670887
+
+Tag: FORM
+Precision: 0.96
+Recall: 0.96
+F1-Score: 0.96
+
+Tag: FREQUENCY
+Precision: 0.6818181818181818
+Recall: 0.8823529411764706
+F1-Score: 0.7692307692307693
+
+---------------
+Score for file: 123822
+Tag: DOSAGE
+Precision: 0.9230769230769231
+Recall: 0.75
+F1-Score: 0.8275862068965517
+
+Tag: ROUTE
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: REASON
+Precision: 0.5
+Recall: 0.7
+F1-Score: 0.5833333333333334
+
+Tag: STRENGTH
+Precision: 0.9736842105263158
+Recall: 0.925
+F1-Score: 0.9487179487179489
+
+Tag: ADE
+Precision: 0.0
+Recall: 0
+F1-Score: 0
+
+Tag: DURATION
+Precision: 0.5
+Recall: 0.5
+F1-Score: 0.5
+
+Tag: DRUG
+Precision: 0.9516129032258065
+Recall: 0.8805970149253731
+F1-Score: 0.9147286821705426
+
+Tag: FORM
+Precision: 0.8846153846153846
+Recall: 0.92
+F1-Score: 0.9019607843137256
+
+Tag: FREQUENCY
+Precision: 0.8947368421052632
+Recall: 0.7727272727272727
+F1-Score: 0.8292682926829269
+
+---------------
+Score for file: 124142
+Tag: DOSAGE
+Precision: 1.0
+Recall: 0.8181818181818182
+F1-Score: 0.9
+
+Tag: ROUTE
+Precision: 1.0
+Recall: 0.9565217391304348
+F1-Score: 0.9777777777777777
+
+Tag: REASON
+Precision: 0.5
+Recall: 0.3333333333333333
+F1-Score: 0.4
+
+Tag: STRENGTH
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: ADE
+Precision: 0.0
+Recall: 0
+F1-Score: 0
+
+Tag: DURATION
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: DRUG
+Precision: 0.9583333333333334
+Recall: 0.9583333333333334
+F1-Score: 0.9583333333333334
+
+Tag: FORM
+Precision: 0.8888888888888888
+Recall: 0.9411764705882353
+F1-Score: 0.9142857142857143
+
+Tag: FREQUENCY
+Precision: 0.9090909090909091
+Recall: 0.9090909090909091
+F1-Score: 0.9090909090909091
+
+---------------
+Score for file: 124465
+Tag: ROUTE
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: REASON
+Precision: 0.5555555555555556
+Recall: 0.3125
+F1-Score: 0.39999999999999997
+
+Tag: STRENGTH
+Precision: 0.6666666666666666
+Recall: 1.0
+F1-Score: 0.8
+
+Tag: ADE
+Precision: 1.0
+Recall: 0.06666666666666667
+F1-Score: 0.125
+
+Tag: DURATION
+Precision: 0
+Recall: 0.0
+F1-Score: 0
+
+Tag: DRUG
+Precision: 0.8857142857142857
+Recall: 0.96875
+F1-Score: 0.9253731343283582
+
+Tag: FORM
+Precision: 0
+Recall: 0.0
+F1-Score: 0
+
+Tag: FREQUENCY
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+---------------
+Score for file: 125281
+Tag: DOSAGE
+Precision: 0.8823529411764706
+Recall: 1.0
+F1-Score: 0.9375
+
+Tag: ROUTE
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: REASON
+Precision: 0.5
+Recall: 0.3076923076923077
+F1-Score: 0.380952380952381
+
+Tag: STRENGTH
+Precision: 0.6
+Recall: 0.8181818181818182
+F1-Score: 0.6923076923076923
+
+Tag: ADE
+Precision: 0.3333333333333333
+Recall: 1.0
+F1-Score: 0.5
+
+Tag: DURATION
+Precision: 1.0
+Recall: 0.6666666666666666
+F1-Score: 0.8
+
+Tag: DRUG
+Precision: 0.7708333333333334
+Recall: 0.8604651162790697
+F1-Score: 0.8131868131868132
+
+Tag: FORM
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: FREQUENCY
+Precision: 0.8666666666666667
+Recall: 0.8666666666666667
+F1-Score: 0.8666666666666667
+
+---------------
+Score for file: 126085
+Tag: DOSAGE
+Precision: 0.9565217391304348
+Recall: 1.0
+F1-Score: 0.9777777777777777
+
+Tag: ROUTE
+Precision: 1.0
+Recall: 0.9230769230769231
+F1-Score: 0.9600000000000001
+
+Tag: REASON
+Precision: 0.7777777777777778
+Recall: 0.6363636363636364
+F1-Score: 0.7000000000000001
+
+Tag: STRENGTH
+Precision: 0.8333333333333334
+Recall: 0.8695652173913043
+F1-Score: 0.851063829787234
+
+Tag: ADE
+Precision: 0
+Recall: 0.0
+F1-Score: 0
+
+Tag: DRUG
+Precision: 0.8627450980392157
+Recall: 0.88
+F1-Score: 0.8712871287128714
+
+Tag: FORM
+Precision: 1.0
+Recall: 0.9736842105263158
+F1-Score: 0.9866666666666666
+
+Tag: FREQUENCY
+Precision: 0.8333333333333334
+Recall: 0.9090909090909091
+F1-Score: 0.8695652173913043
+
+---------------
+Score for file: 127018
+Tag: DOSAGE
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: ROUTE
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: REASON
+Precision: 1.0
+Recall: 0.25
+F1-Score: 0.4
+
+Tag: STRENGTH
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: ADE
+Precision: 0.6666666666666666
+Recall: 0.4
+F1-Score: 0.5
+
+Tag: DRUG
+Precision: 0.71875
+Recall: 0.8214285714285714
+F1-Score: 0.7666666666666666
+
+Tag: FORM
+Precision: 0.9565217391304348
+Recall: 1.0
+F1-Score: 0.9777777777777777
+
+Tag: FREQUENCY
+Precision: 0.9230769230769231
+Recall: 0.9230769230769231
+F1-Score: 0.9230769230769231
+
+---------------
+Score for file: 129109
+Tag: DOSAGE
+Precision: 0.8421052631578947
+Recall: 0.8
+F1-Score: 0.8205128205128205
+
+Tag: ROUTE
+Precision: 1.0
+Recall: 0.95
+F1-Score: 0.9743589743589743
+
+Tag: REASON
+Precision: 0.75
+Recall: 0.75
+F1-Score: 0.75
+
+Tag: STRENGTH
+Precision: 0.8823529411764706
+Recall: 0.9375
+F1-Score: 0.9090909090909091
+
+Tag: ADE
+Precision: 0
+Recall: 0.0
+F1-Score: 0
+
+Tag: DRUG
+Precision: 0.9393939393939394
+Recall: 0.96875
+F1-Score: 0.9538461538461539
+
+Tag: FORM
+Precision: 0.9722222222222222
+Recall: 0.8974358974358975
+F1-Score: 0.9333333333333333
+
+Tag: FREQUENCY
+Precision: 0.5
+Recall: 0.4117647058823529
+F1-Score: 0.45161290322580644
+
+---------------
+Score for file: 130450
+Tag: DOSAGE
+Precision: 0.5
+Recall: 0.5
+F1-Score: 0.5
+
+Tag: ROUTE
+Precision: 1.0
+Recall: 0.9444444444444444
+F1-Score: 0.9714285714285714
+
+Tag: REASON
+Precision: 0.8333333333333334
+Recall: 0.7142857142857143
+F1-Score: 0.7692307692307692
+
+Tag: STRENGTH
+Precision: 0.9375
+Recall: 0.9375
+F1-Score: 0.9375
+
+Tag: DRUG
+Precision: 0.7307692307692307
+Recall: 0.95
+F1-Score: 0.8260869565217392
+
+Tag: FREQUENCY
+Precision: 0.9230769230769231
+Recall: 0.8571428571428571
+F1-Score: 0.888888888888889
+
+---------------
+Score for file: 131018
+Tag: DOSAGE
+Precision: 1.0
+Recall: 0.8
+F1-Score: 0.888888888888889
+
+Tag: ROUTE
+Precision: 0.8333333333333334
+Recall: 0.625
+F1-Score: 0.7142857142857143
+
+Tag: REASON
+Precision: 0.5
+Recall: 0.5
+F1-Score: 0.5
+
+Tag: STRENGTH
+Precision: 0.7857142857142857
+Recall: 0.7857142857142857
+F1-Score: 0.7857142857142857
+
+Tag: ADE
+Precision: 0.0
+Recall: 0
+F1-Score: 0
+
+Tag: DRUG
+Precision: 0.8461538461538461
+Recall: 0.88
+F1-Score: 0.8627450980392156
+
+Tag: FORM
+Precision: 0.6666666666666666
+Recall: 0.8
+F1-Score: 0.7272727272727272
+
+Tag: FREQUENCY
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+---------------
+Score for file: 131034
+Tag: DOSAGE
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: ROUTE
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: STRENGTH
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: DRUG
+Precision: 0.875
+Recall: 0.875
+F1-Score: 0.875
+
+Tag: FREQUENCY
+Precision: 0.875
+Recall: 0.875
+F1-Score: 0.875
+
+---------------
+Score for file: 131345
+Tag: DOSAGE
+Precision: 0.7333333333333333
+Recall: 0.8461538461538461
+F1-Score: 0.7857142857142856
+
+Tag: ROUTE
+Precision: 1.0
+Recall: 0.95
+F1-Score: 0.9743589743589743
+
+Tag: REASON
+Precision: 0.625
+Recall: 0.3333333333333333
+F1-Score: 0.43478260869565216
+
+Tag: STRENGTH
+Precision: 1.0
+Recall: 0.9523809523809523
+F1-Score: 0.975609756097561
+
+Tag: ADE
+Precision: 0.5
+Recall: 1.0
+F1-Score: 0.6666666666666666
+
+Tag: DURATION
+Precision: 0.0
+Recall: 0
+F1-Score: 0
+
+Tag: DRUG
+Precision: 0.9
+Recall: 0.9183673469387755
+F1-Score: 0.9090909090909091
+
+Tag: FORM
+Precision: 0.9565217391304348
+Recall: 0.9166666666666666
+F1-Score: 0.9361702127659574
+
+Tag: FREQUENCY
+Precision: 0.7857142857142857
+Recall: 0.6111111111111112
+F1-Score: 0.6875000000000001
+
+---------------
+Score for file: 133235
+Tag: DOSAGE
+Precision: 0.9565217391304348
+Recall: 0.9166666666666666
+F1-Score: 0.9361702127659574
+
+Tag: ROUTE
+Precision: 0.9523809523809523
+Recall: 0.8
+F1-Score: 0.8695652173913043
+
+Tag: REASON
+Precision: 0.75
+Recall: 0.75
+F1-Score: 0.75
+
+Tag: STRENGTH
+Precision: 0.9615384615384616
+Recall: 0.8620689655172413
+F1-Score: 0.9090909090909091
+
+Tag: ADE
+Precision: 0.0
+Recall: 0.0
+F1-Score: 0
+
+Tag: DRUG
+Precision: 0.9047619047619048
+Recall: 0.7916666666666666
+F1-Score: 0.8444444444444444
+
+Tag: FORM
+Precision: 0.7954545454545454
+Recall: 0.8974358974358975
+F1-Score: 0.8433734939759037
+
+Tag: FREQUENCY
+Precision: 0.9333333333333333
+Recall: 0.7368421052631579
+F1-Score: 0.8235294117647058
+
+---------------
+Score for file: 135234
+Tag: DOSAGE
+Precision: 0.8620689655172413
+Recall: 0.9615384615384616
+F1-Score: 0.9090909090909091
+
+Tag: ROUTE
+Precision: 0.9736842105263158
+Recall: 0.9487179487179487
+F1-Score: 0.9610389610389611
+
+Tag: REASON
+Precision: 0.7142857142857143
+Recall: 0.7692307692307693
+F1-Score: 0.7407407407407408
+
+Tag: STRENGTH
+Precision: 1.0
+Recall: 0.9743589743589743
+F1-Score: 0.9870129870129869
+
+Tag: ADE
+Precision: 0.5
+Recall: 0.25
+F1-Score: 0.3333333333333333
+
+Tag: DRUG
+Precision: 0.9620253164556962
+Recall: 0.9156626506024096
+F1-Score: 0.9382716049382716
+
+Tag: FORM
+Precision: 0.96
+Recall: 0.9230769230769231
+F1-Score: 0.9411764705882353
+
+Tag: FREQUENCY
+Precision: 0.7368421052631579
+Recall: 0.6829268292682927
+F1-Score: 0.7088607594936709
+
+---------------
+Score for file: 138089
+Tag: DOSAGE
+Precision: 0.25
+Recall: 0.5
+F1-Score: 0.3333333333333333
+
+Tag: ROUTE
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: REASON
+Precision: 0.25
+Recall: 0.3333333333333333
+F1-Score: 0.28571428571428575
+
+Tag: STRENGTH
+Precision: 0.8
+Recall: 0.8571428571428571
+F1-Score: 0.8275862068965518
+
+Tag: ADE
+Precision: 0
+Recall: 0.0
+F1-Score: 0
+
+Tag: DRUG
+Precision: 0.9655172413793104
+Recall: 0.8
+F1-Score: 0.8750000000000001
+
+Tag: FORM
+Precision: 0
+Recall: 0.0
+F1-Score: 0
+
+Tag: FREQUENCY
+Precision: 1.0
+Recall: 0.8181818181818182
+F1-Score: 0.9
+
+---------------
+Score for file: 139178
+Tag: DOSAGE
+Precision: 0.7
+Recall: 0.875
+F1-Score: 0.7777777777777777
+
+Tag: ROUTE
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: REASON
+Precision: 0.6666666666666666
+Recall: 0.5
+F1-Score: 0.5714285714285715
+
+Tag: STRENGTH
+Precision: 0.8333333333333334
+Recall: 1.0
+F1-Score: 0.9090909090909091
+
+Tag: ADE
+Precision: 0.5
+Recall: 0.25
+F1-Score: 0.3333333333333333
+
+Tag: DRUG
+Precision: 0.8947368421052632
+Recall: 0.85
+F1-Score: 0.8717948717948718
+
+Tag: FORM
+Precision: 1.0
+Recall: 0.8823529411764706
+F1-Score: 0.9375
+
+Tag: FREQUENCY
+Precision: 0.8181818181818182
+Recall: 0.6428571428571429
+F1-Score: 0.7200000000000001
+
+---------------
+Score for file: 139825
+Tag: REASON
+Precision: 0
+Recall: 0.0
+F1-Score: 0
+
+Tag: STRENGTH
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: ADE
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: DRUG
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: FREQUENCY
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+---------------
+Score for file: 139955
+Tag: DOSAGE
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: ROUTE
+Precision: 0.8461538461538461
+Recall: 1.0
+F1-Score: 0.9166666666666666
+
+Tag: REASON
+Precision: 0.16666666666666666
+Recall: 0.25
+F1-Score: 0.2
+
+Tag: STRENGTH
+Precision: 0.9411764705882353
+Recall: 0.9411764705882353
+F1-Score: 0.9411764705882353
+
+Tag: ADE
+Precision: 0.5
+Recall: 1.0
+F1-Score: 0.6666666666666666
+
+Tag: DURATION
+Precision: 1.0
+Recall: 0.6666666666666666
+F1-Score: 0.8
+
+Tag: DRUG
+Precision: 1.0
+Recall: 0.9310344827586207
+F1-Score: 0.9642857142857143
+
+Tag: FORM
+Precision: 1.0
+Recall: 0.9047619047619048
+F1-Score: 0.9500000000000001
+
+Tag: FREQUENCY
+Precision: 0.7058823529411765
+Recall: 0.6
+F1-Score: 0.6486486486486486
+
+---------------
+Score for file: 141447
+Tag: DOSAGE
+Precision: 0.875
+Recall: 0.875
+F1-Score: 0.875
+
+Tag: ROUTE
+Precision: 0.7777777777777778
+Recall: 1.0
+F1-Score: 0.8750000000000001
+
+Tag: REASON
+Precision: 0.5
+Recall: 0.3333333333333333
+F1-Score: 0.4
+
+Tag: STRENGTH
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: ADE
+Precision: 0
+Recall: 0.0
+F1-Score: 0
+
+Tag: DURATION
+Precision: 0
+Recall: 0.0
+F1-Score: 0
+
+Tag: DRUG
+Precision: 0.9545454545454546
+Recall: 0.84
+F1-Score: 0.8936170212765958
+
+Tag: FORM
+Precision: 1.0
+Recall: 0.8823529411764706
+F1-Score: 0.9375
+
+Tag: FREQUENCY
+Precision: 0.0
+Recall: 0.0
+F1-Score: 0
+
+---------------
+Score for file: 142444
+Tag: DOSAGE
+Precision: 0.9090909090909091
+Recall: 0.9090909090909091
+F1-Score: 0.9090909090909091
+
+Tag: ROUTE
+Precision: 1.0
+Recall: 0.9090909090909091
+F1-Score: 0.9523809523809523
+
+Tag: REASON
+Precision: 0.5
+Recall: 0.3333333333333333
+F1-Score: 0.4
+
+Tag: STRENGTH
+Precision: 1.0
+Recall: 0.9411764705882353
+F1-Score: 0.9696969696969697
+
+Tag: ADE
+Precision: 0
+Recall: 0.0
+F1-Score: 0
+
+Tag: DRUG
+Precision: 0.9230769230769231
+Recall: 0.7659574468085106
+F1-Score: 0.8372093023255814
+
+Tag: FORM
+Precision: 0.8571428571428571
+Recall: 0.8571428571428571
+F1-Score: 0.8571428571428571
+
+Tag: FREQUENCY
+Precision: 0.2857142857142857
+Recall: 0.2
+F1-Score: 0.23529411764705882
+
+---------------
+Score for file: 144709
+Tag: DRUG
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+---------------
+Score for file: 146543
+Tag: DOSAGE
+Precision: 0.8888888888888888
+Recall: 1.0
+F1-Score: 0.9411764705882353
+
+Tag: ROUTE
+Precision: 0.9166666666666666
+Recall: 1.0
+F1-Score: 0.9565217391304348
+
+Tag: REASON
+Precision: 0.75
+Recall: 0.6
+F1-Score: 0.6666666666666665
+
+Tag: STRENGTH
+Precision: 0.9411764705882353
+Recall: 0.8421052631578947
+F1-Score: 0.8888888888888888
+
+Tag: ADE
+Precision: 0.6666666666666666
+Recall: 0.5
+F1-Score: 0.5714285714285715
+
+Tag: DURATION
+Precision: 0.6666666666666666
+Recall: 1.0
+F1-Score: 0.8
+
+Tag: DRUG
+Precision: 0.9791666666666666
+Recall: 0.9591836734693877
+F1-Score: 0.9690721649484536
+
+Tag: FORM
+Precision: 0.9285714285714286
+Recall: 0.8666666666666667
+F1-Score: 0.896551724137931
+
+Tag: FREQUENCY
+Precision: 0.7142857142857143
+Recall: 0.6666666666666666
+F1-Score: 0.689655172413793
+
+---------------
+Score for file: 146876
+Tag: DOSAGE
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: ROUTE
+Precision: 0.9230769230769231
+Recall: 1.0
+F1-Score: 0.9600000000000001
+
+Tag: REASON
+Precision: 0.2
+Recall: 0.25
+F1-Score: 0.22222222222222224
+
+Tag: STRENGTH
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: ADE
+Precision: 0
+Recall: 0.0
+F1-Score: 0
+
+Tag: DURATION
+Precision: 0.0
+Recall: 0.0
+F1-Score: 0
+
+Tag: DRUG
+Precision: 0.9
+Recall: 0.75
+F1-Score: 0.8181818181818182
+
+Tag: FORM
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: FREQUENCY
+Precision: 0.75
+Recall: 0.3333333333333333
+F1-Score: 0.46153846153846156
+
+---------------
+Score for file: 146944
+Tag: DOSAGE
+Precision: 1.0
+Recall: 0.8333333333333334
+F1-Score: 0.9090909090909091
+
+Tag: ROUTE
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: REASON
+Precision: 0.75
+Recall: 0.375
+F1-Score: 0.5
+
+Tag: STRENGTH
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: ADE
+Precision: 1.0
+Recall: 0.4
+F1-Score: 0.5714285714285715
+
+Tag: DURATION
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: DRUG
+Precision: 0.9736842105263158
+Recall: 0.9487179487179487
+F1-Score: 0.9610389610389611
+
+Tag: FORM
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: FREQUENCY
+Precision: 0.0
+Recall: 0.0
+F1-Score: 0
+
+---------------
+Score for file: 147452
+Tag: DOSAGE
+Precision: 0.2727272727272727
+Recall: 1.0
+F1-Score: 0.42857142857142855
+
+Tag: ROUTE
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: REASON
+Precision: 0.25
+Recall: 0.3333333333333333
+F1-Score: 0.28571428571428575
+
+Tag: STRENGTH
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: DURATION
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: DRUG
+Precision: 0.9
+Recall: 0.84375
+F1-Score: 0.870967741935484
+
+Tag: FORM
+Precision: 0.8333333333333334
+Recall: 0.8333333333333334
+F1-Score: 0.8333333333333334
+
+Tag: FREQUENCY
+Precision: 0.75
+Recall: 0.7058823529411765
+F1-Score: 0.7272727272727272
+
+---------------
+Score for file: 148266
+Tag: DOSAGE
+Precision: 0.5454545454545454
+Recall: 1.0
+F1-Score: 0.7058823529411764
+
+Tag: ROUTE
+Precision: 0.8888888888888888
+Recall: 1.0
+F1-Score: 0.9411764705882353
+
+Tag: REASON
+Precision: 0.375
+Recall: 0.6
+F1-Score: 0.4615384615384615
+
+Tag: STRENGTH
+Precision: 0.8
+Recall: 0.6666666666666666
+F1-Score: 0.7272727272727272
+
+Tag: ADE
+Precision: 0.0
+Recall: 0.0
+F1-Score: 0
+
+Tag: DURATION
+Precision: 1.0
+Recall: 0.5
+F1-Score: 0.6666666666666666
+
+Tag: DRUG
+Precision: 0.896551724137931
+Recall: 0.7647058823529411
+F1-Score: 0.8253968253968255
+
+Tag: FORM
+Precision: 0.8571428571428571
+Recall: 0.5
+F1-Score: 0.631578947368421
+
+Tag: FREQUENCY
+Precision: 1.0
+Recall: 0.8
+F1-Score: 0.888888888888889
+
+---------------
+Score for file: 149071
+Tag: DOSAGE
+Precision: 0.9090909090909091
+Recall: 0.9090909090909091
+F1-Score: 0.9090909090909091
+
+Tag: ROUTE
+Precision: 0.9696969696969697
+Recall: 0.9696969696969697
+F1-Score: 0.9696969696969697
+
+Tag: REASON
+Precision: 0.6666666666666666
+Recall: 0.6
+F1-Score: 0.631578947368421
+
+Tag: STRENGTH
+Precision: 0.96875
+Recall: 0.9393939393939394
+F1-Score: 0.9538461538461539
+
+Tag: ADE
+Precision: 0
+Recall: 0.0
+F1-Score: 0
+
+Tag: DRUG
+Precision: 0.9361702127659575
+Recall: 0.8461538461538461
+F1-Score: 0.8888888888888888
+
+Tag: FORM
+Precision: 1.0
+Recall: 0.8666666666666667
+F1-Score: 0.9285714285714286
+
+Tag: FREQUENCY
+Precision: 0.7931034482758621
+Recall: 0.8518518518518519
+F1-Score: 0.8214285714285715
+
+---------------
+Score for file: 149239
+Tag: ROUTE
+Precision: 0.8571428571428571
+Recall: 0.8571428571428571
+F1-Score: 0.8571428571428571
+
+Tag: REASON
+Precision: 0
+Recall: 0.0
+F1-Score: 0
+
+Tag: STRENGTH
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: ADE
+Precision: 0
+Recall: 0.0
+F1-Score: 0
+
+Tag: DRUG
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: FREQUENCY
+Precision: 0.0
+Recall: 0.0
+F1-Score: 0
+
+---------------
+Score for file: 150030
+Tag: DOSAGE
+Precision: 0.8
+Recall: 0.8
+F1-Score: 0.8000000000000002
+
+Tag: ROUTE
+Precision: 0.6666666666666666
+Recall: 1.0
+F1-Score: 0.8
+
+Tag: REASON
+Precision: 0.3333333333333333
+Recall: 0.16666666666666666
+F1-Score: 0.2222222222222222
+
+Tag: STRENGTH
+Precision: 1.0
+Recall: 0.875
+F1-Score: 0.9333333333333333
+
+Tag: ADE
+Precision: 0
+Recall: 0.0
+F1-Score: 0
+
+Tag: DURATION
+Precision: 0.0
+Recall: 0
+F1-Score: 0
+
+Tag: DRUG
+Precision: 0.9
+Recall: 0.6
+F1-Score: 0.7200000000000001
+
+Tag: FORM
+Precision: 1.0
+Recall: 0.6666666666666666
+F1-Score: 0.8
+
+Tag: FREQUENCY
+Precision: 1.0
+Recall: 0.5714285714285714
+F1-Score: 0.7272727272727273
+
+---------------
+Score for file: 150097
+Tag: DOSAGE
+Precision: 0.8372093023255814
+Recall: 0.9230769230769231
+F1-Score: 0.878048780487805
+
+Tag: ROUTE
+Precision: 0.925
+Recall: 0.925
+F1-Score: 0.925
+
+Tag: REASON
+Precision: 0.5
+Recall: 0.5294117647058824
+F1-Score: 0.5142857142857143
+
+Tag: STRENGTH
+Precision: 0.8571428571428571
+Recall: 0.7894736842105263
+F1-Score: 0.8219178082191781
+
+Tag: ADE
+Precision: 0.0
+Recall: 0
+F1-Score: 0
+
+Tag: DURATION
+Precision: 1.0
+Recall: 0.6666666666666666
+F1-Score: 0.8
+
+Tag: DRUG
+Precision: 0.8787878787878788
+Recall: 0.7733333333333333
+F1-Score: 0.8226950354609929
+
+Tag: FORM
+Precision: 0.8125
+Recall: 0.8666666666666667
+F1-Score: 0.8387096774193549
+
+Tag: FREQUENCY
+Precision: 0.6551724137931034
+Recall: 0.5277777777777778
+F1-Score: 0.5846153846153845
+
+---------------
+Score for file: 150990
+Tag: DOSAGE
+Precision: 0.9714285714285714
+Recall: 0.9714285714285714
+F1-Score: 0.9714285714285714
+
+Tag: ROUTE
+Precision: 1.0
+Recall: 0.9607843137254902
+F1-Score: 0.98
+
+Tag: REASON
+Precision: 0.75
+Recall: 0.631578947368421
+F1-Score: 0.6857142857142857
+
+Tag: STRENGTH
+Precision: 0.9583333333333334
+Recall: 0.9787234042553191
+F1-Score: 0.968421052631579
+
+Tag: ADE
+Precision: 0.0
+Recall: 0
+F1-Score: 0
+
+Tag: DURATION
+Precision: 1.0
+Recall: 0.5
+F1-Score: 0.6666666666666666
+
+Tag: DRUG
+Precision: 0.9512195121951219
+Recall: 0.8041237113402062
+F1-Score: 0.8715083798882682
+
+Tag: FORM
+Precision: 1.0
+Recall: 0.8909090909090909
+F1-Score: 0.9423076923076923
+
+Tag: FREQUENCY
+Precision: 0.8372093023255814
+Recall: 0.8372093023255814
+F1-Score: 0.8372093023255814
+
+---------------
+Score for file: 151232
+Tag: DOSAGE
+Precision: 0.9230769230769231
+Recall: 1.0
+F1-Score: 0.9600000000000001
+
+Tag: ROUTE
+Precision: 1.0
+Recall: 0.9090909090909091
+F1-Score: 0.9523809523809523
+
+Tag: REASON
+Precision: 0.5454545454545454
+Recall: 0.8571428571428571
+F1-Score: 0.6666666666666665
+
+Tag: STRENGTH
+Precision: 0.8823529411764706
+Recall: 1.0
+F1-Score: 0.9375
+
+Tag: ADE
+Precision: 0.0
+Recall: 0
+F1-Score: 0
+
+Tag: DURATION
+Precision: 0.3333333333333333
+Recall: 1.0
+F1-Score: 0.5
+
+Tag: DRUG
+Precision: 0.9833333333333333
+Recall: 1.0
+F1-Score: 0.9915966386554621
+
+Tag: FORM
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: FREQUENCY
+Precision: 0.5714285714285714
+Recall: 0.36363636363636365
+F1-Score: 0.4444444444444444
+
+---------------
+Score for file: 151483
+Tag: DOSAGE
+Precision: 0.8333333333333334
+Recall: 1.0
+F1-Score: 0.9090909090909091
+
+Tag: ROUTE
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: REASON
+Precision: 0.75
+Recall: 0.6
+F1-Score: 0.6666666666666665
+
+Tag: STRENGTH
+Precision: 1.0
+Recall: 0.8571428571428571
+F1-Score: 0.923076923076923
+
+Tag: ADE
+Precision: 0.0
+Recall: 0.0
+F1-Score: 0
+
+Tag: DURATION
+Precision: 0
+Recall: 0.0
+F1-Score: 0
+
+Tag: DRUG
+Precision: 0.9629629629629629
+Recall: 0.9285714285714286
+F1-Score: 0.9454545454545454
+
+Tag: FORM
+Precision: 0.8888888888888888
+Recall: 0.8888888888888888
+F1-Score: 0.8888888888888888
+
+Tag: FREQUENCY
+Precision: 0.8333333333333334
+Recall: 0.625
+F1-Score: 0.7142857142857143
+
+---------------
+Score for file: 152311
+Tag: DOSAGE
+Precision: 0.9705882352941176
+Recall: 1.0
+F1-Score: 0.9850746268656716
+
+Tag: ROUTE
+Precision: 0.95
+Recall: 0.9743589743589743
+F1-Score: 0.9620253164556962
+
+Tag: REASON
+Precision: 0.42857142857142855
+Recall: 0.46153846153846156
+F1-Score: 0.4444444444444445
+
+Tag: STRENGTH
+Precision: 0.9473684210526315
+Recall: 0.972972972972973
+F1-Score: 0.9599999999999999
+
+Tag: ADE
+Precision: 0.0
+Recall: 0.0
+F1-Score: 0
+
+Tag: DURATION
+Precision: 1.0
+Recall: 0.8571428571428571
+F1-Score: 0.923076923076923
+
+Tag: DRUG
+Precision: 0.8947368421052632
+Recall: 0.9444444444444444
+F1-Score: 0.918918918918919
+
+Tag: FORM
+Precision: 0.9310344827586207
+Recall: 0.9310344827586207
+F1-Score: 0.9310344827586207
+
+Tag: FREQUENCY
+Precision: 0.8518518518518519
+Recall: 0.7419354838709677
+F1-Score: 0.7931034482758621
+
+---------------
+Score for file: 152925
+Tag: DOSAGE
+Precision: 0.8571428571428571
+Recall: 1.0
+F1-Score: 0.923076923076923
+
+Tag: ROUTE
+Precision: 0.9166666666666666
+Recall: 0.8461538461538461
+F1-Score: 0.8799999999999999
+
+Tag: REASON
+Precision: 0.0
+Recall: 0.0
+F1-Score: 0
+
+Tag: STRENGTH
+Precision: 0.8
+Recall: 1.0
+F1-Score: 0.888888888888889
+
+Tag: ADE
+Precision: 0.25
+Recall: 1.0
+F1-Score: 0.4
+
+Tag: DURATION
+Precision: 1.0
+Recall: 0.5
+F1-Score: 0.6666666666666666
+
+Tag: DRUG
+Precision: 0.8529411764705882
+Recall: 0.8055555555555556
+F1-Score: 0.8285714285714286
+
+Tag: FORM
+Precision: 0.9166666666666666
+Recall: 1.0
+F1-Score: 0.9565217391304348
+
+Tag: FREQUENCY
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+---------------
+Score for file: 154496
+Tag: DOSAGE
+Precision: 0.95
+Recall: 1.0
+F1-Score: 0.9743589743589743
+
+Tag: ROUTE
+Precision: 1.0
+Recall: 0.8695652173913043
+F1-Score: 0.9302325581395349
+
+Tag: REASON
+Precision: 0.6
+Recall: 1.0
+F1-Score: 0.7499999999999999
+
+Tag: STRENGTH
+Precision: 0.9333333333333333
+Recall: 0.875
+F1-Score: 0.9032258064516129
+
+Tag: ADE
+Precision: 0.0
+Recall: 0.0
+F1-Score: 0
+
+Tag: DRUG
+Precision: 0.96875
+Recall: 0.8157894736842105
+F1-Score: 0.8857142857142857
+
+Tag: FORM
+Precision: 0.9722222222222222
+Recall: 0.9722222222222222
+F1-Score: 0.9722222222222222
+
+Tag: FREQUENCY
+Precision: 0.5555555555555556
+Recall: 0.2777777777777778
+F1-Score: 0.3703703703703704
+
+---------------
+Score for file: 155521
+Tag: DOSAGE
+Precision: 0.9285714285714286
+Recall: 0.8666666666666667
+F1-Score: 0.896551724137931
+
+Tag: ROUTE
+Precision: 0.9333333333333333
+Recall: 0.9333333333333333
+F1-Score: 0.9333333333333333
+
+Tag: REASON
+Precision: 0.75
+Recall: 0.6
+F1-Score: 0.6666666666666665
+
+Tag: STRENGTH
+Precision: 0.9333333333333333
+Recall: 0.7777777777777778
+F1-Score: 0.8484848484848485
+
+Tag: DRUG
+Precision: 0.8260869565217391
+Recall: 0.8260869565217391
+F1-Score: 0.8260869565217391
+
+Tag: FORM
+Precision: 0.9565217391304348
+Recall: 0.88
+F1-Score: 0.9166666666666666
+
+Tag: FREQUENCY
+Precision: 0.5833333333333334
+Recall: 0.5
+F1-Score: 0.5384615384615384
+
+---------------
+Score for file: 156044
+Tag: DOSAGE
+Precision: 0.8
+Recall: 0.8
+F1-Score: 0.8000000000000002
+
+Tag: ROUTE
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: REASON
+Precision: 0.8571428571428571
+Recall: 0.8571428571428571
+F1-Score: 0.8571428571428571
+
+Tag: STRENGTH
+Precision: 0.9
+Recall: 0.9
+F1-Score: 0.9
+
+Tag: ADE
+Precision: 0.0
+Recall: 0.0
+F1-Score: 0
+
+Tag: DURATION
+Precision: 0.0
+Recall: 0
+F1-Score: 0
+
+Tag: DRUG
+Precision: 0.9583333333333334
+Recall: 0.7666666666666667
+F1-Score: 0.8518518518518519
+
+Tag: FORM
+Precision: 0.7142857142857143
+Recall: 0.7142857142857143
+F1-Score: 0.7142857142857143
+
+Tag: FREQUENCY
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+---------------
+Score for file: 156336
+Tag: DOSAGE
+Precision: 0.92
+Recall: 0.9583333333333334
+F1-Score: 0.9387755102040817
+
+Tag: ROUTE
+Precision: 1.0
+Recall: 0.9642857142857143
+F1-Score: 0.9818181818181818
+
+Tag: REASON
+Precision: 0.4
+Recall: 0.2857142857142857
+F1-Score: 0.3333333333333333
+
+Tag: STRENGTH
+Precision: 1.0
+Recall: 0.9696969696969697
+F1-Score: 0.9846153846153847
+
+Tag: ADE
+Precision: 0.0
+Recall: 0.0
+F1-Score: 0
+
+Tag: DURATION
+Precision: 0.375
+Recall: 0.375
+F1-Score: 0.375
+
+Tag: DRUG
+Precision: 0.975
+Recall: 0.8666666666666667
+F1-Score: 0.9176470588235294
+
+Tag: FORM
+Precision: 0.9375
+Recall: 0.8108108108108109
+F1-Score: 0.8695652173913043
+
+Tag: FREQUENCY
+Precision: 0.7272727272727273
+Recall: 0.6666666666666666
+F1-Score: 0.6956521739130435
+
+---------------
+Score for file: 156777
+Tag: DOSAGE
+Precision: 0.6
+Recall: 1.0
+F1-Score: 0.7499999999999999
+
+Tag: ROUTE
+Precision: 0.9090909090909091
+Recall: 1.0
+F1-Score: 0.9523809523809523
+
+Tag: REASON
+Precision: 0.0
+Recall: 0.0
+F1-Score: 0
+
+Tag: STRENGTH
+Precision: 1.0
+Recall: 0.8571428571428571
+F1-Score: 0.923076923076923
+
+Tag: ADE
+Precision: 0.0
+Recall: 0.0
+F1-Score: 0
+
+Tag: DRUG
+Precision: 1.0
+Recall: 0.9629629629629629
+F1-Score: 0.9811320754716981
+
+Tag: FORM
+Precision: 0.0
+Recall: 0.0
+F1-Score: 0
+
+Tag: FREQUENCY
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+---------------
+Score for file: 157103
+Tag: DOSAGE
+Precision: 0.5
+Recall: 0.5
+F1-Score: 0.5
+
+Tag: ROUTE
+Precision: 1.0
+Recall: 0.9375
+F1-Score: 0.967741935483871
+
+Tag: REASON
+Precision: 0.8
+Recall: 0.6666666666666666
+F1-Score: 0.7272727272727272
+
+Tag: STRENGTH
+Precision: 0.9411764705882353
+Recall: 1.0
+F1-Score: 0.9696969696969697
+
+Tag: ADE
+Precision: 0.0
+Recall: 0.0
+F1-Score: 0
+
+Tag: DURATION
+Precision: 0.6666666666666666
+Recall: 0.5
+F1-Score: 0.5714285714285715
+
+Tag: DRUG
+Precision: 1.0
+Recall: 0.9215686274509803
+F1-Score: 0.9591836734693878
+
+Tag: FORM
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: FREQUENCY
+Precision: 0.8823529411764706
+Recall: 0.9375
+F1-Score: 0.9090909090909091
+
+---------------
+Score for file: 157713
+Tag: DOSAGE
+Precision: 1.0
+Recall: 0.5
+F1-Score: 0.6666666666666666
+
+Tag: ROUTE
+Precision: 1.0
+Recall: 0.8571428571428571
+F1-Score: 0.923076923076923
+
+Tag: REASON
+Precision: 0.6666666666666666
+Recall: 0.5714285714285714
+F1-Score: 0.6153846153846153
+
+Tag: STRENGTH
+Precision: 0.9545454545454546
+Recall: 1.0
+F1-Score: 0.9767441860465117
+
+Tag: ADE
+Precision: 1.0
+Recall: 0.5
+F1-Score: 0.6666666666666666
+
+Tag: DURATION
+Precision: 0
+Recall: 0.0
+F1-Score: 0
+
+Tag: DRUG
+Precision: 0.7727272727272727
+Recall: 0.6296296296296297
+F1-Score: 0.6938775510204083
+
+Tag: FORM
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: FREQUENCY
+Precision: 0.875
+Recall: 1.0
+F1-Score: 0.9333333333333333
+
+---------------
+Score for file: 160519
+Tag: DOSAGE
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: ROUTE
+Precision: 0.9696969696969697
+Recall: 0.9411764705882353
+F1-Score: 0.955223880597015
+
+Tag: REASON
+Precision: 0.625
+Recall: 0.47619047619047616
+F1-Score: 0.5405405405405405
+
+Tag: STRENGTH
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: ADE
+Precision: 0.5
+Recall: 0.1
+F1-Score: 0.16666666666666669
+
+Tag: DURATION
+Precision: 1.0
+Recall: 0.5
+F1-Score: 0.6666666666666666
+
+Tag: DRUG
+Precision: 0.9365079365079365
+Recall: 0.9365079365079365
+F1-Score: 0.9365079365079365
+
+Tag: FORM
+Precision: 0.9
+Recall: 0.9
+F1-Score: 0.9
+
+Tag: FREQUENCY
+Precision: 0.9354838709677419
+Recall: 0.9354838709677419
+F1-Score: 0.9354838709677419
+
+---------------
+Score for file: 163764
+Tag: DOSAGE
+Precision: 1.0
+Recall: 0.8888888888888888
+F1-Score: 0.9411764705882353
+
+Tag: ROUTE
+Precision: 1.0
+Recall: 0.8888888888888888
+F1-Score: 0.9411764705882353
+
+Tag: REASON
+Precision: 0.6666666666666666
+Recall: 0.2222222222222222
+F1-Score: 0.3333333333333333
+
+Tag: STRENGTH
+Precision: 0.7142857142857143
+Recall: 0.5
+F1-Score: 0.588235294117647
+
+Tag: ADE
+Precision: 0
+Recall: 0.0
+F1-Score: 0
+
+Tag: DRUG
+Precision: 0.9230769230769231
+Recall: 0.7741935483870968
+F1-Score: 0.8421052631578947
+
+Tag: FORM
+Precision: 0
+Recall: 0.0
+F1-Score: 0
+
+Tag: FREQUENCY
+Precision: 0.8571428571428571
+Recall: 0.6666666666666666
+F1-Score: 0.75
+
+---------------
+Score for file: 164726
+Tag: ROUTE
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: REASON
+Precision: 0
+Recall: 0.0
+F1-Score: 0
+
+Tag: STRENGTH
+Precision: 1.0
+Recall: 0.9230769230769231
+F1-Score: 0.9600000000000001
+
+Tag: ADE
+Precision: 0.0
+Recall: 0.0
+F1-Score: 0
+
+Tag: DRUG
+Precision: 0.9166666666666666
+Recall: 1.0
+F1-Score: 0.9565217391304348
+
+Tag: FREQUENCY
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+---------------
+Score for file: 166054
+Tag: DOSAGE
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: ROUTE
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: REASON
+Precision: 0.4444444444444444
+Recall: 0.5714285714285714
+F1-Score: 0.5
+
+Tag: STRENGTH
+Precision: 0.9411764705882353
+Recall: 1.0
+F1-Score: 0.9696969696969697
+
+Tag: ADE
+Precision: 0.0
+Recall: 0.0
+F1-Score: 0
+
+Tag: DURATION
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: DRUG
+Precision: 0.9846153846153847
+Recall: 0.9411764705882353
+F1-Score: 0.962406015037594
+
+Tag: FORM
+Precision: 1.0
+Recall: 0.9411764705882353
+F1-Score: 0.9696969696969697
+
+Tag: FREQUENCY
+Precision: 0.6666666666666666
+Recall: 0.5333333333333333
+F1-Score: 0.5925925925925926
+
+---------------
+Score for file: 166237
+Tag: DOSAGE
+Precision: 0.92
+Recall: 0.8518518518518519
+F1-Score: 0.8846153846153846
+
+Tag: ROUTE
+Precision: 0.9814814814814815
+Recall: 0.9636363636363636
+F1-Score: 0.9724770642201834
+
+Tag: REASON
+Precision: 0.5238095238095238
+Recall: 0.4230769230769231
+F1-Score: 0.4680851063829788
+
+Tag: STRENGTH
+Precision: 0.9107142857142857
+Recall: 0.9444444444444444
+F1-Score: 0.9272727272727271
+
+Tag: ADE
+Precision: 0.3333333333333333
+Recall: 0.07142857142857142
+F1-Score: 0.11764705882352941
+
+Tag: DURATION
+Precision: 0.6666666666666666
+Recall: 1.0
+F1-Score: 0.8
+
+Tag: DRUG
+Precision: 0.8376068376068376
+Recall: 0.8990825688073395
+F1-Score: 0.8672566371681416
+
+Tag: FORM
+Precision: 0.8372093023255814
+Recall: 1.0
+F1-Score: 0.9113924050632911
+
+Tag: FREQUENCY
+Precision: 0.925
+Recall: 0.9024390243902439
+F1-Score: 0.9135802469135802
+
+---------------
+Score for file: 172206
+Tag: DOSAGE
+Precision: 0.8
+Recall: 0.8
+F1-Score: 0.8000000000000002
+
+Tag: ROUTE
+Precision: 1.0
+Recall: 0.8947368421052632
+F1-Score: 0.9444444444444444
+
+Tag: REASON
+Precision: 0.5
+Recall: 0.2857142857142857
+F1-Score: 0.36363636363636365
+
+Tag: STRENGTH
+Precision: 1.0
+Recall: 0.8888888888888888
+F1-Score: 0.9411764705882353
+
+Tag: ADE
+Precision: 1.0
+Recall: 0.5
+F1-Score: 0.6666666666666666
+
+Tag: DRUG
+Precision: 0.9393939393939394
+Recall: 0.9117647058823529
+F1-Score: 0.9253731343283583
+
+Tag: FORM
+Precision: 1.0
+Recall: 0.8888888888888888
+F1-Score: 0.9411764705882353
+
+Tag: FREQUENCY
+Precision: 0.3333333333333333
+Recall: 0.2222222222222222
+F1-Score: 0.26666666666666666
+
+---------------
+Score for file: 174339
+Tag: DOSAGE
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: ROUTE
+Precision: 1.0
+Recall: 0.92
+F1-Score: 0.9583333333333334
+
+Tag: REASON
+Precision: 0
+Recall: 0.0
+F1-Score: 0
+
+Tag: STRENGTH
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: ADE
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: DURATION
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: DRUG
+Precision: 0.8125
+Recall: 0.9629629629629629
+F1-Score: 0.8813559322033898
+
+Tag: FORM
+Precision: 0.95
+Recall: 1.0
+F1-Score: 0.9743589743589743
+
+Tag: FREQUENCY
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+---------------
+Score for file: 175890
+Tag: DOSAGE
+Precision: 0.9166666666666666
+Recall: 1.0
+F1-Score: 0.9565217391304348
+
+Tag: ROUTE
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: REASON
+Precision: 0.4
+Recall: 0.18181818181818182
+F1-Score: 0.25000000000000006
+
+Tag: STRENGTH
+Precision: 0.8571428571428571
+Recall: 0.8571428571428571
+F1-Score: 0.8571428571428571
+
+Tag: DURATION
+Precision: 1.0
+Recall: 0.5
+F1-Score: 0.6666666666666666
+
+Tag: DRUG
+Precision: 0.9607843137254902
+Recall: 0.9423076923076923
+F1-Score: 0.9514563106796117
+
+Tag: FORM
+Precision: 0.8571428571428571
+Recall: 0.9473684210526315
+F1-Score: 0.9
+
+Tag: FREQUENCY
+Precision: 0.2
+Recall: 0.09090909090909091
+F1-Score: 0.12500000000000003
+
+---------------
+Score for file: 179525
+Tag: DOSAGE
+Precision: 1.0
+Recall: 0.9411764705882353
+F1-Score: 0.9696969696969697
+
+Tag: ROUTE
+Precision: 0.9782608695652174
+Recall: 0.9574468085106383
+F1-Score: 0.967741935483871
+
+Tag: REASON
+Precision: 0.25
+Recall: 0.2
+F1-Score: 0.22222222222222224
+
+Tag: STRENGTH
+Precision: 0.92
+Recall: 0.9387755102040817
+F1-Score: 0.9292929292929293
+
+Tag: ADE
+Precision: 0.0
+Recall: 0
+F1-Score: 0
+
+Tag: DURATION
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: DRUG
+Precision: 0.8870967741935484
+Recall: 0.873015873015873
+F1-Score: 0.88
+
+Tag: FORM
+Precision: 0.9649122807017544
+Recall: 0.9482758620689655
+F1-Score: 0.9565217391304347
+
+Tag: FREQUENCY
+Precision: 0.8529411764705882
+Recall: 0.9354838709677419
+F1-Score: 0.8923076923076922
+
+---------------
+Score for file: 180167
+Tag: DOSAGE
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: ROUTE
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: REASON
+Precision: 0.3
+Recall: 0.42857142857142855
+F1-Score: 0.3529411764705882
+
+Tag: STRENGTH
+Precision: 0.9523809523809523
+Recall: 0.9523809523809523
+F1-Score: 0.9523809523809523
+
+Tag: ADE
+Precision: 0
+Recall: 0.0
+F1-Score: 0
+
+Tag: DURATION
+Precision: 0.6666666666666666
+Recall: 0.6666666666666666
+F1-Score: 0.6666666666666666
+
+Tag: DRUG
+Precision: 0.9642857142857143
+Recall: 0.8709677419354839
+F1-Score: 0.9152542372881356
+
+Tag: FORM
+Precision: 1.0
+Recall: 0.9642857142857143
+F1-Score: 0.9818181818181818
+
+Tag: FREQUENCY
+Precision: 0.7894736842105263
+Recall: 0.8823529411764706
+F1-Score: 0.8333333333333333
+
+---------------
+Score for file: 181143
+Tag: DOSAGE
+Precision: 0.9333333333333333
+Recall: 0.875
+F1-Score: 0.9032258064516129
+
+Tag: ROUTE
+Precision: 1.0
+Recall: 0.9722222222222222
+F1-Score: 0.9859154929577464
+
+Tag: REASON
+Precision: 0.875
+Recall: 0.7777777777777778
+F1-Score: 0.823529411764706
+
+Tag: STRENGTH
+Precision: 1.0
+Recall: 0.9
+F1-Score: 0.9473684210526316
+
+Tag: ADE
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: DRUG
+Precision: 0.8703703703703703
+Recall: 0.8545454545454545
+F1-Score: 0.8623853211009175
+
+Tag: FORM
+Precision: 1.0
+Recall: 0.9642857142857143
+F1-Score: 0.9818181818181818
+
+Tag: FREQUENCY
+Precision: 0.7307692307692307
+Recall: 0.6785714285714286
+F1-Score: 0.7037037037037038
+
+---------------
+Score for file: 181643
+Tag: DOSAGE
+Precision: 0.8780487804878049
+Recall: 0.8181818181818182
+F1-Score: 0.8470588235294119
+
+Tag: ROUTE
+Precision: 1.0
+Recall: 0.8636363636363636
+F1-Score: 0.9268292682926829
+
+Tag: REASON
+Precision: 0.7777777777777778
+Recall: 0.56
+F1-Score: 0.6511627906976745
+
+Tag: STRENGTH
+Precision: 0.75
+Recall: 0.9166666666666666
+F1-Score: 0.8250000000000001
+
+Tag: ADE
+Precision: 0.0
+Recall: 0.0
+F1-Score: 0
+
+Tag: DURATION
+Precision: 0.7692307692307693
+Recall: 0.7692307692307693
+F1-Score: 0.7692307692307693
+
+Tag: DRUG
+Precision: 0.8518518518518519
+Recall: 0.8214285714285714
+F1-Score: 0.8363636363636364
+
+Tag: FORM
+Precision: 0.8783783783783784
+Recall: 0.8666666666666667
+F1-Score: 0.87248322147651
+
+Tag: FREQUENCY
+Precision: 0.896551724137931
+Recall: 0.8125
+F1-Score: 0.8524590163934426
+
+---------------
+Score for file: 183331
+Tag: DOSAGE
+Precision: 1.0
+Recall: 0.5483870967741935
+F1-Score: 0.7083333333333333
+
+Tag: ROUTE
+Precision: 0.8947368421052632
+Recall: 0.9444444444444444
+F1-Score: 0.918918918918919
+
+Tag: REASON
+Precision: 0.6
+Recall: 0.42857142857142855
+F1-Score: 0.5
+
+Tag: STRENGTH
+Precision: 1.0
+Recall: 0.8888888888888888
+F1-Score: 0.9411764705882353
+
+Tag: ADE
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: DRUG
+Precision: 0.9347826086956522
+Recall: 0.7962962962962963
+F1-Score: 0.8599999999999999
+
+Tag: FORM
+Precision: 1.0
+Recall: 0.9411764705882353
+F1-Score: 0.9696969696969697
+
+Tag: FREQUENCY
+Precision: 0.5333333333333333
+Recall: 0.34782608695652173
+F1-Score: 0.4210526315789474
+
+---------------
+Score for file: 183783
+Tag: DOSAGE
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: ROUTE
+Precision: 1.0
+Recall: 0.5
+F1-Score: 0.6666666666666666
+
+Tag: REASON
+Precision: 0.75
+Recall: 0.75
+F1-Score: 0.75
+
+Tag: STRENGTH
+Precision: 0.9615384615384616
+Recall: 1.0
+F1-Score: 0.9803921568627451
+
+Tag: ADE
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: DRUG
+Precision: 0.9
+Recall: 0.9
+F1-Score: 0.9
+
+Tag: FORM
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: FREQUENCY
+Precision: 0.9166666666666666
+Recall: 0.8148148148148148
+F1-Score: 0.8627450980392156
+
+---------------
+Score for file: 185013
+Tag: DOSAGE
+Precision: 1.0
+Recall: 0.875
+F1-Score: 0.9333333333333333
+
+Tag: ROUTE
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: REASON
+Precision: 0.2
+Recall: 0.14285714285714285
+F1-Score: 0.16666666666666666
+
+Tag: STRENGTH
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: DURATION
+Precision: 0
+Recall: 0.0
+F1-Score: 0
+
+Tag: DRUG
+Precision: 0.9642857142857143
+Recall: 0.8181818181818182
+F1-Score: 0.8852459016393442
+
+Tag: FORM
+Precision: 0.9230769230769231
+Recall: 1.0
+F1-Score: 0.9600000000000001
+
+Tag: FREQUENCY
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+---------------
+Score for file: 185289
+Tag: DOSAGE
+Precision: 0.8
+Recall: 0.9230769230769231
+F1-Score: 0.8571428571428571
+
+Tag: ROUTE
+Precision: 0.9285714285714286
+Recall: 0.9629629629629629
+F1-Score: 0.9454545454545454
+
+Tag: REASON
+Precision: 0.42857142857142855
+Recall: 0.35294117647058826
+F1-Score: 0.3870967741935484
+
+Tag: STRENGTH
+Precision: 0.8974358974358975
+Recall: 0.8536585365853658
+F1-Score: 0.875
+
+Tag: ADE
+Precision: 0.0
+Recall: 0.0
+F1-Score: 0
+
+Tag: DURATION
+Precision: 1.0
+Recall: 0.3333333333333333
+F1-Score: 0.5
+
+Tag: DRUG
+Precision: 0.8736842105263158
+Recall: 0.7410714285714286
+F1-Score: 0.8019323671497586
+
+Tag: FORM
+Precision: 0.9512195121951219
+Recall: 0.9512195121951219
+F1-Score: 0.9512195121951219
+
+Tag: FREQUENCY
+Precision: 0.9583333333333334
+Recall: 0.7419354838709677
+F1-Score: 0.8363636363636364
+
+---------------
+Score for file: 185982
+Tag: DOSAGE
+Precision: 0.8333333333333334
+Recall: 0.8333333333333334
+F1-Score: 0.8333333333333334
+
+Tag: ROUTE
+Precision: 1.0
+Recall: 0.875
+F1-Score: 0.9333333333333333
+
+Tag: REASON
+Precision: 0.2
+Recall: 0.08333333333333333
+F1-Score: 0.11764705882352941
+
+Tag: STRENGTH
+Precision: 0.8571428571428571
+Recall: 1.0
+F1-Score: 0.923076923076923
+
+Tag: ADE
+Precision: 0.42857142857142855
+Recall: 0.75
+F1-Score: 0.5454545454545454
+
+Tag: DURATION
+Precision: 0.5
+Recall: 0.25
+F1-Score: 0.3333333333333333
+
+Tag: DRUG
+Precision: 0.8775510204081632
+Recall: 0.9148936170212766
+F1-Score: 0.8958333333333333
+
+Tag: FORM
+Precision: 0.9166666666666666
+Recall: 1.0
+F1-Score: 0.9565217391304348
+
+Tag: FREQUENCY
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+---------------
+Score for file: 189637
+Tag: DOSAGE
+Precision: 1.0
+Recall: 0.92
+F1-Score: 0.9583333333333334
+
+Tag: ROUTE
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: REASON
+Precision: 0.7727272727272727
+Recall: 0.85
+F1-Score: 0.8095238095238095
+
+Tag: STRENGTH
+Precision: 0.9705882352941176
+Recall: 1.0
+F1-Score: 0.9850746268656716
+
+Tag: ADE
+Precision: 0.2857142857142857
+Recall: 0.4
+F1-Score: 0.3333333333333333
+
+Tag: DURATION
+Precision: 0
+Recall: 0.0
+F1-Score: 0
+
+Tag: DRUG
+Precision: 0.9285714285714286
+Recall: 0.896551724137931
+F1-Score: 0.912280701754386
+
+Tag: FORM
+Precision: 0.9722222222222222
+Recall: 0.9459459459459459
+F1-Score: 0.9589041095890412
+
+Tag: FREQUENCY
+Precision: 0.9
+Recall: 0.75
+F1-Score: 0.8181818181818182
+
+---------------
+Score for file: 191061
+Tag: DOSAGE
+Precision: 0.9444444444444444
+Recall: 1.0
+F1-Score: 0.9714285714285714
+
+Tag: ROUTE
+Precision: 0.9629629629629629
+Recall: 0.8387096774193549
+F1-Score: 0.896551724137931
+
+Tag: REASON
+Precision: 0.3333333333333333
+Recall: 0.125
+F1-Score: 0.18181818181818182
+
+Tag: STRENGTH
+Precision: 0.9285714285714286
+Recall: 0.8666666666666667
+F1-Score: 0.896551724137931
+
+Tag: ADE
+Precision: 0.0
+Recall: 0.0
+F1-Score: 0
+
+Tag: DURATION
+Precision: 0.0
+Recall: 0.0
+F1-Score: 0
+
+Tag: DRUG
+Precision: 0.9166666666666666
+Recall: 0.825
+F1-Score: 0.8684210526315789
+
+Tag: FORM
+Precision: 0.8285714285714286
+Recall: 0.9354838709677419
+F1-Score: 0.8787878787878788
+
+Tag: FREQUENCY
+Precision: 0.85
+Recall: 0.7727272727272727
+F1-Score: 0.8095238095238095
+
+---------------
+Score for file: 192002
+Tag: DOSAGE
+Precision: 0.7058823529411765
+Recall: 0.7058823529411765
+F1-Score: 0.7058823529411765
+
+Tag: ROUTE
+Precision: 0.9130434782608695
+Recall: 0.9130434782608695
+F1-Score: 0.9130434782608695
+
+Tag: REASON
+Precision: 0.6923076923076923
+Recall: 1.0
+F1-Score: 0.8181818181818181
+
+Tag: STRENGTH
+Precision: 0.9166666666666666
+Recall: 0.8461538461538461
+F1-Score: 0.8799999999999999
+
+Tag: DURATION
+Precision: 0.4
+Recall: 0.6666666666666666
+F1-Score: 0.5
+
+Tag: DRUG
+Precision: 0.9743589743589743
+Recall: 0.8837209302325582
+F1-Score: 0.9268292682926831
+
+Tag: FORM
+Precision: 0.9
+Recall: 0.8571428571428571
+F1-Score: 0.8780487804878048
+
+Tag: FREQUENCY
+Precision: 0.6875
+Recall: 0.5
+F1-Score: 0.5789473684210527
+
+---------------
+Score for file: 193079
+Tag: DOSAGE
+Precision: 0.9696969696969697
+Recall: 0.9411764705882353
+F1-Score: 0.955223880597015
+
+Tag: ROUTE
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: REASON
+Precision: 0.8695652173913043
+Recall: 0.8695652173913043
+F1-Score: 0.8695652173913043
+
+Tag: STRENGTH
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: ADE
+Precision: 1.0
+Recall: 0.6666666666666666
+F1-Score: 0.8
+
+Tag: DURATION
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: DRUG
+Precision: 0.9344262295081968
+Recall: 0.8028169014084507
+F1-Score: 0.8636363636363635
+
+Tag: FORM
+Precision: 0.9384615384615385
+Recall: 0.953125
+F1-Score: 0.9457364341085271
+
+Tag: FREQUENCY
+Precision: 0.9666666666666667
+Recall: 0.8055555555555556
+F1-Score: 0.8787878787878789
+
+---------------
+Score for file: 196911
+Tag: DOSAGE
+Precision: 1.0
+Recall: 0.8
+F1-Score: 0.888888888888889
+
+Tag: ROUTE
+Precision: 1.0
+Recall: 0.8
+F1-Score: 0.888888888888889
+
+Tag: REASON
+Precision: 0.6
+Recall: 0.375
+F1-Score: 0.4615384615384615
+
+Tag: STRENGTH
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: ADE
+Precision: 0.0
+Recall: 0.0
+F1-Score: 0
+
+Tag: DURATION
+Precision: 0.5
+Recall: 1.0
+F1-Score: 0.6666666666666666
+
+Tag: DRUG
+Precision: 0.9859154929577465
+Recall: 0.8641975308641975
+F1-Score: 0.9210526315789475
+
+Tag: FORM
+Precision: 0.8461538461538461
+Recall: 1.0
+F1-Score: 0.9166666666666666
+
+Tag: FREQUENCY
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+---------------
+Score for file: 198207
+Tag: DOSAGE
+Precision: 0.625
+Recall: 0.8333333333333334
+F1-Score: 0.7142857142857143
+
+Tag: ROUTE
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: REASON
+Precision: 0.4
+Recall: 0.25
+F1-Score: 0.3076923076923077
+
+Tag: STRENGTH
+Precision: 1.0
+Recall: 0.8571428571428571
+F1-Score: 0.923076923076923
+
+Tag: ADE
+Precision: 0
+Recall: 0.0
+F1-Score: 0
+
+Tag: DURATION
+Precision: 1.0
+Recall: 0.5
+F1-Score: 0.6666666666666666
+
+Tag: DRUG
+Precision: 0.9302325581395349
+Recall: 0.8163265306122449
+F1-Score: 0.8695652173913043
+
+Tag: FORM
+Precision: 0.9
+Recall: 0.6923076923076923
+F1-Score: 0.7826086956521738
+
+Tag: FREQUENCY
+Precision: 0.6363636363636364
+Recall: 0.875
+F1-Score: 0.7368421052631579
+
+---------------
+Score for file: 199385
+Tag: DOSAGE
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: ROUTE
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
+
+Tag: REASON
+Precision: 0
+Recall: 0.0
+F1-Score: 0
+
+Tag: STRENGTH
+Precision: 1.0
+Recall: 0.75
+F1-Score: 0.8571428571428571
+
+Tag: DURATION
+Precision: 1.0
+Recall: 0.5
+F1-Score: 0.6666666666666666
+
+Tag: DRUG
+Precision: 0.9285714285714286
+Recall: 0.8125
+F1-Score: 0.8666666666666666
+
+Tag: FORM
+Precision: 1.0
+Recall: 0.8
+F1-Score: 0.888888888888889
+
+Tag: FREQUENCY
+Precision: 0.5
+Recall: 0.3333333333333333
+F1-Score: 0.4
+
+---------------

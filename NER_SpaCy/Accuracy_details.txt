@@ -1,0 +1,606 @@
+Entities for file: 100130
+Accuracy: 57.692307692307686
+
+Entities for file: 100509
+Accuracy: 76.27118644067797
+
+Entities for file: 100511
+Accuracy: 71.875
+
+Entities for file: 100549
+Accuracy: 71.14093959731544
+
+Entities for file: 100759
+Accuracy: 82.11920529801324
+
+Entities for file: 101099
+Accuracy: 87.3015873015873
+
+Entities for file: 101110
+Accuracy: 77.85714285714286
+
+Entities for file: 101161
+Accuracy: 77.94117647058823
+
+Entities for file: 101739
+Accuracy: 80.0
+
+Entities for file: 101786
+Accuracy: 78.32167832167832
+
+Entities for file: 102051
+Accuracy: 84.0
+
+Entities for file: 102068
+Accuracy: 75.92592592592592
+
+Entities for file: 102357
+Accuracy: 84.31372549019608
+
+Entities for file: 102903
+Accuracy: 82.22222222222221
+
+Entities for file: 102913
+Accuracy: 83.19327731092437
+
+Entities for file: 103430
+Accuracy: 86.79245283018868
+
+Entities for file: 103480
+Accuracy: 81.30081300813008
+
+Entities for file: 103518
+Accuracy: 97.87234042553192
+
+Entities for file: 103761
+Accuracy: 85.97014925373134
+
+Entities for file: 103878
+Accuracy: 83.78378378378379
+
+Entities for file: 103903
+Accuracy: 77.77777777777779
+
+Entities for file: 103928
+Accuracy: 82.1256038647343
+
+Entities for file: 103930
+Accuracy: 88.40579710144928
+
+Entities for file: 104021
+Accuracy: 82.4390243902439
+
+Entities for file: 104140
+Accuracy: 92.90780141843972
+
+Entities for file: 104168
+Accuracy: 92.47311827956989
+
+Entities for file: 104271
+Accuracy: 82.09876543209876
+
+Entities for file: 104390
+Accuracy: 71.42857142857143
+
+Entities for file: 104446
+Accuracy: 88.73239436619718
+
+Entities for file: 104549
+Accuracy: 80.06535947712419
+
+Entities for file: 104665
+Accuracy: 84.87394957983193
+
+Entities for file: 104757
+Accuracy: 85.06787330316742
+
+Entities for file: 104788
+Accuracy: 44.827586206896555
+
+Entities for file: 104929
+Accuracy: 79.54545454545455
+
+Entities for file: 104948
+Accuracy: 73.44398340248964
+
+Entities for file: 105088
+Accuracy: 76.26262626262627
+
+Entities for file: 105383
+Accuracy: 31.11111111111111
+
+Entities for file: 105444
+Accuracy: 83.00970873786407
+
+Entities for file: 105446
+Accuracy: 97.14285714285714
+
+Entities for file: 105475
+Accuracy: 91.54929577464789
+
+Entities for file: 105537
+Accuracy: 86.76470588235294
+
+Entities for file: 105579
+Accuracy: 90.4
+
+Entities for file: 105585
+Accuracy: 89.9497487437186
+
+Entities for file: 105605
+Accuracy: 93.47826086956522
+
+Entities for file: 105885
+Accuracy: 82.05128205128204
+
+Entities for file: 106015
+Accuracy: 73.50427350427351
+
+Entities for file: 106076
+Accuracy: 80.16528925619835
+
+Entities for file: 106334
+Accuracy: 79.24528301886792
+
+Entities for file: 106349
+Accuracy: 86.74698795180723
+
+Entities for file: 106369
+Accuracy: 92.51700680272108
+
+Entities for file: 106588
+Accuracy: 88.59934853420195
+
+Entities for file: 106792
+Accuracy: 90.0
+
+Entities for file: 106915
+Accuracy: 81.41592920353983
+
+Entities for file: 106945
+Accuracy: 88.06818181818183
+
+Entities for file: 106961
+Accuracy: 72.39263803680981
+
+Entities for file: 106967
+Accuracy: 75.79365079365078
+
+Entities for file: 106993
+Accuracy: 88.12260536398468
+
+Entities for file: 107128
+Accuracy: 92.5
+
+Entities for file: 107202
+Accuracy: 83.85093167701864
+
+Entities for file: 107421
+Accuracy: 92.01680672268907
+
+Entities for file: 107515
+Accuracy: 83.94648829431438
+
+Entities for file: 107828
+Accuracy: 98.71794871794873
+
+Entities for file: 107902
+Accuracy: 79.76190476190477
+
+Entities for file: 108343
+Accuracy: 86.44578313253012
+
+Entities for file: 108539
+Accuracy: 76.47058823529412
+
+Entities for file: 108816
+Accuracy: 86.4406779661017
+
+Entities for file: 108950
+Accuracy: 80.53097345132744
+
+Entities for file: 109263
+Accuracy: 78.74015748031496
+
+Entities for file: 109330
+Accuracy: 92.0
+
+Entities for file: 109397
+Accuracy: 89.17525773195877
+
+Entities for file: 109627
+Accuracy: 86.33879781420765
+
+Entities for file: 109645
+Accuracy: 89.47368421052632
+
+Entities for file: 109698
+Accuracy: 98.26086956521739
+
+Entities for file: 109724
+Accuracy: 90.09584664536742
+
+Entities for file: 110135
+Accuracy: 84.86055776892431
+
+Entities for file: 110140
+Accuracy: 85.91549295774648
+
+Entities for file: 110162
+Accuracy: 83.18181818181817
+
+Entities for file: 110559
+Accuracy: 86.76470588235294
+
+Entities for file: 110731
+Accuracy: 98.50746268656717
+
+Entities for file: 110753
+Accuracy: 92.9245283018868
+
+Entities for file: 110891
+Accuracy: 69.01408450704226
+
+Entities for file: 111160
+Accuracy: 90.63670411985018
+
+Entities for file: 111274
+Accuracy: 86.4406779661017
+
+Entities for file: 111341
+Accuracy: 86.75078864353313
+
+Entities for file: 112226
+Accuracy: 87.5598086124402
+
+Entities for file: 112329
+Accuracy: 69.6969696969697
+
+Entities for file: 112342
+Accuracy: 83.42105263157895
+
+Entities for file: 112350
+Accuracy: 88.46153846153845
+
+Entities for file: 112418
+Accuracy: 64.28571428571429
+
+Entities for file: 112445
+Accuracy: 91.52542372881356
+
+Entities for file: 112446
+Accuracy: 64.70588235294117
+
+Entities for file: 112520
+Accuracy: 87.83783783783784
+
+Entities for file: 112942
+Accuracy: 77.22772277227723
+
+Entities for file: 113222
+Accuracy: 101.82926829268293
+
+Entities for file: 113265
+Accuracy: 80.2919708029197
+
+Entities for file: 113307
+Accuracy: 66.21621621621621
+
+Entities for file: 113333
+Accuracy: 86.26373626373626
+
+Entities for file: 113348
+Accuracy: 83.7037037037037
+
+Entities for file: 113607
+Accuracy: 84.43396226415094
+
+Entities for file: 113852
+Accuracy: 86.56716417910447
+
+Entities for file: 113858
+Accuracy: 81.81818181818183
+
+Entities for file: 113963
+Accuracy: 83.9506172839506
+
+Entities for file: 114044
+Accuracy: 80.0
+
+Entities for file: 114211
+Accuracy: 94.76744186046511
+
+Entities for file: 114626
+Accuracy: 86.9281045751634
+
+Entities for file: 114901
+Accuracy: 90.9090909090909
+
+Entities for file: 115138
+Accuracy: 78.64077669902912
+
+Entities for file: 115169
+Accuracy: 85.71428571428571
+
+Entities for file: 115199
+Accuracy: 73.68421052631578
+
+Entities for file: 115391
+Accuracy: 88.53503184713377
+
+Entities for file: 115433
+Accuracy: 84.24908424908425
+
+Entities for file: 115466
+Accuracy: 86.5079365079365
+
+Entities for file: 115737
+Accuracy: 61.05263157894737
+
+Entities for file: 115771
+Accuracy: 79.64071856287424
+
+Entities for file: 115912
+Accuracy: 75.0
+
+Entities for file: 116011
+Accuracy: 84.11214953271028
+
+Entities for file: 116204
+Accuracy: 80.28846153846155
+
+Entities for file: 116237
+Accuracy: 83.03030303030303
+
+Entities for file: 116903
+Accuracy: 72.38095238095238
+
+Entities for file: 117191
+Accuracy: 84.61538461538461
+
+Entities for file: 118491
+Accuracy: 71.42857142857143
+
+Entities for file: 118496
+Accuracy: 78.87323943661971
+
+Entities for file: 119906
+Accuracy: 75.43859649122807
+
+Entities for file: 120073
+Accuracy: 64.28571428571429
+
+Entities for file: 121116
+Accuracy: 81.25
+
+Entities for file: 121169
+Accuracy: 48.275862068965516
+
+Entities for file: 121631
+Accuracy: 88.79310344827587
+
+Entities for file: 121663
+Accuracy: 89.92248062015504
+
+Entities for file: 121702
+Accuracy: 86.86868686868688
+
+Entities for file: 121861
+Accuracy: 71.85929648241206
+
+Entities for file: 122090
+Accuracy: 70.83333333333334
+
+Entities for file: 122223
+Accuracy: 72.22222222222221
+
+Entities for file: 122365
+Accuracy: 72.54901960784314
+
+Entities for file: 123204
+Accuracy: 64.36781609195403
+
+Entities for file: 123566
+Accuracy: 72.0
+
+Entities for file: 123755
+Accuracy: 91.66666666666666
+
+Entities for file: 123807
+Accuracy: 77.48917748917748
+
+Entities for file: 123822
+Accuracy: 83.64485981308411
+
+Entities for file: 124142
+Accuracy: 85.34031413612566
+
+Entities for file: 124465
+Accuracy: 59.45945945945946
+
+Entities for file: 125281
+Accuracy: 82.63888888888889
+
+Entities for file: 126085
+Accuracy: 87.36263736263736
+
+Entities for file: 127018
+Accuracy: 90.98360655737704
+
+Entities for file: 129109
+Accuracy: 81.0126582278481
+
+Entities for file: 130450
+Accuracy: 90.9090909090909
+
+Entities for file: 131018
+Accuracy: 81.94444444444444
+
+Entities for file: 131034
+Accuracy: 93.75
+
+Entities for file: 131345
+Accuracy: 81.98757763975155
+
+Entities for file: 133235
+Accuracy: 75.11961722488039
+
+Entities for file: 135234
+Accuracy: 84.84848484848484
+
+Entities for file: 138089
+Accuracy: 79.48717948717949
+
+Entities for file: 139178
+Accuracy: 79.3103448275862
+
+Entities for file: 139825
+Accuracy: 83.33333333333334
+
+Entities for file: 139955
+Accuracy: 86.01398601398601
+
+Entities for file: 141447
+Accuracy: 77.21518987341773
+
+Entities for file: 142444
+Accuracy: 73.6
+
+Entities for file: 144709
+Accuracy: 100.0
+
+Entities for file: 146543
+Accuracy: 87.96992481203007
+
+Entities for file: 146876
+Accuracy: 80.72289156626506
+
+Entities for file: 146944
+Accuracy: 80.0
+
+Entities for file: 147452
+Accuracy: 82.6086956521739
+
+Entities for file: 148266
+Accuracy: 69.87951807228916
+
+Entities for file: 149071
+Accuracy: 87.67772511848341
+
+Entities for file: 149239
+Accuracy: 85.29411764705883
+
+Entities for file: 150030
+Accuracy: 58.9041095890411
+
+Entities for file: 150097
+Accuracy: 71.75324675324676
+
+Entities for file: 150990
+Accuracy: 82.90598290598291
+
+Entities for file: 151232
+Accuracy: 86.86131386861314
+
+Entities for file: 151483
+Accuracy: 79.72972972972973
+
+Entities for file: 152311
+Accuracy: 89.3470790378007
+
+Entities for file: 152925
+Accuracy: 85.85858585858585
+
+Entities for file: 154496
+Accuracy: 82.35294117647058
+
+Entities for file: 155521
+Accuracy: 77.39130434782608
+
+Entities for file: 156044
+Accuracy: 80.0
+
+Entities for file: 156336
+Accuracy: 75.35714285714286
+
+Entities for file: 156777
+Accuracy: 87.32394366197182
+
+Entities for file: 157103
+Accuracy: 83.76068376068376
+
+Entities for file: 157713
+Accuracy: 75.59055118110236
+
+Entities for file: 160519
+Accuracy: 92.61538461538461
+
+Entities for file: 163764
+Accuracy: 60.49382716049383
+
+Entities for file: 164726
+Accuracy: 94.0
+
+Entities for file: 166054
+Accuracy: 85.52631578947368
+
+Entities for file: 166237
+Accuracy: 85.98901098901099
+
+Entities for file: 172206
+Accuracy: 78.72340425531915
+
+Entities for file: 174339
+Accuracy: 96.8503937007874
+
+Entities for file: 175890
+Accuracy: 79.54545454545455
+
+Entities for file: 179525
+Accuracy: 96.19377162629758
+
+Entities for file: 180167
+Accuracy: 82.24852071005917
+
+Entities for file: 181143
+Accuracy: 84.23645320197043
+
+Entities for file: 181643
+Accuracy: 81.63841807909604
+
+Entities for file: 183331
+Accuracy: 70.96774193548387
+
+Entities for file: 183783
+Accuracy: 91.58878504672897
+
+Entities for file: 185013
+Accuracy: 95.04950495049505
+
+Entities for file: 185289
+Accuracy: 79.0
+
+Entities for file: 185982
+Accuracy: 76.47058823529412
+
+Entities for file: 189637
+Accuracy: 86.66666666666667
+
+Entities for file: 191061
+Accuracy: 80.32786885245902
+
+Entities for file: 192002
+Accuracy: 79.26829268292683
+
+Entities for file: 193079
+Accuracy: 90.44585987261146
+
+Entities for file: 196911
+Accuracy: 73.79310344827587
+
+Entities for file: 198207
+Accuracy: 75.72815533980582
+
+Entities for file: 199385
+Accuracy: 75.0
+
